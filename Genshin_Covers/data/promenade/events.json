@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "liyue",
+		"player1": "xingqiu-player",
+		"player2": "chongyun",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "emptygf",
+		"bpm": 128,
+		"arrowSkin": "entitynotes",
+		"needsVoices": true,
+		"song": "promenade"
+	}
+}

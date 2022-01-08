@@ -1,0 +1,57 @@
+{
+	"storyName": "Genshin Invasion",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Accelerant",
+			"hank",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ballistic",
+			"whittycrazy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Promenade",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Genshin Week"
+}

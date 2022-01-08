@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "inazuma",
+		"player1": "bf",
+		"player2": "keqing-nervous",
+		"player3": null,
+		"events": [
+			[
+				23496.5034965035,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"440"
+					]
+				]
+			],
+			[
+				24755.2447552447,
+				[
+					[
+						"Hey!",
+						"Something else",
+						"1"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				25174.8251748252,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85594.4055944056,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"440"
+					]
+				]
+			],
+			[
+				86853.1468531468,
+				[
+					[
+						"Hey!",
+						"Something else",
+						"1"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				87272.7272727273,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 143,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "only my railgun"
+	}
+}
