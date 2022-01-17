@@ -1,0 +1,58 @@
+{
+	"storyName": "even more genshin lmao",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Power Link",
+			"rshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Memories",
+			"bb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Endless",
+			"majin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Kaboom",
+			"demoman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

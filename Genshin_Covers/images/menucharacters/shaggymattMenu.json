@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "M ShaggyMatt Idle",
+	"position": [
+		100,
+		20
+	],
+	"scale": 0.95,
+	"image": "Menu_ShaggyMatt"
+}

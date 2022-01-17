@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shenhe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shenhe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shenhe right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shenhe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shenhe up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shenhe",
+	"position": [
+		-350,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		228,
+		228
+	],
+	"camera_position": [
+		180,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

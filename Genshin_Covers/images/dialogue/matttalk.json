@@ -1,0 +1,24 @@
+{
+	"position": [
+		80,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.35,
+	"image": "matt talk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Me but talk talk",
+			"loop_name": "Me but talk talk"
+		}
+	]
+}

@@ -1,10 +1,10 @@
 function onCreate()
     makeAnimatedLuaSprite('bf', 'BOYFRIEND', 500, 400)
-    luaSpriteAddAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, true)
+    luaSpriteAddAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, false)
     addLuaSprite('bf', true);
 
     makeAnimatedLuaSprite('bfscared', 'BOYFRIEND_TABI', 500, 400)
-    luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, true)
+    luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, false)
 end
 
 function onBeatHit()
@@ -17,6 +17,9 @@ function onBeatHit()
         removeLuaSprite('bfscared', false)
         addLuaSprite('bf', true)
     end
-    luaSpritePlayAnimation('bf', 'idle', true)
-    luaSpritePlayAnimation('bfscared', 'idle', true)
+
+    if curBeat % 2 == 0 then
+        luaSpritePlayAnimation('bf', 'idle', true)
+        luaSpritePlayAnimation('bfscared', 'idle', true)
+    end
 end

@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				19,
+				-20
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Sing Left"
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				23,
+				-50
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Sing Down"
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				63
+				-11,
+				53
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Sing Up"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				42
-			],
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Sing Right"
+			"name": "Sing Up",
+			"indices": []
 		},
 		{
-			"loop": true,
+			"offsets": [
+				-10,
+				32
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
+			"loop": false,
 			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Whitty_assets",
 	"position": [
-		0,
-		0
+		-70,
+		3
 	],
 	"healthicon": "Whitty",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		60
 	],
 	"camera_position": [
-		100,
-		70
+		0,
+		-50
 	],
 	"sing_duration": 6.1,
 	"scale": 1

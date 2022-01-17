@@ -2,13 +2,18 @@
 	"storyName": "Genshin Invasion",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Accelerant",
@@ -39,7 +44,7 @@
 		],
 		[
 			"Promenade",
-			"face",
+			"nikusa",
 			[
 				146,
 				113,
@@ -48,10 +53,5 @@
 		]
 	],
 	"hideStoryMode": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"weekName": "Genshin Week"
 }

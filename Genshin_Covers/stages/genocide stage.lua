@@ -47,7 +47,12 @@ function onCreate()
    addLuaSprite('Destroyed_boombox',false);
 
    makeAnimatedLuaSprite('sexualintercourse5', 'PostExpGF_Assets', 850,400);
-   addAnimationByPrefix('sexualintercourse5', 'first', 'GF_LayedDownHurt', 24, true);
-   objectPlayAnimation('sexualintercourse5', 'first');
+   addAnimationByPrefix('sexualintercourse5', 'first', 'GF_LayedDownHurt', 24, false);
    addLuaSprite('sexualintercourse5', false);
+end
+
+function onBeatHit()
+   if curBeat % 2 == 0 then
+      objectPlayAnimation('sexualintercourse5', 'first', true);
+   end
 end

@@ -2,13 +2,14 @@
 	"storyName": "more genshin lmao",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
@@ -26,7 +27,7 @@
 		],
 		[
 			"Thunderstorm",
-			"face",
+			"rshaggy",
 			[
 				146,
 				113,
@@ -52,6 +53,5 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
 	"weekName": "Genshin Week 2"
 }

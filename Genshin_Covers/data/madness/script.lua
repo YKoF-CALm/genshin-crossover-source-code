@@ -19,9 +19,8 @@ function onCreate()
     addCharacterToList('signDeath', 'boyfriend');
 
     makeAnimatedLuaSprite('bfscared', 'BOYFRIEND_TABI', 600, 450)
-    luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, true)
+    luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, false)
     addLuaSprite('bfscared', true)
-    luaSpritePlayAnimation('bfscared', 'idle', true)
     
     makeLuaSprite('TrickyStatic', 'TrickyStatic', -380, -90);
     scaleLuaSprite('TrickyStatic', 10, 10);
@@ -283,6 +282,12 @@ trickyCutsceneStrings = {
         runTimer('stringCutSceneAngles', 0.02, 500)
     end,
 }
+
+function onBeatHit()
+    if curBeat % 2 == 0 then
+        luaSpritePlayAnimation('bfscared', 'idle', true)
+    end
+end
 
 function opponentNoteHit(id, direction, noteType, isSustainNote)
 

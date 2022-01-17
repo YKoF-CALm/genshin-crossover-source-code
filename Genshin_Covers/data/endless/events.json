@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "liyue",
+		"player1": "bf-GI",
+		"player2": "hu-tao-opponent",
+		"player3": null,
+		"events": [
+			[
+				87096.7741935485,
+				[
+					[
+						"noteskinchange",
+						"Majin_Notes",
+						"noteSplashes-maijin"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "endless"
+	}
+}
