@@ -1,0 +1,14 @@
+Update 0.1
+-Genshin Covers
+    -Added Endless, Gospel, Kaboom, Memories and Power Link
+    -Thunderstorm and Promenade now have Red Shaggy and Nikusa icons in Freeplay
+    -Thunderstorm now includes Holofunk arrows for Aloe
+    -Raiden Shogun sprites fixed, she's smooth now
+    -Background BF sprites now coordinated with the beat
+
+Release (Update 0)
+-Genshin Covers
+    -Released modpack, with Accelerant, Ballistic, Dusk, Genocide, Madness, Promenade, Satin Panties and Thunderstorm covers
+        -Accelerant also comes with 2 alternate levels, as well as Overcharted in Easy
+-Genshin Covers (C)
+    -Released modpack, with Only My Railgun cover
