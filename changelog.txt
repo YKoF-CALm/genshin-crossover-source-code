@@ -1,3 +1,10 @@
+Update 0.1.1
+-Genshin Covers
+    -Added credits to all external assets used
+    -Lowered the volume for the blast sound effect for Kaboom
+-Genshin Covers (C)
+    -Added credits to all external assets used
+
 Update 0.1
 -Genshin Covers
     -Added Endless, Gospel, Kaboom, Memories and Power Link
