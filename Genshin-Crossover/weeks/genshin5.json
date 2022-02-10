@@ -1,0 +1,49 @@
+{
+	"storyName": "Some more covers yay",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Guns",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Portrait",
+			"hallow",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"It's Complicated Doki",
+			"sayori",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

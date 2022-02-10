@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "city",
+		"player1": "hu-tao-alt-player",
+		"player2": "zhongli",
+		"player3": null,
+		"events": [
+			[
+				87647.0588235294,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				89803.9215686274,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				90980.3921568627,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				92941.1764705882,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				94117.6470588235,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				96078.431372549,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				97254.9019607843,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				99215.6862745098,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.5, 0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-nospeaker",
+		"bpm": 153,
+		"arrowSkin": "notes/entitynotes",
+		"needsVoices": true,
+		"song": "Godrays"
+	}
+}

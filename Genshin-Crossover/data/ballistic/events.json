@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alley-balls",
+		"player1": "lumine-player",
+		"player2": "xiao",
+		"player3": null,
+		"events": [
+			[
+				19200,
+				[
+					[
+						"Camera Follow Pos",
+						"900",
+						"400"
+					]
+				]
+			],
+			[
+				158100,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "emptygf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ballistic"
+	}
+}

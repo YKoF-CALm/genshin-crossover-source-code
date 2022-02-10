@@ -1,0 +1,2 @@
+Triggers the portrait frame capturing animation
+ONLY USED FOR PORTRAIT
