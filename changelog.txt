@@ -1,3 +1,16 @@
+Update 0.2
+-Genshin Crossover
+    -Added Godrays, It's Complicated (Sayori Mix), Ectospasm, Guns, Killer Scream and Portrait
+        -Ectospasm also comes with the True Hell difficulty for a challenge chart, as well as impossible charts for both the original and True Hell version
+    -Updated Ballistic assets
+    -Reorganized files
+    -Removed Crucify assets and placeholder assets for it
+    -Added icons for credits
+    -Renamed modpack
+-Genshin Crossover (C)
+    -Added Reanimated GF for Only My Railgun
+    -Added icons for credits
+
 Update 0.1.1
 -Genshin Covers
     -Added credits to all external assets used
