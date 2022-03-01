@@ -1,3 +1,16 @@
+Update 1
+-Genshin Crossover
+    -Added Triple Trouble, Copy Cat, Confronting Yourself, No Villains, Baka and Dad Battle
+    -Updated Ballistic to match the Definitive Edition
+    -Updated stages for Madness, Gospel, Memories, and Power Link
+    -Changed stage to corrupted stage for Dusk
+    -Added Entity note splashes for Promenade and Godrays
+    -Lag optimizations
+    -Updated credits (duh), and added more icons
+-Genshin Crossover (C)
+    -Added Kiss of Death
+    -Updated credits (duh)
+
 Update 0.2
 -Genshin Crossover
     -Added Godrays, It's Complicated (Sayori Mix), Ectospasm, Guns, Killer Scream and Portrait
