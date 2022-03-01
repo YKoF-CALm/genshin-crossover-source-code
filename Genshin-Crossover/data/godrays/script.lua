@@ -14,6 +14,8 @@ function onCreate()
     luaSpriteAddAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, false)
     luaSpriteAddAnimationByPrefix('bfscared', 'scared', 'BF idle shaking', 24, true)
     addLuaSprite('bf', true)
+
+    precacheImage('characters/BOYRFIEND')
 end
 
 function onStepHit()

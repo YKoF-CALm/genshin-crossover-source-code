@@ -2,12 +2,12 @@ Genshin Crossover
 YKoF_CALm::blankicon::Creator of Genshin Crossover::https://www.youtube.com/channel/UCw7a2rEC9OkaRHTn16zF0jg::0xFFFFDD33
 
 Genshin Impact
-miHoYo::blankicon::Creator of Genshin Impact::https://genshin.mihoyo.com/en/::0xFFFFDD33
+HoYoverse::blankicon::Creator of Genshin Impact::https://genshin.mihoyo.com/en/::0xFFFFDD33
 
-VS Accelerant Hank
+Online VS
 TheBlueHatted::blankicon::Creator::https://gamebanana.com/members/1853007::0xFFFFDD33
 FifLeo::blankicon::Lead Artist::https://twitter.com/fif_leo15::0xFFFFDD33
-philiplol::blankicon::Musician::https://gamebanana.com/members/1862522::0xFFFFDD33
+philiplol::blankicon::Musician::https://twitter.com/philiplolz::0xFFFFDD33
 Banbuds::blankicon::Additional Assets & Extra Vocals::https://twitter.com/Banbuds::0xFFFFDD33
 Wired_Wolf::blankicon::Tester::https://gamebanana.com/mods/286594::0xFFFFDD33
 SolScribbles::blankicon::Tester::https://gamebanana.com/mods/286594::0xFFFFDD33
@@ -51,11 +51,34 @@ The Only Volume::volume::Secondary Charter, Charted Ballistic::https://twitter.c
 El Senor Beast::beast::Secondary coder::https://twitter.com/Patricio_B51::0xFFFFBA00
 tictacto::tacto::Created the trailer theme::https://twitter.com/tictactuh_::0xFF008B8B
 8-Bit::8-bit::Main Playtester::https://twitter.com/8BitNostalgia_::0xFF896129
+SiIvaGunner::siiva::Only uploads high quality video game rips.::http://youtube.com/c/SiIvaGunner::0xFF0070EC
+
+SiIvaGunner Team
+Sarveproductions::sarve::Made the audio for the Lo-Fight and Overhead rips. Also did background art on the Hungry rip and the modpack icon.::https://twitter.com/Sarveproduction::0xFF5BEBDE
+Blookerstein::blook::Made the audio and art for the Ballistic rip.::https://twitter.com/blookerstein::0xFFFF3E6D
+CactusTeam::cactusteam::Made the audio for the Low-Rise rip.::https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm::0xFF2B29A3
+Myeauxyoozi::myeauxyoozi::Made the audio for the Hungry rip.::https://twitter.com/myeauxyoozi::0xFF616A4E
+minindo::minindo::Made the audio for the Faucet rip.\nAudio support on the Underground rip.::https://minindo.neocities.org/::0xFF0E7F24
+moralem::moralem::Did the art for Lo-Fight, Overhead, B-Ballistic rips, edits to the Julian stage, and BF on the Hungry rip. Minor sprite tweaks on Ballistic. Also the credits icon MVP.::https://twitter.com/_moralem::0xFF0CDF9B
+Gonovo::gonovo::Made the Ballistic dialogue sprites and the audio for B-Ballistic.::https://twitter.com/Gonovoreal::0xFF00BB88
+mBluett::mbluett::Made the "sick tricks" GF edit for the original Whitty rips. Also did Rottytops' sprites and the trophy platform + Julian style change sprites for Underground (In-Game Mix).::https://twitter.com/mBluettArt::0xFF848FAA
+ChickenSuitGuy::csg::Made the audio for the Underground rip.::https://twitter.com/chickensuitguy::0xFFF47D51
+RHMan::rh::Charted the original Lo-Fight, Overhead, and Ballistic rips. Also charted the new Low-Rise, Underground (In-Game Mix), and Hungry rips.::https://twitter.com/_RHMan_::0xFFF96A59
+adumb::adumb::Emotional support.::https://twitter.com/adumbgaming1::0xFF742AAA
+UUN4::uun4::Made the audio for Underground (In-Game Mix).::https://youtube.com/playlist?list=PLp1kPIR_hrUfI1m2aWx2p_UU-bmbf5CR4::0xFFDBFE03
+MtH::mth::Updated everything for the V.S. Whitty - Definitive Edition release. Audio support and charting on the Underground rip. Events & scripting on all rips.::https://mth.moe/::0xFFF66889
+Nikki+::nikki::Wrote the cutscene dialogue for the Ballistic rip.::https://twitter.com/RealNikkiPlus::0xFF493191
+Expensive Dispenser::expensive::Made the game over audio for when the boyfriend is ballin'.::https://twitter.com/EDispenser::0xFF2A5F71
+MandM::mandm::Programming for the builds used to record rips. Also recorded the new rips.::https://twitter.com/ActualMandM::0xFF1DADBB
+Blue Fairy::cirno::Recording & minor touches on the original Whitty rips.::https://store.steampowered.com/app/1706960/The_Mysterious_Cat_Tower/::0xFF6F8BF9
+eg_9371::eg::Audio support on the Lo-Fight rip.::https://youtu.be/dQw4w9WgXcQ::0xFF497AC4
+HugelDude::hugel::Made the SiIvaGunner head for the credits.::https://twitter.com/HugelDude::0xFFE8CA81
+...and many more!
 
 VS Tricky
 Banbuds::blankicon::Creator/Director/Artist/Animator::https://twitter.com/Banbuds::0xFFFFDD33
 Rozebud::rozebud::Musician/Programmer::https://twitter.com/helpme_thebigt::0xFFFFDD33
-KadeDev::kade::Programmer::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Programmer::https://twitter.com/kade0912::0xFFFFDD33
 Cval::blankicon::Charter/Offsetter::https://twitter.com/cval_brown::0xFFFFDD33
 YingYang48::blankicon::Composer::https://twitter.com/YingWasHere::0xFFFFDD33
 JADS::blankicon::Composer::https://twitter.com/Aw3somejds::0xFFFFDD33
@@ -78,7 +101,7 @@ DeveloVoosh GWeb::blankicon::Scripter::https://twitter.com/GWebDevFNF::0xFFFFDD3
 BrightFyre::blankicon::Scripter/Updates::https://twitter.com/fyre_bright::0xFFFFDD33
 LadMcLad::blankicon::Charter for My Battle::https://gamebanana.com/members/1775965::0xFFFFDD33
 Angelattes::blankicon::VA for GF::https://twitter.com/angelattesart::0xFFFFDD33
-Cougar MacDowall::blankicon::VA for Tabi::https://twitter.com/CougarMacDowal1::0xFFFFDD33
+Cougar MacDowall::cougarIcon::VA for Tabi::https://twitter.com/CougarMacDowal1::0xFFFFDD33
 Sock.clip::sock::FNF Styled Tabi Idle Sprite::https://www.instagram.com/sock.clip/?hl=en::0xFFFFDD33
 Sini::blankicon::1st version of Mad Tabi Sprites::https://twitter.com/Sini_Art_::0xFFFFDD33
 RussianRatigan::blankicon::Background design::https://twitter.com/RussianRatigan::0xFFFFDD33
@@ -90,7 +113,7 @@ EbolaHorny::blankicon::Artist::https://twitter.com/EbolaHorny::0xFFFFDD33
 MorØ::moro::Artist::https://twitter.com/Moro0986::0xFFFFDD33
 Grassjeak::blankicon::Artist::https://twitter.com/grass__jeak::0xFFFFDD33
 jyrocopter::blankicon::Artist::https://gamebanana.com/members/1992677::0xFFFFDD33
-NetBa::blankicon::Artist::https://gamebanana.com/members/1952674::0xFFFFDD33
+NetBa::blankicon::Artist::https://twitter.com/NetBa_Art::0xFFFFDD33
 Cherri::blankicon::Artist::https://twitter.com/CheriiDreams::0xFFFFDD33
 Mercurie::blankicon::Artist::https://twitter.com/_liquidmercury::0xFFFFDD33
 MashProTato::blankicon::Artist::https://www.youtube.com/channel/UCK4lLN0egKEZnUqjfF5Xd4Q::0xFFFFDD33
@@ -104,16 +127,16 @@ CDMusic::blankicon::Composer::https://www.youtube.com/channel/UCOItBqiAAbWEdm21M
 orenji::blankicon::Composer::https://twitter.com/Orenji_Music::0xFFFFDD33
 BrightFyre::blankicon::Programmer::https://twitter.com/fyre_bright::0xFFFFDD33
 srPerez::perez::Programmer::https://twitter.com/NewSrPerez::0xFFFFDD33
-Ash::blankicon::Programmer::https://twitter.com/ash__i_guess_::0xFFFFDD33
+Ash::ashIcon::Programmer::https://twitter.com/ash__i_guess_::0xFFFFDD33
 Hazelpy::blankicon::Programmer::https://twitter.com/HazelpyYT::0xFFFFDD33
-Taeyai::blankicon::Programmer::https://twitter.com/Taeyai_::0xFFFFDD33
+Taeyai::blankicon::Programmer::https://www.youtube.com/channel/UC_OwYbXr0rkfLzkFl66GBTQ::0xFFFFDD33
 hexar::blankicon::Programmer::https://twitter.com/hexpex4::0xFFFFDD33
 Sulayre::sulayre::Programmer::https://twitter.com/Sulayre::0xFFFFDD33
 AlchoholicDj::blankicon::Charter::https://gamebanana.com/members/1897726::0xFFFFDD33
 Pointy::pointy::Charter::https://twitter.com/PointyyESM::0xFFFFDD33
-Cerbera::blankicon::Charter::https://twitter.com/Cerbera_ssb::0xFFFFDD33
+Cerbera::cerberaIcon::Charter::https://twitter.com/Cerbera_ssb::0xFFFFDD33
 Kullix::blankicon::Original charter::https://gamebanana.com/members/1782132::0xFFFFDD33
-Cougar MacDowall::blankicon::VA::https://twitter.com/CougarMacDowal1::0xFFFFDD33
+Cougar MacDowall::cougarIcon::VA::https://twitter.com/CougarMacDowal1::0xFFFFDD33
 JordoPriceVA::blankicon::VA::https://twitter.com/JordopriceVA::0xFFFFDD33
 Katastrofree::blankicon::VA::https://twitter.com/katastrofree::0xFFFFDD33
 
@@ -131,7 +154,7 @@ Joan Atlas::tono::Composer of "Disassembler"::https://twitter.com/joan_atlas::0x
 Soulegal::soulegal::Brazilian-Portuguese Co-Translator::https://twitter.com/nickstwt::0xFFFFDD33
 Aizakku::aizakku::Brazilian-Portuguese Co-Translator::https://twitter.com/ItsAizakku::0xFFFFDD33
 Cony::cony::Artist of the epic Shaggy close-up::https://www.instagram.com/con0mmm/::0xFFFFDD33
-KadeDev::kade::Updated input system::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Updated input system::https://twitter.com/kade0912::0xFFFFDD33
 Sulayre::sulayre::Matt sprites (used in story menu)::https://twitter.com/Sulayre::0xFFFFDD33
 McChomk::mcchomk::Transcribed the OG dialogue into\nthe new dialogue file system::https://twitter.com/mcchomk::0xFFFFDD33
 GitHub Credits::ghub::Check out GitHub contributors::https://github.com/GithubSPerez/the-shaggy-mod/graphs/contributors::0xFF28389D
@@ -176,7 +199,7 @@ BulletgodReborn::blankicon::Beta tester::https://gamebanana.com/mods/41250::0xFF
 Dolly Fail Fail::blankicon::Beta tester::https://gamebanana.com/mods/41250::0xFFFFDD33
 RoseTelos::blankicon::Beta tester::https://gamebanana.com/members/1907123::0xFFFFDD33
 GenoX::blankicon::BF & Spooky Month voicebank configuration::https://twitter.com/GenoXACT2::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 CelShader::blankicon::Callibattle::https://twitter.com/CELSHDR::0xFFFFDD33
 Fireable::blankicon::Crossover with VS Camellia::https://twitter.com/notfireable::0xFFFFDD33
 
@@ -217,7 +240,7 @@ srPerez::perez::Coding/Composer for Final Destination::https://twitter.com/NewSr
 The Only Volume::volume::Composer for Revenge::https://www.youtube.com/channel/UC9OZiFk3ReCom8UGw51v_nA::0xFFFFDD33
 Joan Atlas::tono::Composer for Power Link::https://twitter.com/joan_atlas::0xFFFFDD33
 hayley_c0ntrol::blankicon::Da boxing BG::https://twitter.com/hc0ntrol::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 
 Big Brother mod
 Kittypop::blankicon::Art/Assets/Writer::https://www.youtube.com/channel/UCTIeZCjgxWe5aDpHAkeuDhQ::0xFFFFDD33
@@ -225,12 +248,11 @@ The Savvy Peridot::blankicon::Producer/Art/Assets/Writer::https://gamebanana.com
 Slamreon::blankicon::Coder::https://gamebanana.com/mods/304291::0xFFFFDD33
 Robot::blankicon::Charter::https://gamebanana.com/mods/304291::0xFFFFDD33
 Elbendy::blankicon::Musician::https://gamebanana.com/mods/304291::0xFFFFDD33
-Cougar MacDowall::blankicon::VA::https://twitter.com/CougarMacDowal1::0xFFFFDD33
+Cougar MacDowall::cougarIcon::VA::https://twitter.com/CougarMacDowal1::0xFFFFDD33
 
 VS Sonic.exe
 Divide::blankicon::Artist/Animator::https://gamebanana.com/mods/316022::0xFFFFDD33
 RightBurstUltra::blankicon::Owner/Artist::https://twitter.com/RightburstU::0xFFFFDD33
-Revie::blankicon::Director/Art::https://twitter.com/revie_03::0xFFFFDD33
 MarStarBro::blankicon::Composer::https://twitter.com/MarStarBro1::0xFFFFDD33
 Comgaming_Nz::blankicon::Artist::https://twitter.com/Comgamingnz::0xFFFFDD33
 Razencro::blankicon::Animator/Video editor/Programmer/Charter/Artist::https://twitter.com/razencro::0xFFFFDD33
@@ -247,7 +269,7 @@ Erick Animations::blankicon::Artist::https://twitter.com/erickmaster101::0xFFFFD
 ScorchVx::blankicon::Artist::https://twitter.com/ScorchVx::0xFFFFDD33
 Rea::blankicon::Artist/Animator::https://gamebanana.com/mods/316022::0xFFFFDD33
 Arthur/ADJ::blankicon::Artist::https://twitter.com/AdjDraws::0xFFFFDD33
-Ash::blankicon::Coder::https://twitter.com/ash__i_guess_::0xFFFFDD33
+Ash::ashIcon::Coder::https://twitter.com/ash__i_guess_::0xFFFFDD33
 GhostBunBun::blankicon::Artist/Animator::https://twitter.com/ghostbunbun::0xFFFFDD33
 SqueakSC::blankicon::Composer::https://www.youtube.com/channel/UCqAikcY5osQkqUQyZkehNoA::0xFFFFDD33
 Jamangar::blankicon::Composer::https://www.youtube.com/channel/UCTyCx51RrjnMeQmG2agB9xQ::0xFFFFDD33
@@ -257,7 +279,8 @@ blueberry::blankicon::Artist::https://gamebanana.com/mods/316022::0xFFFFDD33
 Elie::blankicon::Charter::https://gamebanana.com/mods/316022::0xFFFFDD33
 BrightFyre::blankicon::Programming help::https://twitter.com/fyre_bright::0xFFFFDD33
 PolybiusProxy::polybiusproxy::MP4 support::https://twitter.com/polybiusproxy::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
+Revie::blankicon:: Former Director/Art::https://twitter.com/revie_03::0xFFFFDD33
 
 Madness Vandalization
 BBPanzu::bb-panzu::Artist/Musician/Programmer::https://twitter.com/bbsub3::0xFFFFDD33
@@ -274,7 +297,7 @@ Jatotz::blankicon::Inspiration for Overhead's chart::https://twitter.com/Jatotzz
 Mid-Fight Masses
 kuroao_anomal::blankicon::Programmer::https://gamebanana.com/members/1793932::0xFFFFDD33
 Dokki.doodlez::blankicon::Artist::https://gamebanana.com/members/1814745::0xFFFFDD33
-Mike Geno::blankicon::Composer::https://twitter.com/electro_mike::0xFFFFDD33
+Mike Geno::mikegenoIcon::Composer::https://twitter.com/electro_mike::0xFFFFDD33
 
 MFM Recharts
 jakek128::blankicon::Recharter::https://twitter.com/jakek128::0xFFFFDD33
@@ -290,9 +313,9 @@ Vidz::blankicon::Coder::https://gamebanana.com/members/1873391::0xFFFFDD33
 magbros.ogg::blankicon::Musician::https://twitter.com/MagBros78::0xFFFFDD33
 Ascenti::blankicon::Animator::https://www.youtube.com/channel/UCUNk1L-6cjZEA272msCNeUQ::0xFFFFDD33
 kayo::blankicon::Musician::https://twitter.com/zTam_::0xFFFFDD33
-Cerbera::blankicon::Charter::https://twitter.com/Cerbera_ssb::0xFFFFDD33
+Cerbera::cerberaIcon::Charter::https://twitter.com/Cerbera_ssb::0xFFFFDD33
 ClariS::blankicon::Made the original Connect song::https://www.youtube.com/channel/UC-zeaPnxZHE3EcTyVl1fTdw::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 Lexicord::blankicon::Secret song icon::https://twitter.com/Lexicord2::0xFFFFDD33
 Shadow Mario::shadowmario::Secret song shaders (from Psych Engine)::https://twitter.com/Shadow_Mario_::0xFFFFDD33
 JADS::blankicon::Permission for 2nd secret song::https://twitter.com/Aw3somejds::0xFFFFDD33
@@ -351,7 +374,7 @@ Aureumber::blankicon::Pixel artist::https://twitter.com/aureumber::0xFFFFDD33
 PyxlBird::blankicon::Sprite artist::https://twitter.com/PyxlBird::0xFFFFDD33
 Crudaka::blankicon::Loading screen art::https://twitter.com/Croodaka::0xFFFFDD33
 RobynTheDragon::blankicon::Thumbnail art::https://twitter.com/RobynTheDragonn::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 lagoAnims::blankicon::Phase 1 idle sprite::https://twitter.com/IagoAnims::0xFFFFDD33
 Springy_4264::blankicon::Ace BF skin::https://twitter.com/Springy_4264::0xFFFFDD33
 Ravi::blankicon::Phase 1 concept artist::https://twitter.com/RavioliBox::0xFFFFDD33
@@ -423,7 +446,7 @@ FPLester::blankicon::Musician::https://twitter.com/_fplester::0xFFFFDD33
 isophoro::blankicon::Programmer::https://twitter.com/isophoro::0xFFFFDD33
 Rifxii::blankicon::Assistant Programmer::https://gamebanana.com/members/1773116::0xFFFFDD33
 TKTems::blankicon::EX-Assistant Programmer::https://twitter.com/TKTems::0xFFFFDD33
-KadeDev::kade::Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 MegaFreedom1274::blankicon::Week 6 Opponent + Sprites::https://twitter.com/MegaFreedom1274::0xFFFFDD33
 CircleMan::blankicon::Week 3 Background + Week 5 Sprites::https://twitter.com/justacircleman::0xFFFFDD33
 Winkel::blankicon::Pixel Sprite Work::https://twitter.com/_Winkel_::0xFFFFDD33
@@ -467,10 +490,10 @@ Phebe Fabacher::blankicon::Sayori Speaking Voice::https://twitter.com/pheberryfa
 Miss Beepy::blankicon::Natsuki Speaking/Singing Voice::https://twitter.com/MissBeepy::0xFFFFDD33
 Loganne Digma::blankicon::Yuri Speaking/Singing Voice::https://twitter.com/Loganne_Digma::0xFFFFDD33
 Esther Christo::blankicon::Monika Speaking/Singing Voice::https://twitter.com/carimellevo::0xFFFFDD33
-Ash::blankicon::Coding Help::https://twitter.com/ash__i_guess_::0xFFFFDD33
+Ash::ashIcon::Coding Help::https://twitter.com/ash__i_guess_::0xFFFFDD33
 Blantados::blantados::Vocals/Charting for Bonus song::https://twitter.com/Blantados::0xFFFFDD33
 Dan Salvato::blankicon::Creator of Doki Doki Literature Club::https://twitter.com/dansalvato::0xFFFFDD33
-KadeDev::kade::Creator of the Kade Engine::https://www.youtube.com/channel/UCoYksltIxNuSHz_ERzoRP6g::0xFFFFDD33
+KadeDev::kade::Creator of the Kade Engine::https://twitter.com/kade0912::0xFFFFDD33
 Lumitic::blankicon::Coding Help::https://twitter.com/PeacefulLuma::0xFFFFDD33
 mewtek::blankicon::Bug Fixes/Coding Help::https://gamebanana.com/members/1619005::0xFFFFDD33
 spacemonkey841::blankicon::Week 6 GF-less Speakers::https://gamebanana.com/members/1763051::0xFFFFDD33
@@ -478,10 +501,134 @@ YingYang48::blankicon::Original Glitcher Composer::https://twitter.com/YingWasHe
 foodieti::blankicon::Original Crucify Composer::https://twitter.com/foodieti::0xFFFFDD33
 paperkitty::blankicon::Original Beathoven Composer::https://twitter.com/pkzep::0xFFFFDD33
 
+Triple Trouble Psych Engine Port
+tposejank::blankicon::Porter::https://twitter.com/tpose_jank::0xFFFFDD33
+
+VS Bob and Bosip
+Ash::ashIcon::Programmer::https://twitter.com/ash__i_guess_::0xFFFFDD33
+Taeyai::blankicon::Programmer::https://www.youtube.com/channel/UC_OwYbXr0rkfLzkFl66GBTQ::0xFFFFDD33
+Conga::blankicon::Programmer::https://twitter.com/Conga_Dev::0xFFFFDD33
+Uniimations::uniimationsIcon::Programmer::https://twitter.com/uniianimates::0xFFFFDD33
+DPZmusic::blankicon::Musician of Jump-In::https://twitter.com/dpzmusic::0xFFFFDD33
+SplatterDash::blankicon::Musician of Swing::https://twitter.com/splatterdash_ng::0xFFFFDD33
+Ardolf::blankicon::Musician of Split::https://jemi.so/ardolf/home::0xFFFFDD33
+Yoshiexists::blankicon::Musician of Game Over::https://twitter.com/yoshexists::0xFFFFDD33
+LiterallyNoOne::blankicon::Musician of Oblique Fracture::https://twitter.com/l_no_one1::0xFFFFDD33
+TheMaskedChris::chrisIcon::Main Animator::https://twitter.com/TheMaskedChris::0xFFFFDD33
+OhSoVanilla::blankicon::Main Animator::https://twitter.com/OhSoVanilla64::0xFFFFDD33
+Bluskys::bluskysicon::UI Artist/Voice of Blu::https://twitter.com/bluskystv::0xFFFFDD33
+Typic::blankicon::Animator::https://twitter.com/typicalemerald::0xFFFFDD33
+FORE::blankicon::Ending Animation::https://twitter.com/Fore_8040::0xFFFFDD33
+Literally Nick::blankicon::Ending Animation::https://twitter.com/LiterallyNick2::0xFFFFDD33
+FranB::blankicon::Assistant Animator::https://twitter.com/Franbobisdraws::0xFFFFDD33
+ScorchVx::blankicon::Assistant Cutscene Artist/Logo Remastering::https://twitter.com/ScorchVx::0xFFFFDD33
+Ohya::blankicon::Promotional Art/Cover Art::https://twitter.com/ohyaholla::0xFFFFDD33
+jyrocopter::blankicon::Bob Takeover Concept Designer::https://gamebanana.com/members/1992677::0xFFFFDD33
+KaosKurve::blankicon::Logo Artist::https://twitter.com/KaoskurveA::0xFFFFDD33
+Rebecca_Doodles::blankicon::Cutscene Art Touch-ups::https://twitter.com/rebecca_doodles::0xFFFFDD33
+NetBa::blankicon::Assistant Background Artist::https://twitter.com/NetBa_Art::0xFFFFDD33
+SugarRatio::blankicon::Extra Assets::https://twitter.com/SugarRatio::0xFFFFDD33
+Cerbera::cerberaIcon::Charting::https://twitter.com/Cerbera_ssb::0xFFFFDD33
+MikeTheMagicMan::blankicon::Voice of Bob::https://www.twitch.tv/mikethemagicman88::0xFFFFDD33
+Seabo::blankicon::Voice of Bosip::https://twitter.com/tvseabo::0xFFFFDD33
+AstroSquid::blankicon::Voice of Girlfriend::https://www.instagram.com/_astro.squid_/::0xFFFFDD33
+Minishoey::blankicon::Voice of Mini::https://twitter.com/ShoeyMini::0xFFFFDD33
+Jghost::blankicon::Voice of Jghost::https://twitter.com/Jghost_217::0xFFFFDD33
+Cerberus::blankicon::Voice of Cerberus::https://twitter.com/vzCerberus::0xFFFFDD33
+Cougar MacDowall::cougarIcon::Voice of Cerberus::https://twitter.com/CougarMacDowal1::0xFFFFDD33
+MangooPop::blankicon::Voice of Ash::https://twitter.com/MangooPop::0xFFFFDD33
+Medikuma::blankicon::Voice of Bobal::https://twitter.com/MedikumaVA::0xFFFFDD33
+Phlox::blankicon::Bob's Onslaught Dev (Owner)::https://twitter.com/HiPhlox::0xFFFFDD33
+Wildy::blankicon::Bob's Onslaught Dev (Artist/Animator):: https://twitter.com/wildythomas1233::0xFFFFDD33
+Bon::blankicon::Bob Takeover EX Backgrounds::https://twitter.com/ProjectBon::0xFFFFDD33
+Rakurai::blankicon::Dialogue Writer::https://twitter.com/RacchusRefrain::0xFFFFDD33
+Melty::blankicon::Dialogue Writer::https://twitter.com/MeltyDraws::0xFFFFDD33
+Juniper::blankicon::Proof Reading/Dialogue Writer::https://twitter.com/JuniperGD::0xFFFFDD33
+c0rruptzie::corruptIcon::Assistant Writer::https://twitter.com/c0rruptzie::0xFFFFDD33
+Vlusky::blankicon::Video Cutscene Subtitles/Vocals for Split::https://twitter.com/vlusky_husky::0xFFFFDD33
+Dunk0::blankicon::Launch Trailer::https://twitter.com/Dunk0ForReal::0xFFFFDD33
+Pizzapancakess::blankicon::Expansion Update Trailer::https://twitter.com/pizzapancakess_::0xFFFFDD33
+BoomKitty::blankicon::Walk (Credits Music)::https://boomkitty.fm/::0xFFFFDD33
+SirHadoken::blankicon::Old Menu Music::https://deford.hearnow.com/::0xFFFFDD33
+HJfod::blankicon::Concept Music for Jump-in::https://twitter.com/hjfod::0xFFFFDD33
+BluecheeseYT::cheeseIcon::Mac Port::https://www.youtube.com/c/BlueCheese::0xFFFFDD33
+KadeDev::kade::Original Engine::https://twitter.com/kade0912::0xFF99C68E
+AmorAltra::blankicon::Creator::https://twitter.com/amoraltra::0xFFFFDD33
+
+Miku Mod
+evidial::blankicon::Art, Animation, Charting, Minor Coding::https://www.youtube.com/channel/UCwbeHQGp3t4sB3m8KWa4USw::0xFFFFDD33
+GenoX::blankicon::Coding, Minor Art, Charting, Minor Music::https://twitter.com/GenoXACT2::0xFFFFDD33
+Smokey_5::blankicon::Menu Programming, Awesome::https://twitter.com/smokey_5_::0xFFFFDD33
+bbpanzu::bb-panzu::Music, Loid, Endurance and Endless::https://twitter.com/bbsub3::0xFF58A25D
+paperkitty::blankicon::Music, Voca::https://twitter.com/pkzep::0xFFFFDD33
+
+Funkin' With Shyrell
+Shyrell::blankicon::Animator and Artist::https://twitter.com/shey_pancake::0xFFFFDD33
+joako796::blankicon::Pixel Artist::https://gamebanana.com/members/1831202::0xFFFFDD33
+Cval::blankicon::Programmer::https://twitter.com/cval_brown::0xFFFFDD33
+Pierogii::blankicon::Modder::https://twitter.com/pieroshiki::0xFFFFDD33
+
+Confronting Yourself Mod
+JotaMR::jotamr::Art, Coding, Animation and Cover::https://twitter.com/jotamr_::0xFFF3A3A
+Rickylonyolo22::ricky::Charting::https://twitter.com/Ricardoriclylon::0xF7143FF
+SasterSuboru::saster::Original Song maker::https://www.youtube.com/channel/UCC4CkqOAwulRil3BEK9L3Mg::0xFFFFDD33
+Penguin 123-452::blankicon::MIDI used for the mod::https://www.youtube.com/c/Penguin123452a::0xFFFFDD33
+
+CYS Reanimated
+Ninja Enjoyer::blankicon::Artist and Animator::https://twitter.com/CyberNinjaOwl::0xFFFFDD33
+
+Tails Gets Trolled
+Echolocated::blankicon::Chromatics, coder, director, menu assets::https://twitter.com/CH_echolocated::0xFFFFDD33
+Nebula_Zorua::blankicon::Lead Programmer/Andromeda Engine::https://twitter.com/Nebula_Zorua::0xFFFFDD33
+bepixel::blankicon::Animator::https://twitter.com/bepixel_owo::0xFFFFDD33
+Hooda the Antagonist::blankicon::Lead Composer::https://www.youtube.com/user/MrKillaDemon::0xFFFFDD33
+0Wilde::blankicon::Charting::https://www.youtube.com/channel/UCRkIodLXQb50MuMLIcDdGQQ::0xFFFFDD33
+Staticlysm::blankicon::Shadow and Tsu-Fox Sprites::https://www.youtube.com/channel/UCroRF1FotmTeOfhsn4kaqbw::0xFFFFDD33
+mc83ch5::blankicon::Voice of Tails::https://twitter.com/mc83ch5::0xFFFFDD33
+jippy::blankicon::Voice of Sonic::https://gamebanana.com/mods/320596::0xFFFFDD33
+StickyBM::blankicon::Voice of Shadow::https://twitter.com/StickyBM::0xFFFFDD33
+fl0pd00dle::blankicon::Album/Promo Art::https://www.youtube.com/channel/UCkZqi6Wqjqbtqc-_TIqiXHg::0xFFFFDD33
+shadowfi::blankicon::Programming help::https://twitter.com/Shadowfi1385::0xFFFFDD33
+Wieder the rabbit::blankicon::High Shovel assets::https://twitter.com/WiederPixel::0xFFFFDD33
+philiplol::blankicon::Made High Shovel, Voice of Knuckles::https://twitter.com/philiplolz::0xFFFFDD33
+longestsoloever::blankicon::Composed Taste For Blood::https://twitter.com/longestsoloever::0xFFFFDD33
+Cerbera::cerberaIcon::Charted High Shovel::https://twitter.com/Cerbera_ssb::0xFFFFDD33
+gibz679::blankicon::Charted Groovy Fox::https://twitter.com/gibz679::0xFFFFDD33
+pollopoti_::blankicon::Ch 3 BF Sprites::https://gamebanana.com/members/1924665::0xFFFFDD33
+xooplord::blankicon::High Shovel Cutscene::https://twitter.com/xooplord::0xFFFFDD33
+Penkaru::blankicon::Made No Bitches P/Helped with unused scores in Taste For Blood::https://www.youtube.com/channel/UCLV3ozZpQ4rG45CjjbpJLtw::0xFFFFDD33
+Matasaki::blankicon::Made No Bitches P::https://twitter.com/matasaki_dude::0xFFFFDD33
+Lazerbot::blankicon::Creating 'Tails Gets Trolled'::https://www.deviantart.com/lazerbot::0xFFFFDD33
+TKTems::blankicon::Andromeda Engine::https://twitter.com/TKTems::0xFFFFDD33
+BrightFyre::blankicon::Mp4 Handler::https://twitter.com/fyre_bright::0xFFFFDD33
+
+FNF: Ludi Harpastum
+TheSanicNub::blankicon::Creator::https://www.youtube.com/c/TheSanicNub::0xFFFFDD33
+FNF Soft Team::soft::Creators of Spotlight::https://gamebanana.com/mods/312803::0xFFFFDD33
+Blantados::blantados::Creator of the Hololive Voicebanks::https://www.youtube.com/c/Blantados21::0xFFFFDD33
+Miloh Productions::miloh::Creator of the Menu Music::https://linktr.ee/Temperr::0xFFFFDD33
+bbpanzu::bb-panzu::Creator of Norway::https://twitter.com/bbsub3::0xFF33FF66
+
 Miscellaneous Things
 Blantados::blantados::Solved most of my problems with his mod lmao::https://twitter.com/Blantados::0xFFFFDD33
 Sanimador::blankicon::The flashbang event::https://gamebanana.com/members/1875397::0xFFFFDD33
 Punkinator7::blankicon::Custom Notes and Events::https://twitter.com/punkinator70::0xFFFFDD33
+Astrorena::blankicon::UST/MIDI files for some of the covers::https://www.youtube.com/channel/UCiwQD1a51k2RfN4GB1pf6ug::0xFFFFDD33
+amiibofanboy1::blankicon::MIDI pack::https://twitter.com/amiibofanboy1g1::0xFFFFDD33
+Ron The Music Boi::blankicon::MIDI pack::https://www.youtube.com/channel/UC5mukaOzygrmncwkey0fE1A::0xFFFFDD33
+CapitalGamingDev::blankicon::Compiled the MIDI pack::https://www.youtube.com/c/CapitalGaming::0xFFFFDD33
+Deadsaac X::blankicon::UST for Promenade::https://www.youtube.com/channel/UCrI00cNt6C7Hzcm1AWOOdiQ::0xFFFFDD33
+DCLC MUSIC::blankicon::UST for Thunderstorm::https://twitter.com/DanyCampusano2::0xFFFFDD33
+Neeko_06::blankicon::USTs for Satin Panties and Gospel::https://twitter.com/Neeko_06::0xFFFFDD33
+MuratDevFnf::blankicon::MIDI for Genocide::https://www.youtube.com/channel/UCtbQrKPbKWQSPSql_LhS28Q::0xFFFFDD33
+Lalo._FNF::blankicon::UST for Memories::https://www.youtube.com/channel/UCx_QTUn_ElcxYpwfuEME93A::0xFFFFDD33
+Andro FNF Covers::blankicon::UST for Endless::https://www.youtube.com/channel/UCyhIqVdNi92j1BJe8yZ4UZg::0xFFFFDD33
+Matius::blankicon::UST for Kaboom::https://www.youtube.com/c/MatiusWhenCreasUnCanal::0xFFFFDD33
+Dark_::blankicon::MIDI for Godrays::https://www.youtube.com/c/DarkTheBum::0xFFFFDD33
+Kovrizhka::blankicon::UST for Guns::https://www.youtube.com/channel/UC1P2tPAs4JoPgDYrG6ATmtQ::0xFFFFDD33
+Flipstuff::blankicon::MIDI for Portrait::https://drive.google.com/file/d/1b_lL1om9WqY0w_dsXH6tZ87oTPeEj9oH/view::0xFFFFDD33
+The Gatisty::blankicon::UST for Triple Trouble::https://www.youtube.com/channel/UC1bnItLLk-p6FPfale3hT2A::0xFFFFDD33
+Coɱpɭɘx::blankicon::UST for No Villains::https://www.youtube.com/channel/UCflcuvUc7Au6E7ACvEEeJiA::0xFFFFDD33
 
 Voicebanks
 GenoX::blankicon::funkin-utau voicebanks::https://twitter.com/GenoXACT2::0xFFFFDD33

@@ -18,6 +18,9 @@ function onCreate()
 	setProperty('tankman.flipX', true)
 	luaSpriteAddAnimationByPrefix('tankman', 'idle', 'Tankman Idle Dance', 24, false)
 	addLuaSprite('tankman', false)
+
+	precacheImage('characters/bf-accelerant')
+	precacheImage('characters/tankmanCaptainRA')
 end
 
 function onBeatHit()

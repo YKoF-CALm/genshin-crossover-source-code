@@ -18,7 +18,7 @@ function onCreate()
     --Adds Lua Sprites
     addCharacterToList('signDeath', 'boyfriend');
 
-    makeAnimatedLuaSprite('bfscared', 'characters/BOYFRIEND_TABI', 600, 450)
+    makeAnimatedLuaSprite('bfscared', 'characters/BOYFRIEND_TABI', 1700, 800)
     luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, false)
     addLuaSprite('bfscared', true)
     
@@ -497,7 +497,8 @@ function onGameOver()
     setProperty('boyfriend.curCharacter', 'signDeath')
     playSound('death', 0.3)
     playSound('BF_Deathsound')
-    playMusic('gameOver', 1, true)
+    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'tikygameOver'); --put in mods/music/
+    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'tikygameOverEnd'); --put in mods/music/
 	return Function_Continue;
 end
 
@@ -506,7 +507,6 @@ function onGameOverConfirm(retry)
 	-- If you've pressed Esc, value "retry" will be false
     setProperty('boyfriend.curCharacter', 'signDeath')
     luaSpritePlayAnimation('bfDeadConfirm')
-    playMusic('gameOverEnd', 1, true)
 end
 
 function onEndSong()

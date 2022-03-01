@@ -14,7 +14,11 @@ end
 local dodgeAnims = {'dodgeLEFT', 'dodgeDOWN', 'dodgeUP', 'dodgeRIGHT'}
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'rainnote' then
-		characterPlayAnim('dad', 'attack', true)
+		if songName == 'Apocalyptic Hell' then
+			--do nothing
+		else
+			characterPlayAnim('dad', 'attack', true)
+		end
 		characterPlayAnim('boyfriend', dodgeAnims[direction+1], true);
 		setProperty('boyfriend.specialAnim', true);
 		cameraShake('camGame', 0.01, 0.2)

@@ -7,6 +7,12 @@ function onCreate()
 
     makeAnimatedLuaSprite('whittybullet', 'whitty/Whitty and Echo ability Sprites', 150, 130)
     luaSpriteAddAnimationByPrefix('whittybullet', 'shot', 'Fire Shot BF instance 1', 24, false)
+
+    precacheImage('notes/NOTE_assets_fire')
+    precacheImage('notesplashes/FireSplashes')
+    precacheSound('firenote')
+    addCharacterToList('WhittyAgro-player', 'boyfriend')
+    addCharacterToList('Whitty-player', 'boyfriend')
 end
 
 kleeSFX = {

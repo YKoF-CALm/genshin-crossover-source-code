@@ -4,7 +4,7 @@ function onStartCountdown()
 end
 
 function onCreate()
-
+    precacheImage('fever/paintingShit')
 end
 
 function onBeatHit()

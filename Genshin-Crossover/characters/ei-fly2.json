@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ei-fly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				111
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ei-fly left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ei-fly right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ei-fly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ei-fly idle alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ei-fly",
+	"position": [
+		-320,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		0,
+		138
+	],
+	"camera_position": [
+		80,
+		-55
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

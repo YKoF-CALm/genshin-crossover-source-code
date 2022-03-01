@@ -5,18 +5,7 @@
 		"player1": "aloe",
 		"player2": "ei",
 		"player3": null,
-		"events": [
-			[
-				0,
-				[
-					[
-						"noteskinchangeBF",
-						"notes/holofunk",
-						"notesplashes/noteSplashes-holofunk"
-					]
-				]
-			]
-		],
+		"events": [],
 		"notes": [],
 		"splashSkin": null,
 		"validScore": false,

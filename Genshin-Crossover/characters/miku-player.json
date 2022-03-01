@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Miku idle dance"
+		},
+		{
+			"offsets": [
+				63,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Miku Sing Note RIGHT0"
+		},
+		{
+			"offsets": [
+				25,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Miku Sing Note DOWN0"
+		},
+		{
+			"offsets": [
+				-40,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Miku Sing Note UP0"
+		},
+		{
+			"offsets": [
+				-48,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Miku Sing Note LEFT0"
+		},
+		{
+			"offsets": [
+				67,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Miku Sing Note RIGHT MISS"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Miku Sing Note DOWN MISS"
+		},
+		{
+			"offsets": [
+				-26,
+				53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Miku Sing Note UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Miku Sing Note LEFT MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "miku hey"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				-15,
+				-85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ew",
+			"loop": false,
+			"name": "ew miku"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ev_miku_assets",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "miku",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

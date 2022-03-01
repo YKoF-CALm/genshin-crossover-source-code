@@ -16,6 +16,14 @@ function onCreate()
     makeAnimatedLuaSprite('nene2', 'characters/nenechi', 1700, 450)
     luaSpriteAddAnimationByPrefix('nene2', 'idle', 'BF idle dance', 24, true)
     addLuaSprite('nene2', false)
+
+    precacheImage('characters/Aloe')
+    precacheImage('characters/nenechi')
+    precacheImage('cloud/rain/lightningStrike')
+    addCharacterToList('ei-mad', 'dad')
+    addCharacterToList('gf_tabi', 'gf')
+    precacheSound('Thunder')
+    precacheSound('eiburst')
 end
 
 function onBeatHit()
@@ -35,6 +43,9 @@ end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'rainnote' then
+        if curStep <= 240 or curStep >= 255 then
+            characterPlayAnim('dad', 'attack', true)
+        end
 		playSound('Thunder', 1);
         addLuaSprite('zap', true)
         luaSpritePlayAnimation('zap', 'zap', true)

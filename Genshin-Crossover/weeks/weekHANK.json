@@ -9,6 +9,12 @@
 		253
 	],
 	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Rematch",
@@ -36,13 +42,25 @@
 				113,
 				253
 			]
+		],
+		[
+			"Apocalyptic Hell",
+			"madretro",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gospel Alt",
+			"lucifersarv",
+			[
+				146,
+				113,
+				253
+			]
 		]
-	],
-	"hideStoryMode": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
 	],
 	"weekName": "Custom Week"
 }

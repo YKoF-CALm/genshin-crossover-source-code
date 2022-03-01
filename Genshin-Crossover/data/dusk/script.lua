@@ -1,10 +1,15 @@
 function onCreate()
-    makeAnimatedLuaSprite('bf', 'characters/BOYFRIEND', 500, 400)
+    makeAnimatedLuaSprite('bf', 'characters/BOYFRIEND', 500, 450)
     luaSpriteAddAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, false)
     addLuaSprite('bf', true);
 
-    makeAnimatedLuaSprite('bfscared', 'characters/BOYFRIEND_TABI', 500, 400)
+    makeAnimatedLuaSprite('bfscared', 'characters/BOYFRIEND_TABI', 500, 450)
     luaSpriteAddAnimationByPrefix('bfscared', 'idle', 'BF idle dance', 24, false)
+
+    precacheImage('characters/BOYFRIEND')
+    precacheImage('characters/BOYFRIEND_TABI')
+    addCharacterToList('ganyu-mad', 'dad')
+    addCharacterToList('gf_tabi', 'gf')
 end
 
 function onBeatHit()

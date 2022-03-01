@@ -19,6 +19,9 @@ Banbuds::blankicon::Additional Assets & Extra Vocals::https://twitter.com/Banbud
 FNF Reanimated
 SereBeat::blankicon::Animator::https://twitter.com/SereBeat_::0xFFFFDD33
 
+Miscellaneous Stuff
+Porqui::blankicon::MIDI for Only My Railgun::https://twitter.com/TBPorqui1::0xFFFFDD33
+
 Voicebanks
 GenoX::blankicon::funkin-utau voicebanks::https://twitter.com/GenoXACT2::0xFFFFDD33
 KawaiSprite::kawaisprite::funkin-utau voicebanks::https://twitter.com/kawaisprite::0xFFFFDD33
@@ -26,3 +29,4 @@ YKoF_CALm::blankicon::My own voicebanks::https://www.youtube.com/channel/UCw7a2r
 
 Copyrighted Material used
 fripSide::blankicon::Composer for Toaru Kagaku no Railgun::http://fripside.net/::0xFFFFDD33
+Mika Nakashima::blankicon::Composer for Kiss of Death::https://twitter.com/nakashima_mika_::0xFFFFDD33

@@ -237,7 +237,11 @@ stepHitFuncs = { --a bunch of timed events, timed to steps
 				runTimer('leverenter', 1.4, 1);
 				--if downscroll then					setProperty('lever.flipY', true);				else					setProperty('lever.flipY', false);				end
 			end
-			runTimer('hpdrain', 0.2, 0);
+			if songName == 'accelerant' then
+				runTimer('hpdrain', 0.2, 0);
+			elseif songName == 'rematch' or songName == 'bullet' then
+				runTimer('hpdrain', 0.4, 0);
+			end
 		end
 	end,
 	[745] = function() --tiky with laser, 745
@@ -477,7 +481,13 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	-- loops = how many loops it will have done when it ends completely
 	-- loopsLeft = how many are remaining
 	if tag == 'hpdrain' then
-		setProperty('health', getProperty('health')-0.01); --the gremlin's health drain
+		if songName == 'accelerant' then
+			helth = getProperty('health')
+			setProperty('health', helth-0.02); --the gremlin's health drain
+		elseif songName == 'rematch' or songName == 'bullet' then
+			helth = getProperty('health')
+			setProperty('health', helth-0.01); --the gremlin's health drain
+		end
 	end
 	if tag == 'idletimer' then
 		objectPlayAnimation('righthand', 'idle', true); --tiky's hands don't do the animation at the same time

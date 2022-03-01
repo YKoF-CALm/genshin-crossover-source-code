@@ -1,3 +1,7 @@
+function onCreate()
+    precacheImage('notes/Majin_Notes')
+    precacheImage('noteSplashes-maijin')
+end
 
 local xx = 520;
 local yy = 530;

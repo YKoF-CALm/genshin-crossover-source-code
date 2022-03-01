@@ -1,7 +1,7 @@
 {
 	"song": {
 		"speed": 2.5,
-		"stage": "liyue",
+		"stage": "staged",
 		"player1": "keqing-player",
 		"player2": "ganyu",
 		"player3": null,

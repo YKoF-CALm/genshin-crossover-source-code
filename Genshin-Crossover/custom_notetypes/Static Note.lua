@@ -3,7 +3,7 @@ function onCreate()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Instakill Note
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Static Note' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'notes/StaticNOTE_assets'); --Change texture
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'notes/staticNotes'); --Change texture
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashTexture', 'notesplashes/staticSplash'); -- change splash
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored
 				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has no penalties
@@ -30,13 +30,14 @@ end
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Static Note' then
 		-- put something here if you want
-		 makeLuaSprite('image', 'StaticLUL', 200, 50);
-    addLuaSprite('image', true);
-    doTweenColor('hello', 'image', 'FFFFFFFF', 0.1, 'quartIn');
-    setObjectCamera('image', 'other');
-    runTimer('wait', 1);
-	  bruh = getProperty('health');
-	  setProperty('health', bruh - 0.25);
+		makeLuaSprite('image', 'exe/StaticLUL', 200, 50);
+    	addLuaSprite('image', true);
+    	doTweenColor('hello', 'image', 'FFFFFFFF', 0.1, 'quartIn');
+    	setObjectCamera('image', 'other');
+		playSound('hitStatic1', 1)
+    	runTimer('wait', 1);
+	  	bruh = getProperty('health');
+	  	setProperty('health', bruh - 0.25);
 	end
 end
 

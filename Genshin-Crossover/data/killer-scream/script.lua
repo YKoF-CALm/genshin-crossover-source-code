@@ -10,6 +10,9 @@ function onCreate()
     scaleLuaSprite('screamstatic', 100, 100);
     addLuaSprite('screamstatic', true)
     setPropertyLuaSprite('screamstatic', 'alpha', 0)
+
+    precacheImage('russia/scream_overlay')
+    precacheSound('staticSound')
 end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)

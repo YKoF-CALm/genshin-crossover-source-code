@@ -22,7 +22,7 @@
 		"validScore": false,
 		"gfVersion": "gf",
 		"bpm": 155,
-		"arrowSkin": "",
+		"arrowSkin": "notes/hu-tao",
 		"needsVoices": true,
 		"song": "endless"
 	}

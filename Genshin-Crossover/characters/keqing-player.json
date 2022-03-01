@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "keqing idle",
-			"indices": []
+			"indices": [],
+			"name": "keqing idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				1,
+				28,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "keqing down",
-			"indices": []
+			"indices": [],
+			"name": "keqing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-10,
-				4
+				36,
+				-3
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "keqing up",
-			"indices": []
+			"indices": [],
+			"name": "keqing up"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				2,
-				3
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "keqing left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "keqing right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				6,
-				1
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "keqing rmiss",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-1,
-				1
+				-6
 			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "keqing left"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "keqing right"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "keqing rmiss"
+		},
+		{
+			"offsets": [
+				28,
+				0
+			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "keqing dmiss",
-			"indices": []
+			"indices": [],
+			"name": "keqing dmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-4,
-				2
+				-1,
+				-6
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "keqing lmiss",
-			"indices": []
+			"indices": [],
+			"name": "keqing lmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-11,
-				5
+				36,
+				-3
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "keqing umiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "keqing umiss"
 		}
 	],
 	"no_antialiasing": false,
@@ -114,8 +114,8 @@
 		221
 	],
 	"camera_position": [
-		220,
-		130
+		210,
+		100
 	],
 	"sing_duration": 4,
 	"scale": 1

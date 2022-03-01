@@ -11,9 +11,13 @@ function onStartCountdown()
 end
 
 function onCreate()
-	makeAnimatedLuaSprite('burst', 'shaggy/burst', 600, 200)
+	makeAnimatedLuaSprite('burst', 'shaggy/burst', 1150, 600)
 	luaSpriteAddAnimationByPrefix('burst', 'burst', 'burst', 24, false);
+
+	precacheImage('shaggy/burst')
+	precacheSound('burst')
 end
+
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		startDialogue('dialogue', 'breakfast');
