@@ -1,6 +1,7 @@
 Update 1
 -Genshin Crossover
     -Added Triple Trouble, Copy Cat, Confronting Yourself, No Villains, Baka and Dad Battle
+    -Added Gospel challenge chart, and Ectospasm Apocalypse version challenge chart
     -Updated Ballistic to match the Definitive Edition
     -Updated stages for Madness, Gospel, Memories, and Power Link
     -Changed stage to corrupted stage for Dusk
