@@ -30,7 +30,7 @@ end
 function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Static Note' then
 		-- put something here if you want
-		makeLuaSprite('image', 'exe/StaticLUL', 200, 50);
+		makeLuaSprite('image', 'exe/StaticLUL', 0, 0);
     	addLuaSprite('image', true);
     	doTweenColor('hello', 'image', 'FFFFFFFF', 0.1, 'quartIn');
     	setObjectCamera('image', 'other');

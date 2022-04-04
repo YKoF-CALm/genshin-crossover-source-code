@@ -1,12 +1,27 @@
+local allowCountdown = false
+
 function onStartCountdown()
     setCharacterX('dad', 200)
     setCharacterY('dad', 330)
     setCharacterX('boyfriend', 850)
     setCharacterY('boyfriend', 330)
-    return Function_Continue;
+    if not allowCountdown then
+		runTimer('startText', 0.1);
+		allowCountdown = true;
+		startCountdown();
+		return Function_Stop;
+	end
+	return Function_Continue;
 end
 
 function onCreate()
+    makeLuaSprite('blackscreen', 'exe/blackscreen', 0, 0);
+	setObjectCamera('blackscreen', 'hud');
+    makeLuaSprite('circle', 'exe/StartScreens/CircleTripleTrouble', 777, 0);
+	setObjectCamera('circle', 'hud');
+    makeLuaSprite('text', 'exe/StartScreens/TextTripleTrouble', -1100, 0);
+	setObjectCamera('text', 'hud');
+
     makeAnimatedLuaSprite('static', 'exe/Phase3Static', 0, 0)
     addAnimationByPrefix('static', 'flash', 'Phase3Static instance 1', 24, false)
     setGraphicSize('static', getProperty('static.width') * 4)
@@ -125,10 +140,10 @@ end
 
 function onEvent(name,a,b)
     if name == 'Opponent Notes Left Side' then
-        setPropertyFromGroup('opponentStrums', 0, 'x', defaultOpponentStrumX0 + 40)
-        setPropertyFromGroup('opponentStrums', 1, 'x', defaultOpponentStrumX1 + 40)
-        setPropertyFromGroup('opponentStrums', 2, 'x', defaultOpponentStrumX2 + 40)
-        setPropertyFromGroup('opponentStrums', 3, 'x', defaultOpponentStrumX3 + 40)
+        setPropertyFromGroup('opponentStrums', 0, 'x', defaultOpponentStrumX0)
+        setPropertyFromGroup('opponentStrums', 1, 'x', defaultOpponentStrumX1)
+        setPropertyFromGroup('opponentStrums', 2, 'x', defaultOpponentStrumX2)
+        setPropertyFromGroup('opponentStrums', 3, 'x', defaultOpponentStrumX3)
 
         setPropertyFromGroup('playerStrums', 0, 'x', defaultPlayerStrumX0)
         setPropertyFromGroup('playerStrums', 1, 'x', defaultPlayerStrumX1)
@@ -142,10 +157,10 @@ function onEvent(name,a,b)
         setPropertyFromGroup('playerStrums', 2, 'x', defaultOpponentStrumX2)
         setPropertyFromGroup('playerStrums', 3, 'x', defaultOpponentStrumX3)
 
-        setPropertyFromGroup('opponentStrums', 0, 'x', defaultPlayerStrumX0 + 40)
-        setPropertyFromGroup('opponentStrums', 1, 'x', defaultPlayerStrumX1 + 40)
-        setPropertyFromGroup('opponentStrums', 2, 'x', defaultPlayerStrumX2 + 40)
-        setPropertyFromGroup('opponentStrums', 3, 'x', defaultPlayerStrumX3 + 40)
+        setPropertyFromGroup('opponentStrums', 0, 'x', defaultPlayerStrumX0)
+        setPropertyFromGroup('opponentStrums', 1, 'x', defaultPlayerStrumX1)
+        setPropertyFromGroup('opponentStrums', 2, 'x', defaultPlayerStrumX2)
+        setPropertyFromGroup('opponentStrums', 3, 'x', defaultPlayerStrumX3)
     end
 
     if name == 'Trigger Static' then
@@ -234,6 +249,22 @@ function onStepHit()
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
+    if tag == 'startText' then
+		addLuaSprite('blackscreen', true);
+		addLuaSprite('circle', true);
+		addLuaSprite('text', true);
+		runTimer('appear', 0.6, 1);
+		runTimer('fadeout', 1.9, 1);
+    end
+	if tag == 'appear' then
+		doTweenX('circletween', 'circle', 0, 0.5, 'linear');
+		doTweenX('texttween', 'text', 0, 0.5, 'linear');
+    end
+	if tag == 'fadeout' then
+		doTweenAlpha('circlefade', 'circle', 0, 1, 'linear');
+		doTweenAlpha('textfade', 'text', 0, 1, 'linear');
+		doTweenAlpha('blackfade', 'blackscreen', 0, 1, 'linear');
+	end
     if tag == 'bye' then
         setProperty('static.alpha', 0)
     end

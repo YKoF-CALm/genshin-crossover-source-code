@@ -1,9 +1,6 @@
-function onStartCountdown()
-    dady = getCharacterY('dad')
-    setCharacterY('dad', dady + 100)
-    cameraSetTarget('dad')
-    return Function_Continue;
-end
+--function onStartCountdown()
+    --return Function_Continue;
+--end
 
 function onCreate()
     removeLuaSprite('agoti', false)
@@ -14,6 +11,10 @@ function onCreate()
     luaSpriteAddAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, false)
     luaSpriteAddAnimationByPrefix('bfscared', 'scared', 'BF idle shaking', 24, true)
     addLuaSprite('bf', true)
+
+    dady = getCharacterY('dad')
+    setCharacterY('dad', dady + 100)
+    cameraSetTarget('dad')
 
     precacheImage('characters/BOYRFIEND')
 end

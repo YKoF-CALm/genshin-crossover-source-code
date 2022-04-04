@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "venti idle"
+		},
+		{
+			"offsets": [
+				37,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "venti down"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "venti up"
+		},
+		{
+			"offsets": [
+				41,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "venti left"
+		},
+		{
+			"offsets": [
+				-42,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "venti right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/venti",
+	"position": [
+		-370,
+		-190
+	],
+	"healthicon": "venti",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		193,
+		139
+	],
+	"camera_position": [
+		70,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

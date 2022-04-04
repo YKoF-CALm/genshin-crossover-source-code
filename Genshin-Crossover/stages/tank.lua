@@ -7,9 +7,8 @@ startedPlaying = false;
 
 function onCreate()
 	-- background shit
-	math.randomseed(os.time());
-	tankSpeed = math.random(5, 7);
-	tankAngle = math.random(-90, 45);
+	tankSpeed = getRandomInt(5, 7);
+	tankAngle = getRandomInt(-90, 45);
 	makeLuaSprite('tankSky', 'tank/tankSky', -400, -400);
 	setLuaSpriteScrollFactor('tankSky', 0, 0);
 
@@ -34,9 +33,9 @@ function onCreate()
 	
 	-- those are only loaded if you have Low quality turned off, to decrease loading times and memory
 	if not lowQuality then
-		makeLuaSprite('tankClouds', 'tank/tankClouds', math.random(-700, -100), math.random(-20, 20));
+		makeLuaSprite('tankClouds', 'tank/tankClouds', getRandomInt(-700, -100), getRandomInt(-20, 20));
 		setLuaSpriteScrollFactor('tankClouds', 0.1, 0.1);
-		setProperty('tankClouds.velocity.x', math.random(5, 15));
+		setProperty('tankClouds.velocity.x', getRandomInt(5, 15));
 
 		makeLuaSprite('tankMountains', 'tank/tankMountains', -300, -20);
 		setLuaSpriteScrollFactor('tankMountains', 0.2, 0.2);
@@ -107,6 +106,12 @@ function onUpdate(elapsed)
 	if inGameOver and not startedPlaying and not finishedGameover then
 		setPropertyFromClass('flixel.FlxG', 'sound.music.volume', 0.2);
 	end
+      if not finishedGameover and getProperty('boyfriend.animation.curAnim.name') == 'deathLoop' and not startedPlaying then
+            math.randomseed(curBeat * 4)
+            soundName = string.format('jeffGameover/jeffGameover-%i', getRandomInt(1, 25))
+            playSound(soundName, 1, 'voiceJeff')
+            startedPlaying = true
+      end
 end
 
 function moveTank(elapsed)
@@ -120,39 +125,30 @@ end
 
 -- Gameplay/Song interactions
 function onBeatHit()
-	-- triggered 4 times per section
-	luaSpritePlayAnimation('tankWatchtower', 'idle', true);
-	luaSpritePlayAnimation('tank0', 'idle', true);
-	luaSpritePlayAnimation('tank1', 'idle', true);
-	luaSpritePlayAnimation('tank2', 'idle', true);
-	luaSpritePlayAnimation('tank3', 'idle', true);
-	luaSpritePlayAnimation('tank4', 'idle', true);
-	luaSpritePlayAnimation('tank5', 'idle', true);
+	-- triggered 2 times per section
+      if curBeat % 2 == 0 then
+	      objectPlayAnimation('tankWatchtower', 'idle', true, 0);
+	      objectPlayAnimation('tank0', 'idle', true, 0);
+	      objectPlayAnimation('tank1', 'idle', true, 0);
+	      objectPlayAnimation('tank2', 'idle', true, 0);
+	      objectPlayAnimation('tank3', 'idle', true, 0);
+	      objectPlayAnimation('tank4', 'idle', true, 0);
+	      objectPlayAnimation('tank5', 'idle', true, 0);
+      end
 end
 
-function onCountdownTick(counter)
-	onBeatHit();
-end
-
-
--- Game over voiceline
-function onGameOver()
-	runTimer('playJeffVoiceline', 2.7);
-	return Function_Continue;
+function onSongStart()
+      objectPlayAnimation('tankWatchtower', 'idle', true, 0);
+	objectPlayAnimation('tank0', 'idle', true, 0);
+	objectPlayAnimation('tank1', 'idle', true, 0);
+	objectPlayAnimation('tank2', 'idle', true, 0);
+	objectPlayAnimation('tank3', 'idle', true, 0);
+	objectPlayAnimation('tank4', 'idle', true, 0);
+	objectPlayAnimation('tank5', 'idle', true, 0);
 end
 
 function onGameOverConfirm(reset)
 	finishedGameover = true;
-end
-
-function onTimerCompleted(tag, loops, loopsLeft)
-	-- A tween you called has been completed, value "tag" is it's tag
-	if not finishedGameover and tag == 'playJeffVoiceline' then
-		math.randomseed(os.time());
-                soundName = string.format('jeffGameover/jeffGameover-%i', math.random(1, 25))
-		playSound(soundName, 1, 'voiceJeff');
-		startedPlaying = true;
-	end
 end
 
 function onSoundFinished(tag)

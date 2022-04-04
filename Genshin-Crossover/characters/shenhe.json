@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "shenhe idle",
-			"indices": []
+			"indices": [],
+			"name": "shenhe idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "shenhe left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shenhe left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-62,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "shenhe right",
-			"indices": []
+			"indices": [],
+			"name": "shenhe right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "shenhe down",
-			"indices": []
+			"indices": [],
+			"name": "shenhe down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "shenhe up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "shenhe up"
 		}
 	],
 	"no_antialiasing": false,
@@ -70,7 +70,7 @@
 		228
 	],
 	"camera_position": [
-		180,
+		90,
 		90
 	],
 	"sing_duration": 4,

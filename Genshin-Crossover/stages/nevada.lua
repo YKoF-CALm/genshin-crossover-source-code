@@ -509,10 +509,10 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		objectPlayAnimation('laserdot', 'bop', true); --after the laser flickering has stopped, it starts bopping
 	end
 	if tag == 'gruntdeath' then
-			objectPlayAnimation('deimos', 'shoot', false);
-			objectPlayAnimation('sanford', 'shoot', false);
-			playSound('hankded', 0.3);
-			runTimer('gruntdied', 0.40, 1);
+		objectPlayAnimation('deimos', 'shoot', false);
+		objectPlayAnimation('sanford', 'shoot', false);
+		playSound('hankded', 0.3);
+		runTimer('gruntdied', 0.40, 1);
 	end
 	if tag == 'gruntdied' then
 		doTweenY('deadgruntTweenY', 'grunt', 1000, 0.25);

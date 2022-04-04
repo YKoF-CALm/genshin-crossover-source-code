@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "GFlol Idle"
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GFlol Left"
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GFlol Right"
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GFlol Down"
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GFlol Up"
+		},
+		{
+			"offsets": [
+				250,
+				-50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "hey",
+			"indices": [],
+			"name": "GFlol Hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFlol",
+	"position": [
+		250,
+		-220
+	],
+	"healthicon": "gflol",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		27,
+		27
+	],
+	"camera_position": [
+		-450,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

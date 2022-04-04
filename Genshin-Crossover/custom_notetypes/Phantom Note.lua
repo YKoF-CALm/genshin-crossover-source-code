@@ -20,12 +20,9 @@ end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'Phantom Note' then
-		healthDrop = healthDrop + 0.0005;
-		if healthDrop == 0.0005 then
-			runTimer('BITCHLMAO', 0.3 , 0.4);
-		else 
-			FUCKYOU = 0;
-		end
+		healthDrop = healthDrop + 0.00005;
+		runTimer('BITCHLMAO', 0.3 , 100);
+		FUCKYOU = 0;
     end
 end
 

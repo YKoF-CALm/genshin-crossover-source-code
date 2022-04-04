@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Amber Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Amber Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Amber Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "hey",
+			"indices": [],
+			"name": "Amber Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Amber Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Amber Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amber",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "eulamber",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		43,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

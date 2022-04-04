@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "yanfei idle"
+		},
+		{
+			"offsets": [
+				-12,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "yanfei left"
+		},
+		{
+			"offsets": [
+				6,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "yanfei right"
+		},
+		{
+			"offsets": [
+				-10,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "yanfei down"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "yanfei up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yanfei",
+	"position": [
+		-350,
+		-200
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		84,
+		75
+	],
+	"camera_position": [
+		10,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

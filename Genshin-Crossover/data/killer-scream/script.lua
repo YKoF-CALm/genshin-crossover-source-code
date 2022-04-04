@@ -1,5 +1,5 @@
 function onStartCountdown()
-    triggerEvent('Camera Follow Pos', 500, 200)
+    triggerEvent('Camera Follow Pos', 500, 300)
     setProperty("camGame.zoom", 0.55)
     setCharacterY(boyfriend, 150)
 	return Function_Continue;
@@ -13,6 +13,14 @@ function onCreate()
 
     precacheImage('russia/scream_overlay')
     precacheSound('staticSound')
+
+    setProperty('camHUD.visible', false)
+end
+
+function onStepHit()
+    if curStep == 256 then
+        setProperty('camHUD.visible', true)
+    end
 end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TheRedWemen.png"><SubTexture name="TheRedWemen Idle0000" x="0" y="0" width="753" height="719" frameX="-10" frameY="-95" frameWidth="785" frameHeight="841" />
+<SubTexture name="TheRedWemen Idle0001" x="751" y="719" width="752" height="717" frameX="-10" frameY="-96" frameWidth="785" frameHeight="841" />
+<SubTexture name="TheRedWemen Idle0002" x="753" y="0" width="753" height="719" frameX="-10" frameY="-94" frameWidth="785" frameHeight="841" />
+<SubTexture name="TheRedWemen Idle0003" x="0" y="719" width="751" height="719" frameX="-11" frameY="-94" frameWidth="785" frameHeight="841" />
+</TextureAtlas>

@@ -76,6 +76,6 @@ end
 
 function opponentNoteHit(id, direction, noteType, isSustainNote)
     if curStep >= 128 and curStep <= 160 then
-        cameraShake('game', 0.01, 0.1)
+        cameraShake('game', 0.01, 0.05)
     end
 end

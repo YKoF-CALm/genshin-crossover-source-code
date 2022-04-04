@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yanfei.png">
+<SubTexture name="yanfei down0000" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei down0001" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei down0002" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei down0003" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei down0004" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei down0005" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0000" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0001" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0002" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0003" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0004" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0005" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0006" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0007" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0008" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei idle0009" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0000" x="2008" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0001" x="2008" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0002" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0003" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0004" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei left0005" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0000" x="1004" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0001" x="1004" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0002" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0003" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0004" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei right0005" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0000" x="0" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0001" x="0" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0002" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0003" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0004" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="yanfei up0005" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+</TextureAtlas>

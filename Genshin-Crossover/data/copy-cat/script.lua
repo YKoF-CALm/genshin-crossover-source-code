@@ -19,7 +19,6 @@ function changeNoteSkin(skin, player)
 	    for i = 0, getProperty(player..'Strums.length')-1 do -- strums from the player parameter (ONLY OPPONENT AND PLAYER)
             setPropertyFromGroup(player..'Strums', i, 'texture', 'notes/'..skin) -- changes the noteskin from parameter skin
         end
-
         for i = 0, getProperty('unspawnNotes.length')-1 do -- counts all unspawned notes
             if getPropertyFromGroup('unspawnNotes', i, 'noteType') == '' then -- checks if the note is normal note
 		        if mustHit and getPropertyFromGroup('unspawnNotes', i, 'mustPress') then -- does a check if it's a player note
@@ -29,6 +28,7 @@ function changeNoteSkin(skin, player)
 		        end
             end
         end
+        
     end
 end
 

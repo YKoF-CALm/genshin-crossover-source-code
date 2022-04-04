@@ -1,3 +1,15 @@
+Update 2
+-Genshin Crossover
+    -Added Challeng-EDD, Beastfunkin, Checked, Talentless Fox, You Can't Run and Shinkyoku
+    -Modcharts. Like, lots of them
+    -Fixed audio glitches
+    -Updated credits (duh)
+    -Complete revamp of the Endless cover, with new vocals and modcharts
+    -Added the Sonic.exe start screens for the Sonic.exe covers
+    -Nerfed the damn Phantom arrows
+    -Updated Ballistic (again)
+    -Various minor optimizations and fixes for other covers
+
 Update 1
 -Genshin Crossover
     -Added Triple Trouble, Copy Cat, Confronting Yourself, No Villains, Baka and Dad Battle

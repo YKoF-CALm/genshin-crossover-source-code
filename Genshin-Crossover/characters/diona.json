@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "diona idle"
+		},
+		{
+			"offsets": [
+				29,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "diona left"
+		},
+		{
+			"offsets": [
+				-30,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "diona right"
+		},
+		{
+			"offsets": [
+				-10,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "diona down"
+		},
+		{
+			"offsets": [
+				-23,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "diona up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/diona",
+	"position": [
+		-350,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		120,
+		140
+	],
+	"camera_position": [
+		60,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "hillzoneTails",
+		"player1": "miko-player",
+		"player2": "gorou",
+		"player3": null,
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"gorou-trolled"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "notesplashes/AndroSplash",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "talentless-fox"
+	}
+}

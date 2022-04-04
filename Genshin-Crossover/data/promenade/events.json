@@ -7,7 +7,7 @@
 		"player3": null,
 		"events": [],
 		"notes": [],
-		"splashSkin": null,
+		"splashSkin": "notesplashes/entitysplashes",
 		"validScore": false,
 		"gfVersion": "emptygf",
 		"bpm": 128,

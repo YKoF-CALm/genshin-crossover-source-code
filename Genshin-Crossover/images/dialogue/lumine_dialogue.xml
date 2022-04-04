@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lumine_dialogue.png">
+<SubTexture name="lumine0000" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine blank0000" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine close eyes0000" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine content0000" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine happy0000" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine laugh0000" x="2008" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine nervous0000" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine pissed0000" x="1004" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine serious0000" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine serious talk0000" x="0" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine surprised0000" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine talk0000" x="2008" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="lumine very serious0000" x="0" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+</TextureAtlas>

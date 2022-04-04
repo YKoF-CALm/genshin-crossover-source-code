@@ -102,7 +102,7 @@ end
 
 function onCreate()
 	setPropertyFromClass('GameOverSubstate', 'characterName', 'sonic'); --Character json file for the death animation
-	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx'); --put in mods/sounds/
+	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'cys_fnf_loss_sfx'); --put in mods/sounds/
 	setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'cysgameOver'); --put in mods/music/
 	setPropertyFromClass('GameOverSubstate', 'endSoundName', 'cysgameOverEnd'); --put in mods/music/
     --[[

@@ -1,0 +1,40 @@
+{
+	"storyName": "some more funni",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"You Can't Run",
+			"exep2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Shinkyoku",
+			"monipai",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

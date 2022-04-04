@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "albedo idle"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "albedo up"
+		},
+		{
+			"offsets": [
+				32,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "albedo down"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "albedo left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "albedo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/albedo",
+	"position": [
+		-330,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		154,
+		46
+	],
+	"camera_position": [
+		-10,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

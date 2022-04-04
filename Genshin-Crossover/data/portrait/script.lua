@@ -36,4 +36,16 @@ function onUpdate(elapsed)
     else
         cameraSetTarget('boyfriend')
     end
+    songPos = getSongPosition()
+    local currentBeat = (songPos / 1000)*(bpm/60)
+    if curStep >= 0 then
+        noteTweenX('ox1', 0, defaultOpponentStrumX0 + 12.5 * math.sin((currentBeat + 0*50) * math.pi), 0.1, 'linear')
+        noteTweenX('ox2', 1, defaultOpponentStrumX1 + 12.5 * math.sin((currentBeat + 1*50) * math.pi), 0.1, 'linear')
+        noteTweenX('ox3', 2, defaultOpponentStrumX2 + 12.5 * math.sin((currentBeat + 2*50) * math.pi), 0.1, 'linear')
+        noteTweenX('ox4', 3, defaultOpponentStrumX3 + 12.5 * math.sin((currentBeat + 3*50) * math.pi), 0.1, 'linear')
+        noteTweenX('px1', 4, defaultPlayerStrumX0 + 12.5 * math.sin((currentBeat + 4*50) * math.pi), 0.1, 'linear')
+        noteTweenX('px2', 5, defaultPlayerStrumX1 + 12.5 * math.sin((currentBeat + 5*50) * math.pi), 0.1, 'linear')
+        noteTweenX('px3', 6, defaultPlayerStrumX2 + 12.5 * math.sin((currentBeat + 6*50) * math.pi), 0.1, 'linear')
+        noteTweenX('px4', 7, defaultPlayerStrumX3 + 12.5 * math.sin((currentBeat + 7*50) * math.pi), 0.1, 'linear')
+	end
 end

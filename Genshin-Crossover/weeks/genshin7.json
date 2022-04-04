@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"Dad Battle GI",
@@ -24,8 +20,39 @@
 				113,
 				253
 			]
+		],
+		[
+			"Challengedd",
+			"edd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beastfunkin",
+			"beast",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Talentless Fox",
+			"tgttails",
+			[
+				146,
+				113,
+				253
+			]
 		]
 	],
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"weekName": "Custom Week"
 }
