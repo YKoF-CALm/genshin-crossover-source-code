@@ -1,20 +1,64 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
+			"fps": 24,
+			"name": "ganyu-mad idle",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "ganyu-mad idle"
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ganyu-mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ganyu-mad dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ganyu-mad umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ganyu-mad lmiss",
+			"indices": []
 		},
 		{
 			"offsets": [
-				5,
-				2
+				32,
+				0
 			],
 			"indices": [],
 			"fps": 24,
@@ -24,19 +68,8 @@
 		},
 		{
 			"offsets": [
-				1,
+				-5,
 				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "ganyu-mad down"
-		},
-		{
-			"offsets": [
-				-10,
-				4
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				2,
-				3
+				-29,
+				2
 			],
 			"indices": [],
 			"fps": 24,
@@ -57,47 +90,14 @@
 		},
 		{
 			"offsets": [
-				6,
-				1
+				33,
+				0
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"loop": false,
 			"name": "ganyu-mad rmiss"
-		},
-		{
-			"offsets": [
-				-1,
-				1
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "ganyu-mad dmiss"
-		},
-		{
-			"offsets": [
-				-11,
-				5
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUPmiss",
-			"loop": false,
-			"name": "ganyu-mad umiss"
-		},
-		{
-			"offsets": [
-				-4,
-				2
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "ganyu-mad lmiss"
 		}
 	],
 	"no_antialiasing": false,

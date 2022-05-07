@@ -19,7 +19,11 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 		else
 			characterPlayAnim('dad', 'attack', true)
 		end
-		characterPlayAnim('boyfriend', dodgeAnims[direction+1], true);
+		if boyfriendName == 'bf-accelerant' then
+			characterPlayAnim('boyfriend', dodgeAnims[direction+1], true);
+		else
+			characterPlayAnim('boyfriend', 'dodge', true)
+		end
 		setProperty('boyfriend.specialAnim', true);
 		cameraShake('camGame', 0.01, 0.2)
     end

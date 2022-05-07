@@ -1,41 +1,41 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "ganyu-mad idle"
+			"fps": 24,
+			"name": "ganyu-mad idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "ganyu-mad down"
-		},
-		{
-			"offsets": [
-				-10,
-				4
-			],
-			"indices": [],
 			"fps": 24,
-			"anim": "singUP",
+			"name": "ganyu-mad down",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "ganyu-mad up"
+			"offsets": [
+				-41,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ganyu-mad right",
+			"indices": []
 		},
 		{
 			"offsets": [
-				5,
+				19,
 				2
 			],
 			"indices": [],
@@ -46,14 +46,14 @@
 		},
 		{
 			"offsets": [
-				2,
-				3
+				-5,
+				0
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singUP",
 			"loop": false,
-			"name": "ganyu-mad right"
+			"name": "ganyu-mad up"
 		}
 	],
 	"no_antialiasing": false,

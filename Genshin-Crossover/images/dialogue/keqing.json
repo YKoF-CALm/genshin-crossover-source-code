@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		220,
+		-270
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "keqing talk",
+			"idle_name": "keqing talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "keqing excited",
+			"idle_name": "keqing excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "keqing pissed",
+			"idle_name": "keqing pissed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "keqing shocked",
+			"idle_name": "keqing shocked"
+		},
+		{
+			"loop_name": "keqing awkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing awkward",
+			"anim": "awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing challenge",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing challenge",
+			"anim": "challenge",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing nervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing nervous",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing thinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing thinking",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "keqing tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "keqing tired",
+			"anim": "tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "keqing"
+}

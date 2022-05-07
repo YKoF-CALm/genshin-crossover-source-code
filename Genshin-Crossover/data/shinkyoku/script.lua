@@ -1,5 +1,7 @@
 local defx = {}
 local defy = {}
+local allowIdleBF = true
+local allowIdleDad = true
 
 function onCreate()
     addCharacterToList('amber', 'dad')
@@ -169,22 +171,26 @@ end
 
 function onBeatHit()
     if curBeat % 2 == 0 then
-        objectPlayAnimation('ayato', 'idle', false)
-        objectPlayAnimation('aether', 'idle', false)
-        objectPlayAnimation('Eula', 'idle', false)
-        objectPlayAnimation('jean', 'idle', false)
-        objectPlayAnimation('albedo', 'idle', false)
-        objectPlayAnimation('diona', 'idle', false)
-        objectPlayAnimation('chongyun', 'idle', false)
-        objectPlayAnimation('keqing', 'idle', false)
-        objectPlayAnimation('xingqiu', 'idle', false)
-        objectPlayAnimation('xiao', 'idle', false)
-        objectPlayAnimation('gorou', 'idle', false)
-        objectPlayAnimation('kazuha', 'idle', false)
-        objectPlayAnimation('thoma', 'idle', false)
-        objectPlayAnimation('itto', 'idle', false)
-        objectPlayAnimation('zhongli', 'idle', false)
-        objectPlayAnimation('ei', 'idle', false)
+        if allowIdleBF then
+            objectPlayAnimation('aether', 'idle', false)
+            objectPlayAnimation('jean', 'idle', false)
+            objectPlayAnimation('diona', 'idle', false)
+            objectPlayAnimation('keqing', 'idle', false)
+            objectPlayAnimation('xiao', 'idle', false)
+            objectPlayAnimation('kazuha', 'idle', false)
+            objectPlayAnimation('itto', 'idle', false)
+            objectPlayAnimation('ei', 'idle', false)
+        end
+        if allowIdleDad then
+            objectPlayAnimation('ayato', 'idle', false)
+            objectPlayAnimation('Eula', 'idle', false)
+            objectPlayAnimation('albedo', 'idle', false)
+            objectPlayAnimation('chongyun', 'idle', false)
+            objectPlayAnimation('xingqiu', 'idle', false)
+            objectPlayAnimation('gorou', 'idle', false)
+            objectPlayAnimation('thoma', 'idle', false)
+            objectPlayAnimation('zhongli', 'idle', false)
+        end
     end
 end
 
@@ -204,6 +210,8 @@ function opponentNoteHit(id,d,t,s)
         objectPlayAnimation('gorou', lastNote[1], true)
         objectPlayAnimation('thoma', lastNote[1], true)
         objectPlayAnimation('zhongli', lastNote[1], true)
+        allowIdleDad = false
+        runTimer('resumeIdleDad', 0.5, 1)
     end
 end
 
@@ -221,6 +229,8 @@ function goodNoteHit(id,d,t,s)
         objectPlayAnimation('kazuha', lastNote[1], true)
         objectPlayAnimation('itto', lastNote[1], true)
         objectPlayAnimation('ei', lastNote[1], true)
+        allowIdleBF = false
+        runTimer('resumeIdleBF', 0.5, 1)
     end
 end
 
@@ -561,8 +571,8 @@ function onUpdate(elapsed)
         setProperty('diona.y', -80)
     end
     if getProperty('keqing.animation.curAnim.name') == '0' then
-        setProperty('keqing.x', 945)
-        setProperty('keqing.y', -70)
+        setProperty('keqing.x', 918)
+        setProperty('keqing.y', -73)
     elseif getProperty('keqing.animation.curAnim.name') == '1' then
         setProperty('keqing.x', 967)
         setProperty('keqing.y', -80)
@@ -570,8 +580,8 @@ function onUpdate(elapsed)
         setProperty('keqing.x', 959)
         setProperty('keqing.y', -77)
     elseif getProperty('keqing.animation.curAnim.name') == '3' then
-        setProperty('keqing.x', 996)
-        setProperty('keqing.y', -84)
+        setProperty('keqing.x', 966)
+        setProperty('keqing.y', -74)
     else
         setProperty('keqing.x', 1000)
         setProperty('keqing.y', -80)
@@ -716,6 +726,16 @@ function onUpdate(elapsed)
             noteTweenX(i..'l0px', i+4, defx[i+4] + 40 * math.sin((currentBeat + (i+4)*0.35) * math.pi), 0.1, 'linear')
             noteTweenY(i..'l0py', i+4, defy[i+4] + 40 * math.cos((currentBeat + (i+4)*0.35) * math.pi), 0.1, 'linear')
         end
+    end
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+    if tag == 'resumeIdleDad' then
+        allowIdleDad = true
+    end
+
+    if tag == 'resumeIdleBF' then
+        allowIdleBF = true
     end
 end
 

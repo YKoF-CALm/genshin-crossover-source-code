@@ -1,0 +1,444 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "aloe",
+			"boxState": "normal",
+			"expression": "exhausted",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well, I guess we take the dub"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "...yes, I have been defeated"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "Heh, then, uhh, you won't try to kill them anymore?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "I sense that you have no ulterior motives"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "relieved",
+			"text": "Therefore, I am willing to accompany you on your investigation for this dilemma that we have found ourselves in from Teyvat"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...I'll take that as a yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, Keqing, you beat the Raiden Shogun. Isn't that, like, an achievement for you or something?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "You can say it is"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "After the Liyue Qixing took over the governing duties for Liyue, I asked myself this:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "'Can we really move forward and maintain the prosperity of Liyue just as Rex Lapis had done for the past 3700 years?'"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "This encounter hasn't really answered my question yet, but it has taught me one thing:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "With our capabilities, anything is possible, even taking over the work of a god"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You can say that this victory isn't just an achievement, but an inspiration"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That is a LOT to take in, but I'm glad that you're happy with this victory"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BTW, what power were you sensing in me anyway? Is it my phone or...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, what I sense is something far greater than anything I have ever seen"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Something akin to transcending space and time, or an equivalent power"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, could it be his reset ability?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "OH BRUH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't seem to follow..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, so I have this thing where basically if I lose a rap battle, I can reset time to the beginning of the rap battle and try again"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Well, that odd"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Why didn't you tell me this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because I didn't have to"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Either way, this probably explains the power that I sense within you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As for GF, probably because she's a demon with a bunch of cool abilities and such"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "You mean like this thing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "spooked",
+			"text": "What the hell!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Girl, chill, it's just my demon form"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "content",
+			"text": "Oh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, we should probably head to my place, gotta get Ei settled in somehow"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Speaking of that, you said there were others that you've met from Teyvat?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, Keqing is an example"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are there any that have dropped in from Inazuma, perhaps?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let me think..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's this firework girl, what was her name again?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You must be talking about Yoimiya!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm, so that's where she went"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I had no idea where she could've disappeared to after her father told the Tenryou Commission that she was missing"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, now you'll probably be reported to be missing, too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Perhaps"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "But, knowing Inazuma, my disappearance shouldn't be too big of an issue for them"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I don't mean to interrupt, but we ARE going to your place, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I didn't forget about our plans"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll get Ei settled in with the others and let her be comfortable there, then we'll head off to the recording studio"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "cheery",
+			"text": "Cool! Then you can record your first collab with BF!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After that, we could probably hang out with the Teyvat people for a while, too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe",
+			"boxState": "normal",
+			"expression": "fine",
+			"text": "Unexpected, but hey, I guess everything worked out in the end"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe",
+			"boxState": "normal",
+			"expression": "lean_tired",
+			"text": "I just don't want any more sudden encounters. One is more than enough for me already"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Same"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "yoimiya right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "yoimiya left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "yoimiya idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yoimiya up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yoimiya down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yoimiya-duality",
+	"position": [
+		-350,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		129,
+		0
+	],
+	"camera_position": [
+		180,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

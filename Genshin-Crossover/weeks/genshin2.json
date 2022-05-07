@@ -2,12 +2,12 @@
 	"storyName": "more genshin lmao",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"hideStoryMode": true,
 	"weekCharacters": [
@@ -26,17 +26,8 @@
 			]
 		],
 		[
-			"Thunderstorm",
-			"rshaggy",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
 			"Genocide",
-			"tabi genocide",
+			"tabi-crazy",
 			[
 				146,
 				113,
@@ -46,6 +37,15 @@
 		[
 			"Dusk",
 			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Crucify",
+			"taki",
 			[
 				146,
 				113,

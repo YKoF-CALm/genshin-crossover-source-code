@@ -1,103 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "keqing idle"
+			"fps": 24,
+			"name": "keqing idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				28,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "keqing down"
+			"fps": 24,
+			"name": "keqing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				36,
 				-3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "keqing up"
+			"fps": 24,
+			"name": "keqing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-1,
+				29,
 				-6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "keqing left"
+			"fps": 24,
+			"name": "keqing left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				50,
-				-10
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				77,
+				-7
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "keqing right"
+			"fps": 24,
+			"name": "keqing right",
+			"indices": []
 		},
 		{
 			"offsets": [
-				50,
-				-10
+				49,
+				-11
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "keqing rmiss"
-		},
-		{
-			"offsets": [
-				28,
-				0
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "keqing dmiss"
-		},
-		{
-			"offsets": [
-				-1,
-				-6
-			],
+			"anim": "dodge",
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "keqing lmiss"
-		},
-		{
-			"offsets": [
-				36,
-				-3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "keqing umiss"
+			"name": "keqing dodge"
 		}
 	],
 	"no_antialiasing": false,

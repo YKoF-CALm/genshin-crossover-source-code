@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "RIGHTshoot",
-			"loop": false,
-			"name": "yoimiya rshoot"
+			"fps": 24,
+			"name": "yoimiya rshoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "LEFTshoot",
-			"loop": false,
-			"name": "yoimiya lshoot"
+			"fps": 24,
+			"name": "yoimiya lshoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "DOWNshoot",
-			"loop": false,
-			"name": "yoimiya dshoot"
+			"fps": 24,
+			"name": "yoimiya dshoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				8,
 				3
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "yoimiya right"
+			"fps": 24,
+			"name": "yoimiya right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				5
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "yoimiya left"
+			"fps": 24,
+			"name": "yoimiya left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "UPshoot",
-			"loop": false,
-			"name": "yoimiya ushoot"
+			"fps": 24,
+			"name": "yoimiya ushoot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "yoimiya idle"
-		},
-		{
-			"offsets": [
-				2,
-				-1
-			],
-			"indices": [],
 			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "yoimiya up"
+			"name": "yoimiya idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-8,
-				-2
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
 			"loop": false,
-			"name": "yoimiya down"
-		},
-		{
 			"offsets": [
-				0,
+				-2,
 				0
 			],
-			"indices": [],
+			"anim": "singUP",
 			"fps": 24,
-			"anim": "idle-alt",
+			"name": "yoimiya up",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "yoimiya ready"
+			"offsets": [
+				-16,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yoimiya down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "yoimiya ready",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

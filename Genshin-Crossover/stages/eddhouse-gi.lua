@@ -114,11 +114,6 @@ function onStepHit()
 		doTweenAlpha('SkyTweenAlpha3', 'sky', 0.7, 0.2);
 		doTweenZoom('ZoominToNeighbours3', 'camGame', 0.9, 0.2);
 		runTimer('SkyToNormal', 1, 1)
-		function onTimerCompleted(tag, loops, loopsLeft)
-			if tag == 'SkyToNormal' then
-				doTweenAlpha('SkyTweenAlpha4', 'sky', 1, 2);
-			end
-		end
 	end
 	if curStep == 940 then
 		removeLuaSprite('bf2', false)
@@ -132,6 +127,8 @@ function onStepHit()
 		objectPlayAnimation('tankman', 'well', true)
 	end
 end -- hello im serdzhant
+
+local allowIdle = true
 
 function onBeatHit()
 	if curBeat % 2 == 0 and curStep < 912 then
@@ -157,7 +154,7 @@ function onBeatHit()
 		if curStep > 952 then
 			objectPlayAnimation('pico3', 'idle', true);
 		end
-		if curStep < 1584 then
+		if allowIdle and curStep < 1584 then
 			objectPlayAnimation('tankman', 'idle', true)
 		end
 	end
@@ -191,6 +188,8 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
 		animToPlay = noteDatas.tankman;
 			
 		playAnimation(characterToPlay, animToPlay, true);
+		allowIdle = false
+		runTimer('resumeIdle', 0.5, 1)
 	end
 end
 
@@ -224,5 +223,15 @@ end
 function onTweenCompleted(tag)
 	if tag == 'PlaneTweenX' then
 		removeLuaSprite('plane', true); -- optimization
+	end
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+	if tag == 'SkyToNormal' then
+		doTweenAlpha('SkyTweenAlpha4', 'sky', 1, 2);
+	end
+	
+	if tag == 'resumeIdle' then
+		allowIdle = true
 	end
 end

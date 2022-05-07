@@ -43,6 +43,8 @@ function onCreate()
     setProperty('jumpstatic.alpha', 0.3)
     setObjectCamera('jumpstatic', 'other')
 
+    setProperty('introSoundsSuffix', '-blank')
+
     precacheImage('genshin/shenhejs')
     precacheImage('genshin/xiaojs')
     precacheImage('genshin/hutaojs')

@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		220,
+		-260
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "barbara talk",
+			"idle_name": "barbara talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "barbara excited",
+			"idle_name": "barbara excited"
+		},
+		{
+			"loop_name": "barbara happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara hurt",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara hurt",
+			"anim": "hurt",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara laugh",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara nervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara nervous",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara pray",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara pray",
+			"anim": "pray",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "barbara thinking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "barbara thinking",
+			"anim": "thinking",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "barbara"
+}

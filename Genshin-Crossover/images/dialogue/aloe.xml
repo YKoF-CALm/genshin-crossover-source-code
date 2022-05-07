@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aloe.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AloeAsideGlance10000" x="2" y="2" width="1042" height="1211"/>
+	<SubTexture name="AloeAsideGlance20000" x="1048" y="2" width="1042" height="1211"/>
+	<SubTexture name="AloeDefault BruhMoment0000" x="2094" y="2" width="1045" height="1183"/>
+	<SubTexture name="AloeDefault DontWorry0000" x="3143" y="2" width="1045" height="1183"/>
+	<SubTexture name="AloeDefault Grin0000" x="4192" y="2" width="1045" height="1183"/>
+	<SubTexture name="AloeDefault Neutral0000" x="5241" y="2" width="1045" height="1183"/>
+	<SubTexture name="AloeExhausted0000" x="6290" y="2" width="1073" height="1110"/>
+	<SubTexture name="AloeLeaning Flustered0000" x="2" y="1217" width="1043" height="1172"/>
+	<SubTexture name="AloeLeaning Shocked0000" x="1049" y="1217" width="1043" height="1173"/>
+	<SubTexture name="AloeLeaning SoDone0000" x="2096" y="1217" width="1043" height="1172"/>
+	<SubTexture name="AloeLeaning Tired0000" x="3143" y="1217" width="1043" height="1172"/>
+	<SubTexture name="AloeLookingAway AreYouSure0000" x="4190" y="1217" width="873" height="1124"/>
+	<SubTexture name="AloeLookingAway Remorseful0000" x="5067" y="1217" width="873" height="1124"/>
+	<SubTexture name="AloeLookingAway ShySmile0000" x="5944" y="1217" width="873" height="1124"/>
+	<SubTexture name="AloeLookingAway Tsundere0000" x="6821" y="1217" width="873" height="1124"/>
+	<SubTexture name="AloeLookingAway Unsure0000" x="2" y="2394" width="873" height="1124"/>
+	<SubTexture name="AloeSidetilt Boast0000" x="879" y="2394" width="1264" height="1211"/>
+	<SubTexture name="AloeSidetilt Determined0000" x="2147" y="2394" width="1264" height="1211"/>
+	<SubTexture name="AloeSidetilt DeterminedQuiet0000" x="3415" y="2394" width="1042" height="1211"/>
+	<SubTexture name="AloeSidetilt Flattered0000" x="4461" y="2394" width="1099" height="1211"/>
+	<SubTexture name="AloeSidetilt Prideful0000" x="5564" y="2394" width="1099" height="1211"/>
+</TextureAtlas>

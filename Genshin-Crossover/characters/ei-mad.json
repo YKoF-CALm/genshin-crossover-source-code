@@ -1,59 +1,70 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-7,
-				-1
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": false,
-			"name": "ei-mad idalt"
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "burst",
+			"fps": 24,
+			"name": "ei-mad burst",
+			"indices": []
 		},
 		{
 			"offsets": [
-				16,
-				-3
+				-26,
+				1
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "ei-mad lalt"
+			"name": "ei-mad left"
 		},
 		{
 			"offsets": [
-				-50,
-				-1
+				-60,
+				-6
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "ei-mad ralt"
+			"name": "ei-mad right"
 		},
 		{
 			"offsets": [
-				-10,
+				-30,
 				-1
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "ei-mad dalt"
+			"name": "ei-mad down"
 		},
 		{
 			"offsets": [
-				-10,
-				-1
+				-13,
+				2
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "ei-mad ualt"
+			"name": "ei-mad up"
+		},
+		{
+			"offsets": [
+				-8,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ei-mad idle"
 		},
 		{
 			"offsets": [
@@ -65,17 +76,6 @@
 			"anim": "attack",
 			"loop": false,
 			"name": "ei-mad attack"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "burst",
-			"loop": false,
-			"name": "ei-mad burst"
 		}
 	],
 	"no_antialiasing": false,

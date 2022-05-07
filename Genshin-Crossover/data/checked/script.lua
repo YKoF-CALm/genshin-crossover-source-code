@@ -1,13 +1,44 @@
 local allowCountdown = false
+local dia1 = false
+local dia2 = false
+local blockEnd = true
+
 function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
-	if not allowCountdown and isStoryMode and not seenCutscene then
+	if not allowCountdown and not dia1 then
 		setProperty('inCutscene', true)
 		runTimer('startDialogue', 0.8)
-		allowCountdown = true
+        dia1 = true
 		return Function_Stop
 	end
 	return Function_Continue
+end
+
+function onEndSong()
+    if not allowCountdown and blockEnd then
+		if not dia2 then
+			dia2 = true
+        	setProperty('inCutscene', true)
+			startDialogue('dialogue2');
+			runTimer('delayEnd', 150)
+		end
+		if keyJustPressed('back') then
+			blockEnd = false
+			cancelTimer('delayEnd')
+			endSong()
+    		return Function_Continue;
+		end
+		return Function_Stop;
+	end
+	return Funtion_Continue;
+end
+
+function onNextDialogue(count)
+	if dia2 and count >= 123 then
+        runTimer('endthethingalready', 10)
+        blockEnd = false
+		cancelTimer('delayEnd')
+	end
 end
 
 -- Dialogue (When a dialogue is finished, it calls startCountdown again)
@@ -15,26 +46,16 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		startDialogue('dialogue')
 	end
-end
 
-function onNextDialogue(count)
-	-- triggered when the next dialogue line starts, 'line' starts with 1
-end
+    if tag == 'delayEnd' then
+		blockEnd = false
+		endSong()
+	end
 
-function onSkipDialogue(count)
-	-- triggered when you press Enter and skip a dialogue line that was still being typed, dialogue line starts with 1
-end
-
-local allowEndShit = false
-
-function onEndSong()
-    if not allowEndShit and isStoryMode and not seenCutscene then
-        setProperty('inCutscene', true)
-        startDialogue('dialogue2')
-        allowEndShit = true
-        return Function_Stop
+    if tag == 'endthethingalready' then
+        blockEnd = false
+        endSong()
     end
-    return Function_Continue
 end
 
 function onCreate()

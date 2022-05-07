@@ -15,6 +15,8 @@ function onCreate()
 	setObjectCamera('circle', 'hud');
     makeLuaSprite('text', 'exe/StartScreens/TextMajin', -1100, 0);
 	setObjectCamera('text', 'hud');
+
+    setProperty('introSoundsSuffix', '-blank')
 end
 
 local allowCountdown = false

@@ -58,6 +58,7 @@ function onCreate()
     setProperty('ei.flipX', true)
     setProperty('ei.scale.x', 0.8)
     setProperty('ei.scale.y', 0.8)
+    setProperty('introSoundsSuffix', '-blank')
 end
 
 local allowCountdown = false

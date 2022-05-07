@@ -2,13 +2,14 @@
 	"storyName": "Genshin Invasion",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
@@ -25,7 +26,7 @@
 			]
 		],
 		[
-			"Ballistic",
+			"Ballistic Remix",
 			"whittycrazy",
 			[
 				146,
@@ -52,6 +53,5 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
 	"weekName": "Genshin Week"
 }

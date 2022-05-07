@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "rosaria idle"
+		},
+		{
+			"offsets": [
+				75,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "rosaria left"
+		},
+		{
+			"offsets": [
+				50,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "rosaria up"
+		},
+		{
+			"offsets": [
+				-29,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "rosaria down"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rosaria right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rosaria",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		5,
+		60
+	],
+	"camera_position": [
+		80,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

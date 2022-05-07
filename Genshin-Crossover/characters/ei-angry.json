@@ -9,51 +9,51 @@
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "ei-mad idle"
+			"name": "ei-mad idalt"
 		},
 		{
 			"offsets": [
-				16,
-				-3
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "ei-mad left"
-		},
-		{
-			"offsets": [
-				-50,
-				-1
+				-4,
+				-2
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "ei-mad right"
+			"name": "ei-mad ralt"
 		},
 		{
 			"offsets": [
-				-10,
-				-1
+				13,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ei-mad lalt"
+		},
+		{
+			"offsets": [
+				41,
+				7
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "ei-mad down"
+			"name": "ei-mad dalt"
 		},
 		{
 			"offsets": [
-				-10,
-				-1
+				46,
+				7
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "ei-mad up"
+			"name": "ei-mad ualt"
 		}
 	],
 	"no_antialiasing": false,
