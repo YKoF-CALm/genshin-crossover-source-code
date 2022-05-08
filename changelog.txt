@@ -1,3 +1,14 @@
+Update 2.1
+-Genshin Crossover
+    -Added BI-NB, Milk, Left Unchecked, Uproar, Crucify, Duality and Sansational
+    -Remastered Confronting Yourself cover
+    -Added the Raiden Shogun week
+    -Checked is not in Story Mode anymore, but in Freeplay as a mini-story, along with Sansational. Dialogue is triggered in Freeplay
+    -Fixed the glitchy movement for 2nd characters (characters not included in the opponent or boyfriend groups in Playstate)
+    -Fixed vocals for various covers
+    -Update credits, with more icons
+    -Added more stuff from other mods to resemble the covers to their original songs
+
 Update 2
 -Genshin Crossover
     -Added Challeng-EDD, Beastfunkin, Checked, Talentless Fox, You Can't Run and Shinkyoku
