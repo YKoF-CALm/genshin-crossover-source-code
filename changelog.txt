@@ -1,3 +1,25 @@
+Update 3
+Split Genshin Crossover into 3 more modpacks, and changed Genshin Crossover (C) to GC External
+-Genshin Crossover
+    -Added Radiant Dream
+    -ALL credits are moved here
+    -Custom Ganyu sprite added
+    -File cleanup
+-GC Covers
+    -Added Epiphany, Dilemma, Deep Breaths, Deep Poems, Last Chance, Zavodila, Jump In, Phantasm, Four Way Fracture, Roasted, Final Stretch, Freaky Machine, Sunshine, Red and Black and Snake Eyes
+    -Added Wilter as a mini-story
+    -More cover optimizations and remasters
+    -Added in new assets (again) to fit the covers
+    -New sprites for Ganyu and Yanfei
+    -Remastered Duality cover
+    -File cleanup
+-GC Challenge
+    -Moved all challenge charts here, and added new challenge charts for Zavodila
+    -File cleanup
+-GC External
+    -File cleanup
+    -Name change (I legit did nothing lol)
+
 Update 2.1
 -Genshin Crossover
     -Added BI-NB, Milk, Left Unchecked, Uproar, Crucify, Duality and Sansational
