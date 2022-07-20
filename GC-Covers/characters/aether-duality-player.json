@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "aether idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "aether down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "aether up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "aether right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "aether left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aether-duality",
+	"position": [
+		-350,
+		-190
+	],
+	"healthicon": "aether",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		240,
+		171
+	],
+	"camera_position": [
+		40,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

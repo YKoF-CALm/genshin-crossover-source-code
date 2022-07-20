@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="upper bop RIGHT.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd Bob RIGHT0000" x="30" y="30" width="987" height="283" pivotX="-1025.65" pivotY="-293.9" frameX="-1" frameY="-15" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0001" x="30" y="30" width="987" height="283" frameX="-1" frameY="-15" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0002" x="1017" y="30" width="982" height="288" frameX="-1" frameY="-10" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0003" x="1017" y="30" width="982" height="288" frameX="-1" frameY="-10" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0004" x="30" y="318" width="983" height="296" frameX="0" frameY="-3" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0005" x="30" y="318" width="983" height="296" frameX="0" frameY="-3" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0006" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0007" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0008" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0009" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0010" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0011" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+	<SubTexture name="Upper Crowd Bob RIGHT0012" x="1013" y="318" width="981" height="299" frameX="0" frameY="0" frameWidth="988" frameHeight="299"/>
+</TextureAtlas>

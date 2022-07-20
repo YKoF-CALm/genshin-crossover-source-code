@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle ganyu"
+		},
+		{
+			"offsets": [
+				29,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singright ganyu"
+		},
+		{
+			"offsets": [
+				-67,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singleft ganyu"
+		},
+		{
+			"offsets": [
+				81,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"offsets": [
+				20,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
+		},
+		{
+			"offsets": [
+				-13,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY ganyu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GanYu fnf",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "ganyuh24",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		202,
+		235
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

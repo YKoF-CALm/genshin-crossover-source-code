@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				52800,
+				[
+					[
+						"Hey!",
+						"Both",
+						"1.5"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

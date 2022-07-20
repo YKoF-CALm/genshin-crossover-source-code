@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YanFei fnf.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEY!! yanfei0000" x="0" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0001" x="0" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0002" x="391" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0003" x="782" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0004" x="1173" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0005" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0006" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0007" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0008" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0009" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0010" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0011" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0012" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0013" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0014" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0015" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0016" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0017" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0018" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0019" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0020" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0021" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0022" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0023" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0024" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="HEY!! yanfei0025" x="1564" y="0" width="391" height="762"/>
+	<SubTexture name="down yanfei0000" x="1955" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0001" x="1955" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0002" x="2434" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0003" x="2434" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0004" x="2913" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0005" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0006" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0007" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0008" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0009" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0010" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0011" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0012" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0013" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0014" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0015" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0016" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0017" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0018" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0019" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0020" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0021" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0022" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0023" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0024" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0025" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0026" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0027" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0028" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0029" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0030" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0031" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0032" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0033" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0034" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0035" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0036" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0037" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0038" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0039" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0040" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0041" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0042" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0043" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0044" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0045" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0046" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0047" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0048" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0049" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0050" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0051" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0052" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0053" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0054" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0055" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0056" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0057" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0058" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0059" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0060" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0061" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0062" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0063" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0064" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0065" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0066" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0067" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0068" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0069" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0070" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0071" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="down yanfei0072" x="3392" y="0" width="479" height="736"/>
+	<SubTexture name="idle yanfei0000" x="0" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0001" x="391" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0002" x="782" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0003" x="1173" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0004" x="1564" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0005" x="1564" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0006" x="1955" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0007" x="2346" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0008" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0009" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0010" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0011" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0012" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0013" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0014" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="idle yanfei0015" x="2737" y="762" width="391" height="762"/>
+	<SubTexture name="left yanfei0000" x="3128" y="762" width="444" height="756"/>
+	<SubTexture name="left yanfei0001" x="3128" y="762" width="444" height="756"/>
+	<SubTexture name="left yanfei0002" x="3572" y="762" width="444" height="756"/>
+	<SubTexture name="left yanfei0003" x="3572" y="762" width="444" height="756"/>
+	<SubTexture name="left yanfei0004" x="0" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0005" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0006" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0007" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0008" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0009" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0010" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0011" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0012" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0013" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0014" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0015" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0016" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0017" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0018" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0019" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0020" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0021" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0022" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0023" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0024" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0025" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0026" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0027" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0028" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0029" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0030" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0031" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0032" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0033" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0034" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0035" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0036" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0037" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0038" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0039" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0040" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0041" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0042" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0043" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0044" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0045" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0046" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0047" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0048" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0049" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0050" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0051" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0052" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0053" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0054" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0055" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0056" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0057" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0058" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0059" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0060" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0061" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0062" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0063" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0064" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0065" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0066" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0067" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0068" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0069" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0070" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="left yanfei0071" x="444" y="1524" width="444" height="756"/>
+	<SubTexture name="miss down yanfei0000" x="1955" y="0" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0001" x="888" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0002" x="888" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0003" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0004" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0005" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0006" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0007" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0008" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0009" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0010" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0011" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0012" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0013" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0014" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0015" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0016" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0017" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0018" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0019" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0020" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0021" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0022" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0023" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0024" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0025" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0026" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0027" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0028" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0029" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0030" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0031" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0032" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0033" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0034" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0035" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0036" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0037" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0038" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0039" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0040" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0041" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0042" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0043" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0044" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0045" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0046" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0047" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0048" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0049" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0050" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0051" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0052" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0053" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0054" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0055" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0056" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0057" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0058" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0059" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0060" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0061" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0062" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0063" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0064" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0065" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0066" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0067" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0068" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0069" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0070" x="1846" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0071" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="miss down yanfei0072" x="1367" y="1524" width="479" height="736"/>
+	<SubTexture name="right yanfei0000" x="2325" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0001" x="2325" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0002" x="2728" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0003" x="2728" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0004" x="3131" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0005" x="3534" y="1524" width="403" height="762"/>
+	<SubTexture name="right yanfei0006" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0007" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0008" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0009" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0010" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0011" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0012" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0013" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0014" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0015" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0016" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0017" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0018" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0019" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0020" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0021" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0022" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0023" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0024" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0025" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0026" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0027" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0028" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0029" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0030" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0031" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0032" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0033" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0034" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0035" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0036" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0037" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0038" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0039" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0040" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0041" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0042" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0043" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0044" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0045" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0046" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0047" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0048" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0049" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0050" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0051" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0052" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0053" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0054" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0055" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0056" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0057" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0058" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0059" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0060" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0061" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0062" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0063" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0064" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0065" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0066" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0067" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0068" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0069" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0070" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0071" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="right yanfei0072" x="0" y="2286" width="403" height="762"/>
+	<SubTexture name="up yanfei0000" x="403" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0001" x="403" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0002" x="783" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0003" x="783" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0004" x="1163" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0005" x="1543" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0006" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0007" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0008" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0009" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0010" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0011" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0012" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0013" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0014" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0015" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0016" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0017" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0018" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0019" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0020" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0021" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0022" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0023" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0024" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0025" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0026" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0027" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0028" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0029" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0030" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0031" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0032" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0033" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0034" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0035" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0036" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0037" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0038" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0039" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0040" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0041" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0042" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0043" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0044" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0045" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0046" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0047" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0048" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0049" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0050" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0051" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0052" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0053" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0054" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0055" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0056" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0057" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0058" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0059" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0060" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0061" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0062" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0063" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0064" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0065" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0066" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0067" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0068" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0069" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0070" x="1923" y="2286" width="380" height="770"/>
+	<SubTexture name="up yanfei0071" x="1923" y="2286" width="380" height="770"/>
+</TextureAtlas>

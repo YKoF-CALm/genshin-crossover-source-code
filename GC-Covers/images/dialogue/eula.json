@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-55,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				90
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				90
+			],
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				113
+			],
+			"anim": "frown",
+			"loop_offsets": [
+				-1,
+				113
+			],
+			"idle_name": "frown",
+			"loop_name": "frown"
+		},
+		{
+			"idle_offsets": [
+				10,
+				90
+			],
+			"anim": "outline",
+			"loop_offsets": [
+				10,
+				90
+			],
+			"idle_name": "outline",
+			"loop_name": "outline"
+		},
+		{
+			"loop_offsets": [
+				14,
+				109
+			],
+			"anim": "sus",
+			"idle_offsets": [
+				14,
+				109
+			],
+			"loop_name": "sus",
+			"idle_name": "sus"
+		}
+	],
+	"image": "eula-port"
+}

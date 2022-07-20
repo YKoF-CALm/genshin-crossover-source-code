@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kazuha idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kazuha up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kazuha down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kazuha right"
+		},
+		{
+			"offsets": [
+				-93,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kazuha left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazuha",
+	"position": [
+		-330,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		174,
+		126
+	],
+	"camera_position": [
+		30,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

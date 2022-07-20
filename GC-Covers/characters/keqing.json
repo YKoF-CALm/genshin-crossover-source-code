@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "keqing idle"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "keqing down"
+		},
+		{
+			"offsets": [
+				-50,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "keqing up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-15
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "keqing dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-39,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "keqing right"
+		},
+		{
+			"offsets": [
+				15,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "keqing left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/keqing",
+	"position": [
+		-350,
+		-220
+	],
+	"healthicon": "keqing",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		186,
+		221
+	],
+	"camera_position": [
+		60,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

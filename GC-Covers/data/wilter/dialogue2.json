@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"expression": "hey",
+			"text": "And that's a wrap, I suppose",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "frown",
+			"text": "It is indeed",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "up",
+			"text": "That was amazing, Tactie! Eula, too!",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "singUP",
+			"text": "Thanks, bestie!",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "So, what about it, Eula?",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "frown",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Alright, you've convinced me",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sus",
+			"text": "However...",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "singUPmiss",
+			"text": "What, there's more? Another round?",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Oh, no, I said you've convinced me",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "But you still gotta convince her older brother",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "singDOWN",
+			"text": "Older brother?",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Ah, you must mean Albedo!",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Yes. Truth be told, he's the one concerned about you",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "Consider me as more of a safeguard to the actual test that is Albedo",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "I see",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "singRIGHT",
+			"text": "Well, I guess another rap battle is in order, this time with, uhh, Albedo",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "down",
+			"text": "No worries, you got this",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "But Eula, that challenge just now wasn't really necessary",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "She's usually chill around others. It's only the dangerous ones that get to meet her gun",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "hey",
+			"text": "Well said",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "I can sense that",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sus",
+			"text": "Seems like the rain has stopped. Let's head out",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "right",
+			"text": "Wanna come along Tactie?",
+			"boxState": "normal",
+			"portrait": "cathie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Sure, I wanted to go meet Albedo anyways",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "normal",
+			"text": "I'll take you to him. I'm sure he'd love to have a little chat with you",
+			"boxState": "normal",
+			"portrait": "eula",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "singDOWN",
+			"text": "Oh I'm sure he would alright",
+			"boxState": "normal",
+			"portrait": "tactie",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "yoimiya left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "yoimiya right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yoimiya up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yoimiya down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "yoimiya idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "yoimiya umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "yoimiya dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "yoimiya lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "yoimiya rmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				6
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "yoimiya hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yoimiya",
+	"position": [
+		-180,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		129,
+		0
+	],
+	"camera_position": [
+		200,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

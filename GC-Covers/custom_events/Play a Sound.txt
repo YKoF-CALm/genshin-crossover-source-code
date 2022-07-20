@@ -1,0 +1,5 @@
+Plays a sound. That's literally it.
+
+value1 = sound you want to play, will take from "mods/sounds"
+
+value2 = volume, max 1. If blank, defaults to 0.6

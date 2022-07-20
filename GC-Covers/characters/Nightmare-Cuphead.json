@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-159
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				186,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				61,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				51,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				130,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				28,
+				-67
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "Idle instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				-268
+			],
+			"loop": true,
+			"fps": 26,
+			"anim": "shotting",
+			"indices": [],
+			"name": "Beamm instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-134
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ShootDown instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-50
+			],
+			"anim": "big shot",
+			"fps": 24,
+			"name": "Hadoken or Roundabout instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare_Cuphead",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "nightmare-cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}
