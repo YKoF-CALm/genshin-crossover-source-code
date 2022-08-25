@@ -7,7 +7,7 @@ function onCreate()
     addCharacterToList('amber', 'dad')
     addCharacterToList('sucrose', 'dad')
     addCharacterToList('barbara-player', 'boyfriend')
-    addCharacterToList('klee-player', 'boyfriend')
+    addCharacterToList('klee-alt-player', 'boyfriend')
     addCharacterToList('shenhe', 'dad')
     addCharacterToList('xiangling-player', 'boyfriend')
     addCharacterToList('yanfei', 'dad')
@@ -23,7 +23,7 @@ function onCreate()
     precacheImage('characters/albedo')
     precacheImage('characters/diona')
     precacheImage('characters/chongyun')
-    precacheImage('characters/keqing')
+    precacheImage('characters/KEQING WOOHOO')
     precacheImage('characters/xingqiu')
     precacheImage('characters/xiao')
     precacheImage('characters/gorou')
@@ -88,12 +88,12 @@ function onCreate()
     addAnimationByPrefix('chongyun', '2', 'chongyun up', 24, false)
     addAnimationByPrefix('chongyun', '3', 'chongyun right', 24, false)
 
-    makeAnimatedLuaSprite('keqing', 'characters/keqing', 1000, -80)
-    addAnimationByPrefix('keqing', 'idle', 'keqing idle', 24, false)
-    addAnimationByPrefix('keqing', '0', 'keqing right', 24, false)
-    addAnimationByPrefix('keqing', '1', 'keqing down', 24, false)
-    addAnimationByPrefix('keqing', '2', 'keqing up', 24, false)
-    addAnimationByPrefix('keqing', '3', 'keqing left', 24, false)
+    makeAnimatedLuaSprite('keqing', 'characters/KEQING WOOHOO', 1300, 120)
+    addAnimationByPrefix('keqing', 'idle', 'idle keqing', 24, false)
+    addAnimationByPrefix('keqing', '0', 'right keqing', 24, false)
+    addAnimationByPrefix('keqing', '1', 'down keqing', 24, false)
+    addAnimationByPrefix('keqing', '2', 'upkeq', 24, false)
+    addAnimationByPrefix('keqing', '3', 'left keqing', 24, false)
     setProperty('keqing.flipX', true)
 
     makeAnimatedLuaSprite('xingqiu', 'characters/xingqiu', -500, -100)
@@ -265,6 +265,8 @@ function onStepHit()
         removeLuaSprite('jean', false)
         bfother = 'diona'
         addLuaSprite('diona', true)
+        setProperty('boyfriend.y', getProperty('boyfriend.y') + 40)
+        setProperty('boyfriend.x', getProperty('boyfriend.x') + 50)
     end
     if curStep == 448 then
         removeLuaSprite('albedo', false)
@@ -571,20 +573,20 @@ function onUpdate(elapsed)
         setProperty('diona.y', -80)
     end
     if getProperty('keqing.animation.curAnim.name') == '0' then
-        setProperty('keqing.x', 918)
-        setProperty('keqing.y', -73)
+        setProperty('keqing.x', 1291)
+        setProperty('keqing.y', 120)
     elseif getProperty('keqing.animation.curAnim.name') == '1' then
-        setProperty('keqing.x', 967)
-        setProperty('keqing.y', -80)
+        setProperty('keqing.x', 1274)
+        setProperty('keqing.y', 133)
     elseif getProperty('keqing.animation.curAnim.name') == '2' then
-        setProperty('keqing.x', 959)
-        setProperty('keqing.y', -77)
+        setProperty('keqing.x', 1327)
+        setProperty('keqing.y', 116)
     elseif getProperty('keqing.animation.curAnim.name') == '3' then
-        setProperty('keqing.x', 966)
-        setProperty('keqing.y', -74)
+        setProperty('keqing.x', 1289)
+        setProperty('keqing.y', 117)
     else
-        setProperty('keqing.x', 1000)
-        setProperty('keqing.y', -80)
+        setProperty('keqing.x', 1300)
+        setProperty('keqing.y', 120)
     end
     if getProperty('xiao.animation.curAnim.name') == '0' then
         setProperty('xiao.x', 1007)
@@ -738,4 +740,3 @@ function onTimerCompleted(tag, loops, loopsLeft)
         allowIdleBF = true
     end
 end
-

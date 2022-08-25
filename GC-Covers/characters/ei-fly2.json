@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				107,
 				112
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-fly up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "ei-fly up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				120,
 				111
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-fly left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ei-fly left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				20,
 				160
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-fly right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ei-fly right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				121,
 				111
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-fly down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ei-fly down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				120,
 				110
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-fly idle alt",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "ei-fly idle alt"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-320,
 		0
 	],
-	"healthicon": "bf",
+	"healthicon": "shogun",
 	"flip_x": true,
 	"healthbar_colors": [
-		95,
-		0,
-		138
+		158,
+		44,
+		254
 	],
 	"camera_position": [
 		80,

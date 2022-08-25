@@ -1,5 +1,7 @@
 function onCreate()
     setProperty('boyfriend.y', getProperty('boyfriend.y') - 35)
+    setProperty('dad.y', getProperty('dad.y') + 40)
+    setProperty('dad.x', getProperty('dad.x') + 50)
 
     setProperty('introSoundsSuffix', '-bob')
     makeLuaSprite('3', 'b&b/3', 0, 0)

@@ -1,6 +1,7 @@
 function onCreate()
     setProperty('boyfriend.x', getProperty('boyfriend.x') - 100)
     setProperty('boyfriend.y', getProperty('boyfriend.y') + 100)
+    setProperty('dad.y', getProperty('dad.y') + 30)
 
     makeAnimatedLuaSprite('bf', 'characters/BOYFRIEND', 1400, 400)
     addAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, true)

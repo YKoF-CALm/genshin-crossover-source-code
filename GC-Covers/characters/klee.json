@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "klee idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "klee idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				16,
 				-3
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "klee left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "klee left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-50,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "klee right",
-			"indices": []
+			"indices": [],
+			"name": "klee right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "klee down",
-			"indices": []
+			"indices": [],
+			"name": "klee down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "klee up",
-			"indices": []
+			"indices": [],
+			"name": "klee up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "attack",
-			"fps": 24,
-			"name": "klee attack",
-			"indices": []
+			"indices": [],
+			"name": "klee attack"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "hurt",
+			"loop": false,
 			"fps": 24,
-			"name": "klee hurt",
-			"indices": []
+			"anim": "hurt",
+			"indices": [],
+			"name": "klee hurt"
 		}
 	],
 	"no_antialiasing": false,
@@ -84,12 +84,12 @@
 		-350,
 		-190
 	],
-	"healthicon": "face",
+	"healthicon": "klee",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		0,
-		0
+		222,
+		26,
+		67
 	],
 	"camera_position": [
 		180,

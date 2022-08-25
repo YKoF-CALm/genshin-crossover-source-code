@@ -8,17 +8,11 @@ function onCreate()
     scaleObject('monika', 0.9, 0.9)
     updateHitbox('monika')
     addLuaSprite('monika', false)
-
-    makeAnimatedLuaSprite('ganyu', 'characters/GanYu fnf', 1600, 160)
-    addAnimationByPrefix('ganyu', 'idle', 'idle ganyu', 24, false)
-    setProperty('ganyu.flipX', true)
-    addLuaSprite('ganyu', false)
 end
 
 function onBeatHit()
     if curBeat % 4 == 0 then
         objectPlayAnimation('monika', 'idle', true)
-        objectPlayAnimation('ganyu', 'idle', true)
     end
 end
 

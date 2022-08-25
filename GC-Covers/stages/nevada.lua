@@ -165,11 +165,11 @@ function onCreate()
 		precacheImage('nevada/speakers');
 	end
 	precacheImage('nevada/notes/Bullet_Note');
-	addCharacterToList('hank-scared', 'dad'); 
+	addCharacterToList('yoimiya-scared', 'dad'); 
 	addCharacterToList('acceleranttricky', 'gf');
 	addCharacterToList('gf-handsup', 'gf');
-	precacheSound('hankshoot');
-	precacheSound('hankreadyupsound');
+	precacheSound('yoimiyashoot');
+	precacheSound('yoimiyareadyupsound');
 	precacheSound('Screamfade');
 	if difficulty == 2 then
 		precacheSound('hellclown');
@@ -195,7 +195,7 @@ stepHitFuncs = { --a bunch of timed events, timed to steps
 		setProperty('defaultCamZoom', 0.7);
 	end,
 	[16] = function()
-		playSound('hankreadyupsound', 0.85);
+		playSound('yoimiyareadyupsound', 0.85);
 		doTweenZoom('come on', 'camGame', 0.7, 0.3, 'circInOut');
 	end,
     [32] = function() --heli starts moving

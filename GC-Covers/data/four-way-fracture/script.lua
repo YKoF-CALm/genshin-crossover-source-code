@@ -12,16 +12,22 @@ function onCreate()
     precacheImage('notes/hu-tao')
     precacheImage('notesplashes/ludisplashes')
     precacheImage('exe/screenstatic')
+    precacheImage('secondicons/ganyu-mad-normal')
+    precacheImage('secondicons/ganyu-mad-danger')
+    precacheImage('secondicons/keqing-normal')
+    precacheImage('secondicons/keqing-danger')
     precacheSound('P3Jumps/TailsScreamLOL')
     precacheSound('P3Jumps/KnucklesScreamLOL')
     precacheSound('P3Jumps/EggmanScreamLOL')
-    addCharacterToList('ganyu-player-flipped', 'boyfriend')
+    addCharacterToList('ganyu', 'boyfriend')
     addCharacterToList('zhongli', 'dad')
     addCharacterToList('xiao-flipped', 'dad')
-    addCharacterToList('zhongli-flipped', 'dad')
+    addCharacterToList('zhongli-player', 'dad')
     addCharacterToList('hu-tao-alt', 'dad')
     addCharacterToList('keqing-flipped', 'dad')
     addCharacterToList('keqing-player', 'gf')
+    addCharacterToList('ganyu-mad-player', 'boyfriend')
+    addCharacterToList('ganqing-mad-player', 'boyfriend')
 
     makeLuaSprite('js1', 'genshin/shenhejs', 0, 0)
     setObjectCamera('js1', 'other')
@@ -42,14 +48,40 @@ function onCreate()
     addAnimationByPrefix('jumpstatic', 'static', 'screenSTATIC', 24, true)
     setProperty('jumpstatic.alpha', 0.3)
     setObjectCamera('jumpstatic', 'other')
-
-    --setProperty('boyfriend.y', getProperty('boyfriend.y') - 20)
 end
 
 function onCreatePost()
     defdx = getProperty('dad.x')
     defdy = getProperty('dad.y')
     defbx = getProperty('boyfriend.x')
+
+    makeLuaSprite('ganyuIcon', 'secondicons/ganyu-mad-normal', getProperty('iconP1.x'), getProperty('iconP1.y'))
+    setObjectCamera('ganyuIcon', 'hud')
+    addLuaSprite('ganyuIcon', true)
+    setObjectOrder('ganyuIcon', getObjectOrder('iconP1') + 1)
+    setProperty('ganyuIcon.flipX', true)
+    setProperty('ganyuIcon.visible', true)
+
+    makeLuaSprite('ganyuDangerIcon', 'secondicons/ganyu-mad-danger', getProperty('iconP1.x'), getProperty('iconP1.y'))
+    setObjectCamera('ganyuDangerIcon', 'hud')
+    addLuaSprite('ganyuDangerIcon', true)
+    setObjectOrder('ganyuDangerIcon', getObjectOrder('iconP1') + 1)
+    setProperty('ganyuDangerIcon.flipX', true)
+    setProperty('ganyuDangerIcon.visible', false)
+
+    makeLuaSprite('keqingIcon', 'secondicons/keqing-normal', getProperty('iconP1.x'), getProperty('iconP1.y'))
+    setObjectCamera('keqingIcon', 'hud')
+    addLuaSprite('keqingIcon', true)
+    setObjectOrder('keqingIcon', getObjectOrder('iconP1') + 1)
+    setProperty('keqingIcon.flipX', true)
+    setProperty('keqingIcon.visible', true)
+
+    makeLuaSprite('keqingDangerIcon', 'secondicons/keqing-danger', getProperty('iconP1.x'), getProperty('iconP1.y'))
+    setObjectCamera('keqingDangerIcon', 'hud')
+    addLuaSprite('keqingDangerIcon', true)
+    setObjectOrder('keqingDangerIcon', getObjectOrder('iconP1') + 1)
+    setProperty('keqingDangerIcon.flipX', true)
+    setProperty('keqingDangerIcon.visible', false)
 end
 
 local altdadx = 0
@@ -159,11 +191,62 @@ function onUpdate(elapsed)
         triggerEvent('Camera Follow Pos','','')
     end
 
-    if curStep == 5249 then
-        setProperty('dad.x', altdadx + 100)
-        setProperty('bf.x', altbfx)
-        setProperty('dad.y', altdady)
+    if curStep == 2324 then
+        setProperty('dad.flipX', true)
     end
+
+    if curStep == 5249 then
+        setProperty('dad.x', altdadx + 300)
+        setProperty('bf.x', altbfx)
+        setProperty('dad.y', altdady + 210)
+    end
+
+    if curStep >= 6356 then
+        setProperty('iconP1.visible', false)
+        if getProperty('health') < 0.4 then
+            setProperty('ganyuIcon.visible', false)
+            setProperty('ganyuDangerIcon.visible', true)
+            setProperty('keqingIcon.visible', false)
+            setProperty('keqingDangerIcon.visible', true)
+        else
+            setProperty('ganyuIcon.visible', true)
+            setProperty('ganyuDangerIcon.visible', false)
+            setProperty('keqingIcon.visible', true)
+            setProperty('keqingDangerIcon.visible', false)
+        end
+    else
+        setProperty('iconP1.visible', true)
+        setProperty('ganyuIcon.visible', false)
+        setProperty('ganyuDangerIcon.visible', false)
+        setProperty('keqingIcon.visible', false)
+        setProperty('keqingDangerIcon.visible', false)
+    end
+end
+
+function onUpdatePost(elapsed)
+    setProperty('ganyuIcon.x', getProperty('iconP1.x') - 25)
+    setProperty('ganyuIcon.angle', getProperty('iconP1.angle'))
+    setProperty('ganyuIcon.y', getProperty('iconP1.y') + 25) 
+    setProperty('ganyuIcon.scale.x', getProperty('iconP1.scale.x')/2 + 0.2)
+    setProperty('ganyuIcon.scale.y', getProperty('iconP1.scale.y')/2 + 0.2)
+
+    setProperty('ganyuDangerIcon.x', getProperty('iconP1.x') - 25)
+    setProperty('ganyuDangerIcon.angle', getProperty('iconP1.angle'))
+    setProperty('ganyuDangerIcon.y', getProperty('iconP1.y') + 25)
+    setProperty('ganyuDangerIcon.scale.x', getProperty('iconP1.scale.x')/2 + 0.2)
+    setProperty('ganyuDangerIcon.scale.y', getProperty('iconP1.scale.y')/2 + 0.2)
+
+    setProperty('keqingIcon.x', getProperty('iconP1.x') + 25)
+    setProperty('keqingIcon.angle', getProperty('iconP1.angle'))
+    setProperty('keqingIcon.y', getProperty('iconP1.y') - 25)
+    setProperty('keqingIcon.scale.x', getProperty('iconP1.scale.x')/2 + 0.2)
+    setProperty('keqingIcon.scale.y', getProperty('iconP1.scale.y')/2 + 0.2)
+
+    setProperty('keqingDangerIcon.x', getProperty('iconP1.x') + 25)
+    setProperty('keqingDangerIcon.angle', getProperty('iconP1.angle'))
+    setProperty('keqingDangerIcon.y', getProperty('iconP1.y') - 25)
+    setProperty('keqingDangerIcon.scale.x', getProperty('iconP1.scale.x')/2 + 0.2)
+    setProperty('keqingDangerIcon.scale.y', getProperty('iconP1.scale.y')/2 + 0.2)
 end
 
 function onStepHit()
@@ -183,6 +266,8 @@ function onStepHit()
         altbfx = getProperty('bf.x')
         altdady = getProperty('dad.y')
         healthdrain = false
+        setProperty('dad.flipX', true)
+        setProperty('boyfriend.flipX', false)
     end
 
     if curStep == 1428 then
@@ -222,6 +307,10 @@ function onStepHit()
         objectPlayAnimation('jumpstatic', 'static', true)
         runTimer('bye6', 0.2, 1)
         healthdrain = false
+    end
+
+    if curStep == 5249 then
+        setProperty('dad.flipX', true)
     end
 
     if curStep == 6164 then

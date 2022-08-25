@@ -172,12 +172,12 @@
 					[
 						"Change Character",
 						"1",
-						"xiao-flipped"
+						"xiao-player"
 					],
 					[
 						"Change Character",
 						"0",
-						"ganyu-player-flipped"
+						"ganyu"
 					],
 					[
 						"Flashing Camera",
@@ -217,7 +217,7 @@
 					[
 						"Change Character",
 						"1",
-						"zhongli-flipped"
+						"zhongli-player"
 					],
 					[
 						"Flashing Camera",
@@ -417,12 +417,12 @@
 					[
 						"Change Character",
 						"0",
-						"ganyu-player-flipped"
+						"ganyu"
 					],
 					[
 						"Change Character",
 						"1",
-						"keqing-flipped"
+						"keqing-player"
 					],
 					[
 						"MoveArrow",

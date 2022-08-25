@@ -11,9 +11,31 @@ function onStartCountdown()
 	    allowCountdown = true;
         return Function_Stop;
     end
+    if not allowCountdown and not seenCutscene then
+		setProperty('inCutscene', true);
+		runTimer('startDialogue', 0.8);
+		allowCountdown = true;
+		return Function_Stop;
+	end
 	return Function_Continue;
 end
+
+-- Dialogue (When a dialogue is finished, it calls startCountdown again)
+local SelectedCharacter = 0
+function onNextDialogue(count) --dumbass character selection screen
+	-- triggered when the next dialogue line starts, 'line' starts with 1
+	if keyPressed('up') then --defaults to BF
+		SelectedCharacter = 0
+	elseif keyPressed('down') then --Selects GF
+		SelectedCharacter = 1
+	end
+end
+
 function onCreate()
+    addCharacterToList('keqing-player', 'boyfriend')
+    addCharacterToList('keqing-doki-player', 'boyfriend')
+
+    setProperty('boyfriend.x', getProperty('boyfriend.x') + 50)
 
     --Adds Lua Sprites
     addCharacterToList('signDeath', 'boyfriend');
@@ -131,6 +153,12 @@ function onCreate()
         addLuaSprite('clownKillsYou', true)
 end
 
+function onSongStart() --used to clear any damage/score/accuracy changes made during character switching
+	-- Inst and Vocals start playing, songPosition = 0
+	setProperty('health', 1);
+	setProperty('songMisses', 0)
+	setProperty('songScore',0)
+end
 
 trickyStrings = {
     [0] = function()
@@ -289,6 +317,17 @@ function onBeatHit()
     end
 end
 
+function onStepHit() --Controls Swapping the characters based on previous character selection
+	if curStep == 1 then
+		if SelectedCharacter == 0 then
+			triggerEvent('Change Character', 0, 'keqing-player'); --Selected Singer
+		elseif SelectedCharacter == 1 then
+			triggerEvent('Change Character', 0, 'keqing-doki-player'); --Selected Singer
+            setProperty('boyfriend.x', getProperty('boyfriend.x') + 50)
+		end
+	end
+end
+
 function opponentNoteHit(id, direction, noteType, isSustainNote)
 
     local luckyRoll = math.random(1, 65)
@@ -312,7 +351,10 @@ function noteMiss()
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
-	
+    if tag == 'startDialogue' then -- Timer completed, play dialogue
+		startDialogue('CharacterSelect');
+	end
+
     if tag == 'TrickyStringTime' then
         playSound('staticSound')
         setPropertyLuaSprite('TrickyStatic', 'alpha', 0.2)

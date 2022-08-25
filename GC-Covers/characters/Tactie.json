@@ -1,100 +1,67 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				-10
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-32,
 				-95
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down Pose"
+			"fps": 24,
+			"name": "Down Pose",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				2,
 				76
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up Pose"
+			"fps": 24,
+			"name": "Up Pose",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-18,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Left Pose"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				12,
-				14
-			],
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Right Pose",
+			"name": "Left Pose",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-8,
-				30
+				12,
+				14
 			],
 			"loop": false,
 			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				30
+			],
 			"anim": "shootUPalt",
-			"indices": [],
-			"name": "Shoot"
-		},
-		{
-			"offsets": [
-				-8,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "shootDOWNalt",
-			"indices": [],
-			"name": "Shoot"
-		},
-		{
-			"offsets": [
-				-8,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "shootLEFTalt",
-			"indices": [],
-			"name": "Shoot"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-8,
-				30
-			],
-			"anim": "shootRIGHTalt",
 			"fps": 24,
 			"name": "Shoot",
 			"indices": []
@@ -102,46 +69,90 @@
 		{
 			"loop": false,
 			"offsets": [
+				-8,
+				30
+			],
+			"anim": "shootDOWNalt",
+			"fps": 24,
+			"name": "Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				30
+			],
+			"anim": "shootLEFTalt",
+			"fps": 24,
+			"name": "Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRIGHTalt",
+			"indices": [],
+			"name": "Shoot"
+		},
+		{
+			"offsets": [
 				54,
 				48
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "shootUP",
-			"fps": 24,
-			"name": "Pistol",
-			"indices": []
+			"indices": [],
+			"name": "Pistol"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				48
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "shootRIGHT",
-			"fps": 24,
-			"name": "Pistol",
-			"indices": []
+			"indices": [],
+			"name": "Pistol"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				48
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "shootDOWN",
-			"fps": 24,
-			"name": "Pistol",
-			"indices": []
+			"indices": [],
+			"name": "Pistol"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				48
 			],
-			"anim": "shootLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Pistol",
-			"indices": []
+			"anim": "shootLEFT",
+			"indices": [],
+			"name": "Pistol"
+		},
+		{
+			"offsets": [
+				140,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Dodge Right"
 		}
 	],
 	"no_antialiasing": false,

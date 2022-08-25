@@ -1,114 +1,125 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				3
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yoimiya left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-8,
 				3
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "yoimiya right",
-			"indices": []
+			"indices": [],
+			"name": "yoimiya right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-1,
-				-1
+				-2,
+				1
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "yoimiya up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				14,
 				-2
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "yoimiya down",
-			"indices": []
+			"indices": [],
+			"name": "yoimiya down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "yoimiya idle",
-			"indices": []
+			"indices": [],
+			"name": "yoimiya idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya umiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "yoimiya umiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				-3
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya dmiss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "yoimiya dmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				13,
 				3
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya lmiss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "yoimiya lmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-6,
 				5
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya rmiss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "yoimiya rmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				23,
 				6
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "yoimiya hey",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "yoimiya hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "yoimiya rshoot"
 		}
 	],
 	"no_antialiasing": false,

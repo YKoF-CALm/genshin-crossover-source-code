@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "ei idle"
+			"fps": 24,
+			"name": "ei idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				16,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "ei left"
+			"fps": 24,
+			"name": "ei left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				-3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "ei right"
+			"fps": 24,
+			"name": "ei right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "ei down"
+			"fps": 24,
+			"name": "ei down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "ei up"
+			"fps": 24,
+			"name": "ei up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-290,
 		-190
 	],
-	"healthicon": "face",
+	"healthicon": "shogun",
 	"flip_x": false,
 	"healthbar_colors": [
-		35,
-		0,
-		78
+		158,
+		44,
+		254
 	],
 	"camera_position": [
 		120,

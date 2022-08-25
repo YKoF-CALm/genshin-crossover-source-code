@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-1
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "ei-mad idalt"
+			"fps": 24,
+			"name": "ei-mad idalt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-4,
 				-2
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "ei-mad ralt"
+			"fps": 24,
+			"name": "ei-mad ralt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				5
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "ei-mad lalt"
+			"fps": 24,
+			"name": "ei-mad lalt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				41,
 				7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "ei-mad dalt"
+			"fps": 24,
+			"name": "ei-mad dalt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				46,
 				7
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "ei-mad ualt"
+			"fps": 24,
+			"name": "ei-mad ualt",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-290,
 		-190
 	],
-	"healthicon": "face",
+	"healthicon": "shogun",
 	"flip_x": false,
 	"healthbar_colors": [
-		35,
-		0,
-		78
+		158,
+		44,
+		254
 	],
 	"camera_position": [
 		120,

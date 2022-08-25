@@ -185,7 +185,7 @@ CoolStalker::blankicon::Primary charter/Co-author::https://twitter.com/TheCoolSt
 Awoofle::blankicon::Lead programmer::https://twitter.com/awoofle::0xFFFFDD33
 firubii::blankicon::Programmer::https://twitter.com/firubiii::0xFFFFDD33
 Codexes::blankicon::Programmer::https://gamebanana.com/members/1875881::0xFFFFDD33
-MaxOKE::blankicon::Guest Artist::https://twitter.com/Max0KE::0xFFFFDD33
+Max0KE::max::Guest Artist::https://twitter.com/Max0KE::0xFFFFDD33
 Takataki::blankicon::Guest Artist::https://gamebanana.com/mods/41250::0xFFFFDD33
 COVER Corporation::blankicon::Parent company of Hololive::https://cover-corp.com/::0xFFFFDD33
 kokorobeats::blankicon::Original mixes for "Live Again" and "RIP"::https://twitter.com/kokorobeats::0xFFFFDD33
@@ -270,7 +270,7 @@ Cougar MacDowall::cougar::VA::https://twitter.com/CougarMacDowal1::0xFFFFDD33
 VS Sonic.exe
 Divide::blankicon::Artist/Animator::https://gamebanana.com/mods/316022::0xFFFFDD33
 RightBurstUltra::blankicon::Owner/Artist::https://twitter.com/RightburstU::0xFFFFDD33
-MarStarBro::blankicon::Composer::https://twitter.com/MarStarBro1::0xFFFFDD33
+MarStarBro::MarStarBro::Composer::https://twitter.com/MarStarBro1::0xFFFFDD33
 Comgaming_Nz::blankicon::Artist::https://twitter.com/Comgamingnz::0xFFFFDD33
 Razencro::blankicon::Animator/Video editor/Programmer/Charter/Artist::https://twitter.com/razencro::0xFFFFDD33
 Zekuta::blankicon::Artist/Animator::https://twitter.com/zekutaanim::0xFFFFDD33
@@ -445,16 +445,16 @@ CorazonArts::blankicon::Week 2 and Week 4 Backgrounds::https://twitter.com/Coraz
 Vortmite1::blankicon::Charter::https://www.youtube.com/c/Vortmite1::0xFFFFDD33
 
 Doki Doki Takeover
-DusterBuster::DusterBuster::Sprite Art/Charting/Dialogue::https://twitter.com/SirDusterBuster::0xFFFFDD33
+DusterBuster::duster::Sprite Art/Charting/Dialogue::https://twitter.com/SirDusterBuster::0xA1D8EC
 TokyoGalaxy::blankicon::Menu BG/Chibi Art::https://twitter.com/TokyoGalaxyOG::0xFFFFDD33
-ItoSaihara::ItoSaihara::Background Art::https://twitter.com/ItoSaihara_::0xFFFFDD33
+ItoSaihara::ito::Background Art::https://twitter.com/ItoSaihara_::0xFFFFDD33
 Sayphonic::blankicon::Background Art::https://twitter.com/sayphonic::0xFFFFDD33
-SunSpirit::SunSpirit::Coding/Animation::https://twitter.com/Jorge_SunSpirit::0xFFFFDD33
-M&M::blankicon::Coding::https://twitter.com/ActualMandM::0xFFFFDD33
+SunSpirit::sunspirit::Coding/Animation::https://twitter.com/Jorge_SunSpirit::0xFFFFDD33
+M&M::mandm::Coding::https://twitter.com/ActualMandM::0xFFFFDD33
 FruityDaLei::FruityDaLei::Musician::https://twitter.com/PansexualPlanet::0xFFFFDD33
-Kallionic::Kallionic::Musician::https://twitter.com/RisingRyota::0xFFFFDD33
+Kallionic::kallionic::Musician::https://twitter.com/RisingRyota::0xFFFFDD33
 Saruky::saru::Musician::https://twitter.com/Saruky__::0xFFFFDD33
-Matt$::blankicon::Musician::https://twitter.com/matt_currency::0xFFFFDD33
+Matt$::matt::Musician::https://twitter.com/matt_currency::0xFFFFDD33
 starrieblu::blankicon::Musician/Original It's Complicated Composer::https://twitter.com/starrie_blu::0xFFFFDD33
 StardustTunes::blankicon::Musician::https://twitter.com/StardustTunes::0xFFFFDD33
 HighPoweredArt::blankicon::Musician::https://twitter.com/HighPoweredArt::0xFFFFDD33
@@ -772,7 +772,7 @@ Saruky::saru::Director, Musician::https://twitter.com/Saruky__::0xFFFFDD33
 VaChildish::BigBand::Artist, Jojo Nikku's Assets::https://twitter.com/VaChildish::0xFFFFDD33
 BAnims::BAnims::Artist, Character Renders, Mazin's Assets, Rude#1's Assets, Charted Fun is Infinite::https://twitter.com/BAnims_the2nd::0xFFFFDD33
 SajiArts::Saji::Artist, Xigmund's Assets::https://twitter.com/sajiarts::0xFFFFDD33
-MaxOKE::MaxOKE::Artist, Momo and Gogo's Renders, Nikku's Freeplay Render::https://twitter.com/Max0KE::0xFFFFDD33
+Max0KE::max::Artist, Momo and Gogo's Renders, Nikku's Freeplay Render::https://twitter.com/Max0KE::0xFFFFDD33
 Offbi::Offbi::Artist, Main Menu Character Renders::https://twitter.com/Officiallythat2::0xFFFFDD33
 SaltedSporks::SaltedSporks::Artisr, Musician, Boo's Stage Assets, Co-producer of Satellite Picnic::https://twitter.com/saltedsporks::0xFFFFDD33
 SugarRatio::SugarRatio::Artist, Momo and Gogo's Assets::https://twitter.com/SugarRatio::0xFFFFDD33
@@ -852,8 +852,50 @@ NandoMations::blankicon::Promo artist::https://twitter.com/NanDoh_Mashions::0xFF
 Indie Cross Psych Engine Port
 BF Myt::blankicon::Porter::https://www.youtube.com/channel/UCEmxX4dQhOdxg8vza0Oe8Nw::0xFFFFDD33
 
+Vs Jimmy Dev Team
+JimboGames::jimbo::Director, Lead Artist::https://twitter.com/Jimb0Games::0xFF40A251
+Philiplol::philiplol::Composer and programmer::https://twitter.com/Philiplolz::0xFF40A251
+Pearlymint::pearl::Sprite assembly, Art Assistant::https://twitter.com/xpearlymintx::0xFF40A251
+FifLeo::fifleo::Lead Animator and Co-Artist::https://twitter.com/fif_leo15::0xFF40A251
+Sampson373::sampson::Animation Assistant::https://twitter.com/Sampson373::0xFF40A251
+shrimpsketti::shrimpsketti::Coding Assistant::https://twitter.com/jesterbychoice::0xFF40A251
+
+Team TBD
+SirDusterBuster::duster::Director/Main Artist/Animator/https://twitter.com/SirDusterBuster::0xFFA1D8EC
+Sun Spirit::sunspirit::Director/Programmer::https://twitter.com/Jorge_SunSpirit::0xFFDB8B2E
+M&M::mandm::Programmer::https://twitter.com/ActualMandM::0xFF1DADBB
+Jackie::jackie::Programmer::https://twitter.com/Jack_exe_lol::0xFFFFF9B5
+Matt$::matt::Musician - STAGNANT and MARKOV::https://twitter.com/matt_currency::0xFF88DE30
+Kallionic::kallionic::Musician - Menu Music and HOME::https://kallionic.com::0xFFFF4D7D
+DiscWraith::discwraith::Charting::https://twitter.com/DiscWraith::0xFF671FCF
+Omega::omega::Artist::https://twitter.com/ScrimbloCrimbo::0xFFE51154
+Raze::raze::Animator::https://www.youtube.com/channel/UCC550GafkWljtqAq0UDbYeQ::0xFFBF1137
+Grand Hammer 6::grand::Artist/Animator::https://twitter.com/GrandHammer6::0xFF4DEBB4
+Ito::ito::Background Artist::https://twitter.com/ItoSaihara_::0xFFC5005C
+Carimelle::carimelle::Monika VA::https://twitter.com/carimellevo::0xFFC35DC7
+Max0KE::max::Playtesting::https://twitter.com/MaxOKE_::0xFF913BAA8
+
+Door Stuck Team
+Speedz::Speedz::Director, Animated sprites, Composer of Alliance, Editor, Cutscenes::https://twitter.com/YahBoiSpeedz::0xFFFFFFFF
+Razencro::Razencro::Co-Director also made DOORFREEMAN sprites::https://twitter.com/razencro::0xFF35526B
+SantiOkuu::SantiOkuu::Composer of GENUINE SUCKER, DOOR STUCK, DOORFREEMAN and DOOR MADNESS::https://twitter.com/SantiOkuu::0xFFF3BAFF
+Drazically::Drazically::Composer of GENUINE SUCKER, CANT MAKE IT, MENU/DEATH THEME and DOOR MADNESS::https://twitter.com/drazicallyedm::0xFF757478
+PurTheArtist::PUR::BF, GF and DOOR STUCK sprites, Misc art also::https://twitter.com/PurTheArtist::0xFF3F3786
+Spyrodile::Spyrodile::Made all the backgrounds and icons::https://twitter.com/Spyrodile::0xFFB962E2
+Tsuraran::TSU::Composer of BALLS STUCK (also a really good friend)::https://twitter.com/_Tsuraran::0xFFD9D9D9
+MarStarBro::MarStarBro::Composer of CANT MAKE IT::https://twitter.com/MarstarMain::0xFFF2D082
+Hazelpy::Hazelpy::Helped create the menu and other bits of coding::https://twitter.com/HazelpyYT::0xFF8DD9C2
+Breezy::Breezy::Came in CLUTCH to fix some annoying ass bugs and other bits of coding::https://twitter.com/BreezyMelee::0xFF452525
+Bacon::Bacon::Helped with in game stuff and other bits of coding::https://twitter.com/bacon8315::0xFF9C1746
+Cerbera::Cerbera::CHARTED EVERYTHING YOU PLAYED WOOOOOAH::https://twitter.com/Cerberaa::0xFFFF53E1
+Gray::GRAY::Helped create the smoke in CANT MAKE IT::https://twitter.com/GrayAnimates::0xFFC493FF
+Sticky::Sticky::With this guy the mod wouldnt of have the sick ass re-design, the constant support from this guy is insane, the number one door stuck fan::https://twitter.com/StickyBM::0xFF00FF11
+Trials::Trials::GET FUCKED THE MOD CAME OUT "ModS nEvEr CoMinG oUt" WHO IS LAUGHING NOW BITCH (this is a joke)::link::0xFFFFFFFF
+
+BETADCIU Mod
+Blantados::blantados::Creator::https://twitter.com/Blantados::0xFFFFDD33
+
 Miscellaneous Things
-Blantados::blantados::Solved most of my problems with his mod lmao::https://twitter.com/Blantados::0xFFFFDD33
 bb-panzu::bb-panzu::Stole a bunch of Lua code from him lmao::https://twitter.com/bbsub3::0xFF357893
 Sanimador::blankicon::The flashbang event::https://gamebanana.com/members/1875397::0xFFFFDD33
 Punkinator7::blankicon::Custom Notes and Events::https://twitter.com/punkinator70::0xFFFFDD33
@@ -884,9 +926,11 @@ PaRappa The Funkaloid Maker::blankicon::UST for Last Chance::https://www.youtube
 Bubu::blankicon::FLP for Final Stretch::https://www.youtube.com/channel/UCvr9EuxpICDgDnwOTvErkXQ::0xFFFFDD33
 AmenKing1999::blankicon::FLP for Freaky Machine::https://www.youtube.com/c/AmenKing1999::0xFFFFDD33
 Bumper3241::blankicon::FLP for Red and Black::https://www.youtube.com/c/bumper3241::0xFFFFDD33
-IgnaMusic::blankicon::MIDI for Snake Eyes::https://www.youtube.com/c/IgnaMusic_365::0xFFFFDD33
+IgnaMusic::blankicon::MIDI for Snake Eyes and Stress::https://www.youtube.com/c/IgnaMusic_365::0xFFFFDD33
 ZzimzZ::blankicon::FLP for original Qilin's Prance::https://www.youtube.com/channel/UCDIyE_KWjNjAn7z6cDf1Zew::0xFFFFDD33
 DanlyDaMusicant::blankicon::MIDI for Sansational::https://www.youtube.com/channel/UCM0BnEgf9acQc64rLqUfZ_A::0xFFFFDD33
+NolanMclovin::blankicon::FLP for Thunderstorm Remix::https://www.youtube.com/channel/UCDAWwbzejznejV4EfWYJQTA::0xFFFFDD33
+vvirus9::blankicon::MIDI for Endurance::https://www.youtube.com/c/vvirus9::0xFFFFDD33
 Porqui::blankicon::MIDI for Only My Railgun::https://twitter.com/TBPorqui1::0xFFFFDD33
 
 Copyrighted Material used

@@ -1,7 +1,6 @@
 function onCreate()
     makeLuaSprite('space', 'doki/bigmonika/Sky', -300, 0)
     setScrollFactor('space', 0.4, 0.4)
-    --setProperty('space.velocity.x', -10)
     addLuaSprite('space', false)
 
     makeLuaSprite('bg', 'doki/bigmonika/BG', -250, -167)

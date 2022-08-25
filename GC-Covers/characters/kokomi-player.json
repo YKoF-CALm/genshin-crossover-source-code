@@ -2,76 +2,142 @@
 	"animations": [
 		{
 			"offsets": [
-				-7,
-				-1
+				0,
+				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "kokomi idle"
+			"indices": [],
+			"name": "idle kokomi"
 		},
 		{
 			"offsets": [
-				2,
-				-2
+				31,
+				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "kokomi right"
+			"indices": [],
+			"name": "right kokomi"
 		},
 		{
 			"offsets": [
-				-30,
-				-1
+				-46,
+				2
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "kokomi left"
+			"indices": [],
+			"name": "left kokomi"
 		},
 		{
 			"offsets": [
 				-3,
 				-1
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "kokomi down"
+			"indices": [],
+			"name": "down kokomi"
 		},
 		{
 			"offsets": [
-				-34,
-				-1
+				76,
+				69
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
+			"indices": [],
+			"name": "up kokomi"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"name": "kokomi up"
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY kokomi"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck-you",
+			"indices": [],
+			"name": "fock kokomi"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright kokomi"
+		},
+		{
+			"offsets": [
+				-46,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft kokomi"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown kokomi"
+		},
+		{
+			"offsets": [
+				77,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup kokomi"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/kokomi",
+	"image": "characters/NEW Kokomi",
 	"position": [
-		-250,
-		-190
+		40,
+		40
 	],
-	"healthicon": "bf",
+	"healthicon": "kokomi",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		160,
-		255
+		143,
+		176,
+		212
 	],
 	"camera_position": [
-		40,
-		120
+		-50,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1

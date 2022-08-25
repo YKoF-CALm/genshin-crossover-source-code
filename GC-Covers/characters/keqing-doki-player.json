@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-13
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down dokeqing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				4
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up dokeq",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle dokeqing"
+		},
+		{
+			"offsets": [
+				-49,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY dokeq"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown dokeqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				5
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup dokeq",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "fear dokeqing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left dokeqing"
+		},
+		{
+			"offsets": [
+				-23,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft dokeqing"
+		},
+		{
+			"offsets": [
+				84,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right dokeqing"
+		},
+		{
+			"offsets": [
+				99,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright dokeqing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki Keqing",
+	"position": [
+		-10,
+		30
+	],
+	"healthicon": "keqing",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		98,
+		202
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

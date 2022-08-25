@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				130,
 				120
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "ei-sword idle",
-			"indices": []
+			"indices": [],
+			"name": "ei-sword idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				130,
 				120
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-sword up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "ei-sword up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				136,
 				111
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-sword down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ei-sword down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				132,
 				122
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-sword right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ei-sword right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				130,
 				142
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "ei-sword left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ei-sword left"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-100,
 		-160
 	],
-	"healthicon": "bf",
+	"healthicon": "shogun",
 	"flip_x": false,
 	"healthbar_colors": [
-		95,
-		0,
-		138
+		158,
+		44,
+		254
 	],
 	"camera_position": [
 		410,

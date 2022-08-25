@@ -37,6 +37,9 @@ function onCreate()
 
 	makeAnimatedLuaSprite('zap', 'cloud/rain/lightningStrike', 130, -1100)
     addAnimationByPrefix('zap', 'zap', 'strike', 24, false)
+
+    setProperty('boyfriend.x', getProperty('boyfriend.x') + 120)
+    cameraSetTarget('boyfriend')
 end
 
 bfNoteX0 = 0;

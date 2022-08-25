@@ -1,70 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				59,
 				0
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "singleft ganyu",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singleft ganyu"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				-14
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "singdown ganyu",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				17
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "singup ganyu",
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
 			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY ganyu"
+		},
+		{
+			"offsets": [
+				11,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown ganyu"
+		},
+		{
+			"offsets": [
+				23,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missgup ganyu"
+		},
+		{
+			"offsets": [
+				79,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missleft ganyu"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missright ganyu"
 		},
 		{
 			"offsets": [
 				3,
 				3
 			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "singright ganyu",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
 			"indices": [],
-			"name": "idle ganyu"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				14,
-				5
-			],
-			"anim": "hey",
 			"fps": 24,
-			"name": "HEY ganyu",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singright ganyu"
 		}
 	],
 	"no_antialiasing": false,

@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				81,
+				88,
 				17
 			],
 			"anim": "singUP",
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
+				25,
 				-14
 			],
 			"anim": "singDOWN",
@@ -65,12 +65,56 @@
 			"fps": 24,
 			"name": "HEY ganyu",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missright ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missleft ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missgup ganyu",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/GanYu fnf",
 	"position": [
-		0,
+		70,
 		40
 	],
 	"healthicon": "ganyu",

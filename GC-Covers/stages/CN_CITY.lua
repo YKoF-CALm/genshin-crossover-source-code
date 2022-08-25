@@ -11,16 +11,15 @@ function onCreate()
 	addLuaSprite('CN_CITY', false);
 	addLuaSprite('CN_CITY', false);
 
-	makeAnimatedLuaSprite('foreground','roasted/FG', -300, 1000);
-	addAnimationByPrefix('foreground','foreground','foreground',12,true)
+	makeAnimatedLuaSprite('foreground','roasted/FG', -300, 1100);
+	addAnimationByPrefix('foreground','foreground','foreground',12,false)
 	addLuaSprite('foreground', true)
-	objectPlayAnimation('foreground','FG', true)
 
 	makeAnimatedLuaSprite('background','roasted/BG', -500, 715);
-	addAnimationByPrefix('background','background','background',12,true)
+	addAnimationByPrefix('background','background','background',12,false)
 	addLuaSprite('background', false)
-	objectPlayAnimation('background','BG', true)
 	scaleObject('background', 1.2, 1.2)
+    updateHitbox('background')
 	
 	makeLuaSprite('annoying', 'roasted/annoying', 940, 0);
 	addLuaSprite('annoying',true)
@@ -31,6 +30,11 @@ function onCreate()
 	addLuaSprite('watermark',true)
 	setLuaSpriteScrollFactor('watermark', 0.0, 0.0);
 	scaleObject('watermark', 0.7, 0.7)
+end
 
-	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+function onBeatHit()
+    if curBeat % 2 == 0 then
+        objectPlayAnimation('foreground','foreground', true)
+        objectPlayAnimation('background','background', true)
+    end
 end

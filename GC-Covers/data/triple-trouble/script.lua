@@ -212,7 +212,10 @@ function onStepHit()
         doTweenZoom('asfyte', 'camGame', 1.1, 2, 'cubeOut')
         setProperty('defaultCamZoom', 1.1)
 
-        setCharacterX('dad', 1700)
+        setCharacterX('dad', 1500)
+        setProperty('boyfriend.x', getProperty('boyfriend.x') - 200)
+        setProperty('dad.flipX', true)
+        setProperty('boyfriend.flipX', false)
     end
 
     if curStep == 2320 then
@@ -220,6 +223,7 @@ function onStepHit()
         setProperty('defaultCamZoom', 0.9)
 
         setProperty('exeglitch.visible', true)
+        setProperty('dad.flipX', true)
     end
 
     if curStep == 2823 then

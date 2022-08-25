@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				3,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "ayaka idle"
+			"fps": 24,
+			"name": "ayaka idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				43,
+				-11,
 				-3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "ayaka down"
+			"fps": 24,
+			"name": "ayaka down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				43,
+				20,
 				-3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "ayaka up"
+			"fps": 24,
+			"name": "ayaka up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				60,
+				40,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "ayaka right",
-			"indices": []
+			"indices": [],
+			"name": "ayaka right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-21,
+				-23,
 				-1
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "ayaka left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ayaka left"
 		}
 	],
 	"no_antialiasing": false,

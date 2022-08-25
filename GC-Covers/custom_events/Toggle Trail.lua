@@ -97,7 +97,7 @@ function createTrailFrame(tag)
 		setProperty(trailTag..'.color', color);
 		setBlendMode(trailTag, 'add');
 		addAnimationByPrefix(trailTag, 'stuff', frame, 0, false);
-		if image == 'characters/keqing' then
+		if image == 'characters/KEQING WOOHOO' then
 			setProperty(trailTag..'.flipX', true)
 		end
 		addLuaSprite(trailTag, false);
