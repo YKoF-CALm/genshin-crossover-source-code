@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"zhongli"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-player"
+					],
+					[
+						"Change Character",
+						"0",
+						"ganyu"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"zhongli-player"
+					]
+				]
+			],
+			[
+				290136.98630137,
+				[
+					[
+						"Change Character",
+						"1",
+						"hu-tao-alt"
+					],
+					[
+						"Change Character",
+						"0",
+						"ganyu-player"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"zhongli"
+					]
+				]
+			]
+		]
+	}
+}

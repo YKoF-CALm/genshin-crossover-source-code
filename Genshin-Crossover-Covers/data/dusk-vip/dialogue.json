@@ -1,0 +1,388 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "There, you should be all good now",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "happy",
+			"text": "Thanks",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, we're good here, so what's next?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "We gotta get out of here sooner or later",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "BF and I will keep watch. You two just wait here for us, 'kay?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure, Keqing needs to rest for a while anyway",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, guess we're headed out for a while",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "See ya",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "See ya babe",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+        {
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "So, what now?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess we just wait for them",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "melon",
+			"text": "*15 minutes later*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "thinking",
+			"text": "You think we're good now?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm not sure...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll go check on them, wait here, okay?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "thinking",
+			"text": "Welp, might as well clean up here a little",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "thinking",
+			"text": "Gotta get ready in case we're gonna head ou-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "black",
+			"text": "*footsteps*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, she's back already!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "eyes",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "...that's not GF",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "Show yourself!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "Why so loud? I can hear you from here good enough, you know.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "shocked",
+			"text": "G-Ganyu!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "...I should've expected you to come to this...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "bitch",
+			"text": "Heh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "bitch",
+			"text": "Oh how the tables have turned, Lady Keqing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "'Tables'?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, I'M the one that corrupted you?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Hush, Yuheng. It will all be over soon...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "tired",
+			"text": "(Dammit, I'm no match for her...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "tired",
+			"text": "(And I also just got freed from that...thing. I'm not at my full strength)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "(No matter, I'll just have to hold out until GF comes back, then I might have a chance)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "bitch",
+			"text": "What's wrong? Still waiting for those\\ncowards?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "normal",
+			"text": "They've left you, Lady Keqing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "talk",
+			"text": "You will be much safer with me",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "very scary",
+			"text": "W I T H   U S",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "No, I won't succumb to you again",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "I'll show you just how strong my resolve is",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "HO HO. You're still resisting despite knowing that your efforts to do so are futile",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "bitch",
+			"text": "How cute",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I don't mind playing with my food a little while",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "very scary",
+			"text": "It only makes it all the more satisfying once I'm done with you, watching you squirm to no avail",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-ganyu-flipped"
+		},
+		{
+			"expression": "challenge",
+			"text": "Oh, you're ON!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "keqing"
+		}
+	]
+}

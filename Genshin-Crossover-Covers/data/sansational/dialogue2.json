@@ -1,0 +1,372 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What was that for?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "It felt like I nearly died there!"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shrug",
+			"text": "sorry"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shrug",
+			"text": "was gettin' kinda bored and wanted to spice things up"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, at least you now know what I deal on a weekly basis"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "I can only imagine"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "But that was a good song"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It wasn't really my style, but I liked it"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "guess you could say it was"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "aha",
+			"text": "sans-ational"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...bruh"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, are we done?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "yeah i guess"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "the portal should pop up soon"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, there it is!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, but that's one portal. You sure that this can send us all back to our respective places?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no idea"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "you're the one that used the portals"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "No worries, I can get back from your place"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, right, cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, it was nice meeting you, Sans"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See ya"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "bye"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*They return to the place where they found the portal*"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, guessing we're still headed back?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Actually, I'm kinda curious about this literature club that you talked about"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you're interested in joining?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well, it seems like some people from Teyvat do check it out, so I figured I might have a look as well"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see. Well, you're welcome to drop in anytime"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The literature club is a place for everyone to express themselves, after all"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Great! I might ask Lisa to take me there sometime"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Speaking of asking others, we'd probably get back so you can ask Yun Jin for some opera advice"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh? You sing opera?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, I can only sing a few tunes. I was planning to ask a friend for tips on opera, and maybe a little collaboration"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I just thought it might be fun to sing with someone else for a change"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks to you, Monika, I think I have more confidence in performing with others!"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehe. I guess that makes our rap battle worthwhile, then"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Of course!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Still, this whole ordeal made me wonder if a divine will is at play..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "I kinda doubt that our chance meeting with Sans and Monika was a chance meeting at all"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh, don't sweat too much on it"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have to put up with this shit all the time, it's not too big of a deal"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, let's head back now. I could use a little rest"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "pray",
+			"text": "Same"
+		}
+	]
+}

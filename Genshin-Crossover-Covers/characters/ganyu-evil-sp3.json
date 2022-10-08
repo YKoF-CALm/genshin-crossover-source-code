@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singleft ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-14
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singdown ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				17
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singup ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				75,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singright ganyu",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EVIL GANYU SP3",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "evil-ganyu-sp3",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		133,
+		211
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

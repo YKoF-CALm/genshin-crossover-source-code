@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle xiao tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left xiao tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right xiao tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xiao tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up xiao tired",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-59
+			],
+			"anim": "defeat",
+			"fps": 24,
+			"name": "defeated xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-177
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle defeated xiao",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao-lament-tired",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "xiao-lament",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

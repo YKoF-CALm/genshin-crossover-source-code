@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chongyun idle"
+		},
+		{
+			"offsets": [
+				16,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chongyun left"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chongyun right"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chongyun down"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chongyun up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chongyun",
+	"position": [
+		-350,
+		-200
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		224,
+		255
+	],
+	"camera_position": [
+		180,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

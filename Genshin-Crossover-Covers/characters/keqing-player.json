@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upkeq",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right keqing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				139,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge keqing"
+		},
+		{
+			"offsets": [
+				-23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY keq"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missupkeq",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missleft keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missright keqing",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KEQING WOOHOO",
+	"position": [
+		-10,
+		20
+	],
+	"healthicon": "keqing",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		98,
+		202
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

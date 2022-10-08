@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "yelan idle"
+		},
+		{
+			"offsets": [
+				-27,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "yelan down"
+		},
+		{
+			"offsets": [
+				-40,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "yelan up"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "yelan right"
+		},
+		{
+			"offsets": [
+				-80,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "yelan left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yelan",
+	"position": [
+		-290,
+		-200
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		175
+	],
+	"camera_position": [
+		60,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

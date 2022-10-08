@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao mad"
+		},
+		{
+			"offsets": [
+				-44,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left xiao mad"
+		},
+		{
+			"offsets": [
+				232,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right xiao mad"
+		},
+		{
+			"offsets": [
+				-18,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao mad"
+		},
+		{
+			"offsets": [
+				-74,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao mad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao-lament-crazy",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "xiao",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

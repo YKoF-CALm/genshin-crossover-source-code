@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mona idle"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mona left"
+		},
+		{
+			"offsets": [
+				-50,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mona right"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mona down"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mona up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mona",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		80,
+		215
+	],
+	"camera_position": [
+		120,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

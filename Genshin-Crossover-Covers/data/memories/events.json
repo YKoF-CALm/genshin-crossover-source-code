@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "prologue",
+		"player1": "chongyun-player",
+		"player2": "shenhe",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "emptygf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "memories"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ei-fly idle0"
+		},
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ei-fly idle alt"
+		},
+		{
+			"offsets": [
+				107,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ei-fly up"
+		},
+		{
+			"offsets": [
+				120,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ei-fly left"
+		},
+		{
+			"offsets": [
+				20,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ei-fly right"
+		},
+		{
+			"offsets": [
+				121,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ei-fly down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ei-fly",
+	"position": [
+		-320,
+		0
+	],
+	"healthicon": "shogun",
+	"flip_x": true,
+	"healthbar_colors": [
+		158,
+		44,
+		254
+	],
+	"camera_position": [
+		80,
+		-55
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

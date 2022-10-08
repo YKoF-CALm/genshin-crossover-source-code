@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lisa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lisa right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lisa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lisa up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lisa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "lisa rmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "lisa dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				5
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "lisa umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "lisa lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "lisa dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lisa",
+	"position": [
+		-180,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		20,
+		190
+	],
+	"camera_position": [
+		160,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

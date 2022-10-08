@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ayato idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ayato left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ayato right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ayato down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ayato up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ayatoDT",
+	"position": [
+		-240,
+		-120
+	],
+	"healthicon": "McDeebles",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		0
+	],
+	"camera_position": [
+		-80,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

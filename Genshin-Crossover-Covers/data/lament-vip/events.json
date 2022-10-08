@@ -1,0 +1,146 @@
+{
+	"song": {
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Dadbattle Spotlight",
+						"0",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Change Character",
+						"0",
+						"ganyu-evil-player"
+					],
+					[
+						"noteskinchange",
+						"notes/corruptednotes",
+						"notesplashes/CORRUPTnoteSplashes"
+					],
+					[
+						"Change Character",
+						"1",
+						"xiao-lament-crazy"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-lament"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-lament-crazy"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-lament"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-lament-crazy"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiao-lament-tired"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Play Animation",
+						"defeat",
+						"Dad"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

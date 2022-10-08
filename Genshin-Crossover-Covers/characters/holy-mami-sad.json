@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				450
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "altIDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65,
+				449
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				449
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				479
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				166,
+				427
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				479
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				450
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "altIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/holy-mami",
+	"position": [
+		-160,
+		270
+	],
+	"healthicon": "holymamisad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		140
+	],
+	"camera_position": [
+		-80,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ayaka idle"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ayaka down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ayaka up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ayaka right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ayaka left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ayaka-duality",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		1
+	],
+	"camera_position": [
+		90,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

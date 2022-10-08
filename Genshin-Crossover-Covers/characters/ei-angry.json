@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ei-mad idalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ei-mad ralt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ei-mad lalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ei-mad dalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ei-mad ualt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ei-mad",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "shogun",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		44,
+		254
+	],
+	"camera_position": [
+		120,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

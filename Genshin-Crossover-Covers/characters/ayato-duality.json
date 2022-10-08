@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ayato idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ayato down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ayato up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ayato right"
+		},
+		{
+			"offsets": [
+				-25,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ayato left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ayato-duality",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		1
+	],
+	"camera_position": [
+		40,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

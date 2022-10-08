@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up xiao",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao",
+	"position": [
+		0,
+		-15
+	],
+	"healthicon": "xiao",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

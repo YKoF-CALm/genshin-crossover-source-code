@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "xiangling idle"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "xiangling left"
+		},
+		{
+			"offsets": [
+				-19,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "xiangling right"
+		},
+		{
+			"offsets": [
+				-37,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "xiangling down"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "xiangling up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiangling",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		95,
+		0
+	],
+	"camera_position": [
+		-10,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

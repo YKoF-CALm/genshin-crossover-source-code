@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left zhongli",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down zhongli",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up zhongli",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right zhongli",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle zhongli"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zhongli trolled",
+	"position": [
+		30,
+		-75
+	],
+	"healthicon": "zhongli-tn",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		185,
+		42
+	],
+	"camera_position": [
+		-20,
+		-75
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

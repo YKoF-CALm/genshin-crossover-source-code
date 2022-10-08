@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				54634.1463414634,
+				[
+					[
+						"Change Character",
+						"0",
+						"keqing-corr-player"
+					]
+				]
+			],
+			[
+				70243.9024390244,
+				[
+					[
+						"Change Character",
+						"1",
+						"ganyu-evil-sp1"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf"
+					]
+				]
+			],
+			[
+				101463.414634146,
+				[
+					[
+						"Change Character",
+						"0",
+						"keqing-player"
+					],
+					[
+						"Change Character",
+						"1",
+						"ganyu-evil-sp2"
+					]
+				]
+			],
+			[
+				120975.609756098,
+				[
+					[
+						"Change Character",
+						"1",
+						"ganyu-evil-sp3"
+					]
+				]
+			],
+			[
+				148292.682926829,
+				[
+					[
+						"Change Character",
+						"1",
+						"ganyu"
+					]
+				]
+			]
+		]
+	}
+}

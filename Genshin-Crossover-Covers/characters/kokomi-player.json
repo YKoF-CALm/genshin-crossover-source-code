@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle kokomi"
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right kokomi"
+		},
+		{
+			"offsets": [
+				-46,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left kokomi"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down kokomi"
+		},
+		{
+			"offsets": [
+				76,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up kokomi"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY kokomi"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck-you",
+			"indices": [],
+			"name": "fock kokomi"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright kokomi"
+		},
+		{
+			"offsets": [
+				-46,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft kokomi"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown kokomi"
+		},
+		{
+			"offsets": [
+				77,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup kokomi"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEW Kokomi",
+	"position": [
+		40,
+		40
+	],
+	"healthicon": "kokomi",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		176,
+		212
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

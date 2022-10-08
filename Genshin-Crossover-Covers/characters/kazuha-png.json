@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kazidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down kazi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upkaz",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right kazuha"
+		},
+		{
+			"offsets": [
+				72,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left kazzu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazah",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "mini-kazuha",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

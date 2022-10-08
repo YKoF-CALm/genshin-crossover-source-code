@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gorou down alt"
+		},
+		{
+			"offsets": [
+				-10,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gorou up alt"
+		},
+		{
+			"offsets": [
+				8,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gorou left alt"
+		},
+		{
+			"offsets": [
+				-2,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gorou right alt"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gorou idle alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gorou",
+	"position": [
+		-330,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		94,
+		46
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

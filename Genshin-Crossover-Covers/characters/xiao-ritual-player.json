@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				9,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY xiao",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "dodge xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xiao-Ritual",
+	"position": [
+		140,
+		-10
+	],
+	"healthicon": "xiao-indie",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		70,
+		10
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

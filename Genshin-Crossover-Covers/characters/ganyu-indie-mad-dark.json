@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singleft ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				16
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-32,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singright ganyu"
+		},
+		{
+			"offsets": [
+				65,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "big shot ganyu"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "pewdown ganyu"
+		},
+		{
+			"offsets": [
+				-32,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "pewright ganyu"
+		},
+		{
+			"offsets": [
+				47,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "pewleft ganyu"
+		},
+		{
+			"offsets": [
+				28,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "pewup ganyu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ganyu-Indie-MAD-DARK",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "ganyu-indie-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		167,
+		239
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

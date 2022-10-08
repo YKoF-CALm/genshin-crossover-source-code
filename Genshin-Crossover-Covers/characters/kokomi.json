@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				109,
+				69
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY kokomi"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fuck-you",
+			"indices": [],
+			"name": "fock kokomi"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEW Kokomi",
+	"position": [
+		20,
+		40
+	],
+	"healthicon": "kokomi",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		176,
+		212
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ei-sword idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ei-sword up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ei-sword down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				142
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ei-sword left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				122
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ei-sword right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ei-sword",
+	"position": [
+		-260,
+		-160
+	],
+	"healthicon": "shogun",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		44,
+		254
+	],
+	"camera_position": [
+		80,
+		-55
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

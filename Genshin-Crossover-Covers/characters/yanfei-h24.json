@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle yan yan big"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down yan yan big",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right yan yan big"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left yan yan big",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up yan yan big",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown yan yan big"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missright yan yan big"
+		},
+		{
+			"offsets": [
+				36,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missleft yan yan big"
+		},
+		{
+			"offsets": [
+				27,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup yan yan big"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yanfei H24",
+	"position": [
+		50,
+		-120
+	],
+	"healthicon": "yanfei24",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

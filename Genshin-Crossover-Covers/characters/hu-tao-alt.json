@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hu-tao idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hu-tao down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hu-tao up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hu-tao left"
+		},
+		{
+			"offsets": [
+				-18,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hu-tao right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hu-tao-alt",
+	"position": [
+		-310,
+		-190
+	],
+	"healthicon": "hu-tao",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		64,
+		67
+	],
+	"camera_position": [
+		80,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

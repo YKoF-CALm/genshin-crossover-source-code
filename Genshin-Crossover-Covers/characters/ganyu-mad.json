@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singleft ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-14
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				3
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singright ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				14
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "shoot ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				51
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge ganyu",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAD GANYU",
+	"position": [
+		-70,
+		40
+	],
+	"healthicon": "ganyu-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		167,
+		239
+	],
+	"camera_position": [
+		-100,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

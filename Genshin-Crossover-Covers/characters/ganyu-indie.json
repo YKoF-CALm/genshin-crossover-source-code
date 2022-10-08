@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singleft ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-14
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				24
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singright ganyu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ganyu-Indie",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "ganyu-indie",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		167,
+		239
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

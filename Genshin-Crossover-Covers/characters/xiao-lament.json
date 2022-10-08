@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao"
+		},
+		{
+			"offsets": [
+				-44,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left xiao"
+		},
+		{
+			"offsets": [
+				-12,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				-95,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				-74,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao-lament",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "xiao-lament",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

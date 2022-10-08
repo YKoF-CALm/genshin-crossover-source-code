@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "xinyan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "xinyan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "xinyan up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				38,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "xinyan right"
+		},
+		{
+			"offsets": [
+				-7,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "xinyan left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xinyan",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		80,
+		20
+	],
+	"camera_position": [
+		50,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

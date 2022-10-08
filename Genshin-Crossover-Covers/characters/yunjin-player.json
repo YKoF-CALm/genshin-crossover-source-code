@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "yunjin idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yunjin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yunjin up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "yunjin right"
+		},
+		{
+			"offsets": [
+				-22,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "yunjin left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yunjin",
+	"position": [
+		-290,
+		-190
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		175,
+		0
+	],
+	"camera_position": [
+		120,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
