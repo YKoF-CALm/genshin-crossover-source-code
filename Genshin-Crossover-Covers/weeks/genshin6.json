@@ -1,0 +1,58 @@
+{
+	"storyName": "Da 2.5 thing i guess",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Copy Cat",
+			"bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Confronting Yourself",
+			"exe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"No Villains",
+			"tgtsonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Baka",
+			"natsuki",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,67 @@
+{
+	"storyName": "Little things",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Checked",
+			"tom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sansational",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Wilter",
+			"psychic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lament VIP",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dusk VIP",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Reunion Week"
+}

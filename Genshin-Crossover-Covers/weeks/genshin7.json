@@ -1,0 +1,58 @@
+{
+	"storyName": "yey new update",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Dad Battle GI",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Challengedd",
+			"edd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beastfunkin",
+			"beast",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Talentless Fox",
+			"tgttails",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

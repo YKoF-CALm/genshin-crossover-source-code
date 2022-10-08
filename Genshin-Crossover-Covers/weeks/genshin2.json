@@ -1,0 +1,57 @@
+{
+	"storyName": "more genshin lmao",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Satin Panties GI",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Genocide",
+			"tabi-crazy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dusk",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Crucify",
+			"taki",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Genshin Week 2"
+}

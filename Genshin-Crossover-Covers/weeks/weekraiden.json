@@ -1,0 +1,49 @@
+{
+	"storyName": "Plane of Euthymia",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "outside",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Thunderstorm",
+			"rshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ectospasm",
+			"madretro",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Uproar",
+			"psychic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Raiden Week"
+}
