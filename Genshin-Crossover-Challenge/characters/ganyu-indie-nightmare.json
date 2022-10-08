@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-108,
+				124
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singleft ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				49
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singdown ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				79
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singup ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singright ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				78
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "big shot ganyu",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				79
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTalt",
+			"loop": false,
+			"name": "pewleft ganyu"
+		},
+		{
+			"offsets": [
+				41,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNalt",
+			"loop": false,
+			"name": "pewdown ganyu"
+		},
+		{
+			"offsets": [
+				17,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPalt",
+			"loop": false,
+			"name": "pewup ganyu"
+		},
+		{
+			"offsets": [
+				63,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTalt",
+			"loop": false,
+			"name": "pewright ganyu"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ganyu-Indie-NIGHTMARE",
+	"position": [
+		-210,
+		-50
+	],
+	"healthicon": "ganyu-indie-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

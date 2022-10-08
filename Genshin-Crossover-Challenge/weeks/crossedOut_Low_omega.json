@@ -1,0 +1,32 @@
+{
+	"storyName": "by mike Geno, Mod by Unbekannt                   -",
+	"difficulties": "Omega, OmegaSpace",
+	"hideFreeplay": false,
+	"weekBackground": "crossedout",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Crossed Out Omega",
+			"final",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu_bendy_low",
+		"menu_cuphead_low",
+		"menu_sans_low"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "CrossedOut Low Omega chart - Unbk"
+}
