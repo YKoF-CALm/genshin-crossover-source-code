@@ -1,3 +1,32 @@
+Update 3.2
+Renamed the 3 non-main modpacks (I just changed GC back to Genshin Crossover) for organization
+-Genshin Crossover
+    -Added Legal Expertise
+    -Credits. Lots of credits
+-Genshin Crossover Covers
+    -Added Lo-Fight (HQ), Lament, Nerves, Firebomb, Asteroids, Ritual, Soda Disco Funk and Crossed Out
+    -New mini-stories: Lament VIP and Dusk VIP
+    -Lots of new sprites for Ganyu, Yanfei and Keqing
+    -Some improvements to the previous existing sprites
+    -New Xiao and Zhongli sprites
+    -Lots more cover remasters
+    -Attempted to optimize more high-memory covers
+    -Gave Raiden Shogun an icon
+-Genshin Crossover Challenge
+    -Added the alternate charts for Crossed Out
+    -Sprite and cover improvements from Covers modpack brought into here as well
+-Genshin Crossover External
+    -Sprite improvements from Covers modpack brought into here as well
+
+Update 3.1
+-Genshin Crossover
+    -Added more credits
+-GC Covers
+    -Added Thunderstorm Remix, Endurance, Markov, Psychic, Balls Stuck, Stress and Roasted Remix
+    -New sprites for Keqing and Kokomi
+    -Some organization
+    -More remasters
+
 Update 3
 Split Genshin Crossover into 3 more modpacks, and changed Genshin Crossover (C) to GC External
 -Genshin Crossover

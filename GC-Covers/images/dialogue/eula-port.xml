@@ -1,8 +1,0 @@
-<TextureAtlas imagePath="eula-port.png">
-<!--   Created with Adobe Animate version 19.0.0.326   -->
-<!--   http://www.adobe.com/products/animate.html   -->
-<SubTexture name="sus0000" x="1057" y="3" width="517" height="530"/>
-<SubTexture name="frown0000" x="1057" y="536" width="501" height="543"/>
-<SubTexture name="normal0000" x="3" y="616" width="492" height="507"/>
-<SubTexture name="outline0000" x="526" y="568" width="521" height="516"/>
-</TextureAtlas>

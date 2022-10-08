@@ -1,5 +1,5 @@
 Genshin Crossover
-YKoF_CALm::blankicon::Creator of Genshin Crossover::https://www.youtube.com/channel/UCw7a2rEC9OkaRHTn16zF0jg::0xFFFFDD33
+YKoF_CALm::blankicon::Coder, musician, charter and dialogue writer::https://www.youtube.com/channel/UCw7a2rEC9OkaRHTn16zF0jg::0xFFFFDD33
 iov::blankicon::Sprite artist and animator::https://www.youtube.com/channel/UC6pN-7JbA0abVnJ0ypo3wjw::0xFFFFDD33
 kiawq::blankicon::Artist::https://gamejolt.com/games/genshinimpactcrossover/678333::0xFFFFDD33
 
@@ -97,9 +97,6 @@ Tsuraran::blankicon::Chicken Dance Remix::https://twitter.com/_Tsuraran::0xFFFFD
 
 VS Tricky Psych Engine Port
 SaturnSpades::blankicon::Porter::https://www.youtube.com/channel/UCgGOUTghLXFrWXUqL1oQp7A::0xFFFFDD33
-
-Kaeya and Keqing Mod
-Kurxmi::blankicon::Creator::https://twitter.com/xKurami::0xFFFFDD33
 
 Tabi Team
 Homskiy::homskiy::::https://twitter.com/Homskiyy::0xFFFFDD33
@@ -895,6 +892,37 @@ Trials::Trials::GET FUCKED THE MOD CAME OUT "ModS nEvEr CoMinG oUt" WHO IS LAUGH
 BETADCIU Mod
 Blantados::blantados::Creator::https://twitter.com/Blantados::0xFFFFDD33
 
+Genshin Funkin' (VS Klee)
+GoddessAwe::blankicon::Director::https://twitter.com/GoddessAwe::0xFFFFDD33
+Cape::Cape::Coder::https://twitter.com/c4peletini::0xFFFFDD33
+Zero ARTIST::blankicon::Artist::https://twitter.com/zero_artist02::0xFFFFDD33
+Hoshi::blankicon::Artist::https://twitter.com/Arthoshi01::0xFFFFDD33
+Chimmie::blankicon::Klee chromatic::https://twitter.com/Chimmie_mpeg::0xFFFFDD33
+
+VS Void
+Starbreak::blankicon::Programming, Art/Animation, Music, Charting::https://www.youtube.com/c/StarbreakMusic::0xFFFFDD33
+TheNikwell::blankicon::Creative Help/Dialogue Help::https://thenikwell.newgrounds.com/::0xFFFFDD33
+Slinkous::blankicon::Github Setup Help::https://github.com/SlinkousArt::0xFFFFDD33
+1up::blankicon::"Thanks for playing" Art::https://www.instagram.com/sir_1up_sir/::0xFFFFDD33
+Zapsplat.com::blankicon::Sound Effects::https://www.zapsplat.com/::0xFFFFDD33
+KadeDev::kade::Make Kade Engine::https://twitter.com/kade0912::0xFF99C68E
+
+Crossed Out Credits
+Unbekannt::unbekannt::Charter & Programmer of this mod\nShamlessly took assets from others and made this mod with it::https://www.youtube.com/channel/UCEeflLgPFaIV2o4YQbo_qvg::2d2d2d
+Mike Geno::mikegeno::Composer of Crossed Out\nAs always - an absolute banger::'https://www.youtube.com/watch?v=6iUPF8TnRyo::4075d0
+Indi Cross::indicross::Self explanatory\n98% of the assets used - go download it::https://gamejolt.com/games/indiecross/643540::c44550
+
+Crossed Out Special Thanks
+A Beautiful Day Outside::abdo::The Attacks during the sans part\nProgrammed by the legend SrPerez, modified by me::https://gamebanana.com/mods/345103::f8f8f8
+Vs Longest Solo Ever::VsLse::The Bf during the guitar solo::https://gamebanana.com/mods/358645::ff4f53
+Vs Retrospecter::VsRetrospecter::The Lights during the guitar solo::https://gamebanana.com/mods/317366::17d8e4
+bb-panzu::bb-panzu::The camera lef-right-bop during the guitar solo::https://twitter.com/bbsub3::389A58
+Foxtrys::Foxtrys::The better Note Splashes::https://gamejolt.com/games/fnf-shaggy/643999::33724a::https://gamebanana.com/members/2163238::94ddfe
+Vs Shaggy::VsShaggy::The star on some awards::https://gamejolt.com/games/fnf-shaggy/643999::33724a
+
+VS Raiden Shogun in Blanket
+GhastWay::blankicon::Did everything::https://gamebanana.com/members/2176044::0xFFFFDD33
+
 Miscellaneous Things
 bb-panzu::bb-panzu::Stole a bunch of Lua code from him lmao::https://twitter.com/bbsub3::0xFF357893
 Sanimador::blankicon::The flashbang event::https://gamebanana.com/members/1875397::0xFFFFDD33
@@ -905,7 +933,7 @@ Ron The Music Boi::blankicon::MIDI pack::https://www.youtube.com/channel/UC5muka
 CapitalGamingDev::blankicon::Compiled the MIDI pack::https://www.youtube.com/c/CapitalGaming::0xFFFFDD33
 Deadsaac X::blankicon::UST for Promenade and Left Unchecked::https://www.youtube.com/channel/UCrI00cNt6C7Hzcm1AWOOdiQ::0xFFFFDD33
 DCLC MUSIC::blankicon::UST for Thunderstorm::https://twitter.com/DanyCampusano2::0xFFFFDD33
-Neeko_06::blankicon::USTs for Satin Panties, Gospel, Crucify and Zavodila::https://twitter.com/Neeko_06::0xFFFFDD33
+Neeko_06::blankicon::USTs for Satin Panties, Gospel, Crucify, Zavodila and Nerves::https://twitter.com/Neeko_06::0xFFFFDD33
 MuratDevFnf::blankicon::MIDI for Genocide::https://www.youtube.com/channel/UCtbQrKPbKWQSPSql_LhS28Q::0xFFFFDD33
 Lalo._FNF::blankicon::UST for Memories::https://www.youtube.com/channel/UCx_QTUn_ElcxYpwfuEME93A::0xFFFFDD33
 Andro FNF Covers::blankicon::UST for Endless::https://www.youtube.com/channel/UCyhIqVdNi92j1BJe8yZ4UZg::0xFFFFDD33
@@ -931,6 +959,16 @@ ZzimzZ::blankicon::FLP for original Qilin's Prance::https://www.youtube.com/chan
 DanlyDaMusicant::blankicon::MIDI for Sansational::https://www.youtube.com/channel/UCM0BnEgf9acQc64rLqUfZ_A::0xFFFFDD33
 NolanMclovin::blankicon::FLP for Thunderstorm Remix::https://www.youtube.com/channel/UCDAWwbzejznejV4EfWYJQTA::0xFFFFDD33
 vvirus9::blankicon::MIDI for Endurance::https://www.youtube.com/c/vvirus9::0xFFFFDD33
+Ambiel::blankicon::MIDI for Lo-Fight (HQ)::https://www.youtube.com/channel/UCjPlS4YVnI0_9x3CsjB-wBw::0xFFFFDD33
+funny-man::funnyman::MIDI for Lament::https://www.youtube.com/channel/UCvoy-s3xoQYKeHOoKp6n36Q::0xFFFFDD33
+CoversAdrian FNF::blankicon::FLP for Firebomb::https://www.youtube.com/channel/UCyDxDea_RvLbWabNjxXFmAw::0xFFFFDD33
+Forced to::blankicon::FLP for Ritual::https://www.youtube.com/channel/UCnLknwmLBEBGjxFw0kNxEVA::0xFFFFDD33
+CmF::blankicon::FLP for Soda Disco Funk::https://www.youtube.com/channel/UClG43E0o6jNfp7Jt7uA9bpw::0xFFFFDD33
+Seagull::blankicon::MIDI for Crossed Out::https://www.youtube.com/user/AKILLESS::0xFFFFDD33
+Felixan#01::blankicon::Double Icons Script::https://gamebanana.com/members/1779160::0xFFFFDD33
+Piggyfriend1792::blankicon::Car Crash Script::https://twitter.com/piggyfriend1792::0xFFFFDD33
+Conent::blankicon::Lament VIP chart::https://www.youtube.com/c/ConentL::0xFFFFDD33
+SaberHoodie::blankicon::Dusk VIP chart::https://twitter.com/Saberlicious_::0xFFFFDD33
 Porqui::blankicon::MIDI for Only My Railgun::https://twitter.com/TBPorqui1::0xFFFFDD33
 
 Copyrighted Material used

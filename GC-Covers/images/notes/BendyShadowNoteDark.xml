@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="BendyShadowNoteDark.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="blue0000" x="25" y="5" width="199" height="341"/>
-	<SubTexture name="purple0000" x="234" y="5" width="207" height="319"/>
-	<SubTexture name="red0000" x="25" y="346" width="207" height="319"/>
-	<SubTexture name="green0000" x="242" y="346" width="199" height="341"/>
-</TextureAtlas>

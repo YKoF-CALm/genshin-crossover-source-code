@@ -1,6 +1,0 @@
-Forces Middlescroll if it's off. Does not make
-ghost notes appear. Opponent's notes still vanish
-if it's already enabled.
-
-Value1: 'On' or 'Off' (Case-sensitive)
-Value2: Duration of arrow vanish/movement (In seconds)

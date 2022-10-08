@@ -1,0 +1,76 @@
+Nightmare form details
+1. At least 10 times more powerful than their regular forms
+2. No one is able to overpower them, not even the archons (unless if the archons have a Nightmare form active)
+3. It takes a Nightmare to counter a Nightmare, or something equivalent to that power
+4. All attacks are enhanced and infused with the character's element
+5. Beating a Nightmare in a rap battle can only render their attacks useless for a limited amount of time
+6. It's possible to remove a Nightmare form, but it takes a lot of power and endurance in order to do so
+7. A Nightmare form can be disabled at will, but to activate it, you need a certain catalyst...
+8. Nightmare characters automatically get Nightmare artifacts. These artifacts have every substat imaginable and are probably the most cracked you'll ever seen.
+In addition, the Nightmare set results in +100% Elemental AND Physical DMG, plus 1000% of every stat on the character (both 2 pc and 4 pc effects combined).
+9. Nightmare characters automatically get a Nightmare weapon, simply named Nightmare (weapon type).
+Base ATK: 5000
+Main Stat: CRIT DMG 200%
+Passive: Grants Nightmare effects to opponents hit by any attack
+Opponents affected by Nightmare have their health STOLEN from them, about 1000 HP every 2s
+They also take 69% increased DMG
+Nightmare can be inflicted on as many opponents as possible
+If an opponent inflicted with Nightmare is above 50% HP, the character's ATK is doubled. This can stack for unlimited stacks.
+Nightmare Ganyu talents:
+Normal Attack: Normal attacks are now twice as fast, and her arrows are infused with Cryo
+Charged attack:
+1st lvl charge deals double than what you usually deal
+2nd lvl charge retains its proportional DMG relative to the 1st lvl charge (so increased DMG) and there’s a secondary explosion after the 1st one
+The secondary explosion consists of multiple explosions, the number of which depending on the number of icicles spread out from the 1st one
+2nd charge attack lands instantly when released
+Plunging attack: Infused with Cryo
+
+E: 3 lotuses instead of 1, so you can deal triple DMG
+Each lotus also explodes 3 times when duration expires
+
+Q: Cryo DMG increase is increased to 60%
+Icicles now actively target opponents in its AoE, and deal AoE Cryo DMG
+AoE of burst is increased by 50%
+Upon ending, her burst explodes, dealing Cryo DMG
+
+Additional talent: Ganyu’s Cryo attacks CAN HURT ANY CRYO OPPONENT (including Cryo slimes and Specters).
+However, DMG taken by Cryo slimes and Specters is decreased by 50% if DMG dealt is Cryo DMG 
+Nightmare Xiao talents:
+Normal and charged attacks: Deals a separate instance of Anemo DMG aside from the usual Physical DMG
+Charged attacks don't consume stamina
+Plunging attacks: Double DMG than usual
+
+E: Increased DMG, added an AoE (consider a sniper vs a shotgun)
+
+Q: Xiao no longer has health drain when his burst is active
+Anemo infusion is as usual, but with a twist:
+-Normal attacks deal double DMG
+-Charged attacks and E deal triple DMG
+-Plunging attacks deal quadruple DMG
+AoE of both E and Q is increased
+When Xiao hit an opponent, that opponent is marked with Karma
+Karma has the following effects:
+-DMG taken is increased based on the amount of DMG taken already
+-Xiao's usual health drain is offloaded to the marked opponent. Every HP lost is given to Xiao (AKA lifesteal)
+Each opponent's Karma effects are calculated separately
+
+Xiao's Anemo DMG can hurt Anemo slimes and specters, but those 2 enemies take 50% less DMG 
+Nightmare Zhongli talents:
+Normal attack talent in general: Infused with Geo
+Normal attacks summon 2 additional rocks to hit opponents with, those rocks deal both Physical and Geo DMG
+
+E: Tap: Summons 5 pillars to surround opponents in front of him, which deal Geo DMG
+Pillars function the same, however once their duration is up, or if they're destroyed, they will explode, dealing Geo DMG. They also have a larger AoE
+Hold: Grants a shield, deals Geo DMG and summons pillars to cover the AoE of the hold-E attack
+
+Q: 1 meteor doesn't seem to be enough, so why not an asteroid storm?
+Meteors will constantly bombard an area similar to Nahida's Q. These meteors are the same ones that you usually summon with Q
+Petrified opponents take double DMG from claymores and Geo attacks
+
+Miscellaneous:
+Zhongli's passive where his attacks are scaled with HP is changed
+Normal attack talent is scaled by about 50% of his HP
+E talent is scaled by 100% of HP
+Q talent is scaled by 500% of HP
+
+Zhongli's Geo DMG can hurt Geo elemental beings, and he deals FULL DMG to them (nothing is immune to his attacks)

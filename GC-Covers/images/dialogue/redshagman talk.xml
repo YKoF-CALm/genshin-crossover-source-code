@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="redshagman talk.png"><SubTexture name="redshagmantalk idle0000" x="0" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
-<SubTexture name="redshagmantalk sad?0000" x="434" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
-<SubTexture name="redshagman talk i will kill you0000" x="868" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
-<SubTexture name="redshagman talk ?????0000" x="1302" y="0" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
-<SubTexture name="redshagman talk what0000" x="0" y="324" width="434" height="324" frameX="0" frameY="0" frameWidth="434" frameHeight="324" />
-</TextureAtlas>
