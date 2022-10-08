@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry pico0000" x="1359" y="0" width="453" height="507"/>
+	<SubTexture name="ask pico0000" x="0" y="0" width="453" height="507"/>
+	<SubTexture name="kill pico0000" x="0" y="1014" width="453" height="507"/>
+	<SubTexture name="loopangry pico0000" x="453" y="0" width="453" height="507"/>
+	<SubTexture name="loopangry pico0001" x="453" y="0" width="453" height="507"/>
+	<SubTexture name="loopangry pico0002" x="906" y="0" width="453" height="507"/>
+	<SubTexture name="loopangry pico0003" x="906" y="0" width="453" height="507"/>
+	<SubTexture name="loopangry pico0004" x="1359" y="0" width="453" height="507"/>
+	<SubTexture name="loopangry pico0005" x="1359" y="0" width="453" height="507"/>
+	<SubTexture name="loopask pico0000" x="0" y="507" width="453" height="507"/>
+	<SubTexture name="loopask pico0001" x="0" y="507" width="453" height="507"/>
+	<SubTexture name="loopask pico0002" x="453" y="507" width="453" height="507"/>
+	<SubTexture name="loopask pico0003" x="453" y="507" width="453" height="507"/>
+	<SubTexture name="loopask pico0004" x="0" y="0" width="453" height="507"/>
+	<SubTexture name="loopask pico0005" x="0" y="0" width="453" height="507"/>
+	<SubTexture name="loopkill pico0000" x="906" y="507" width="453" height="507"/>
+	<SubTexture name="loopkill pico0001" x="906" y="507" width="453" height="507"/>
+	<SubTexture name="loopkill pico0002" x="1359" y="507" width="453" height="507"/>
+	<SubTexture name="loopkill pico0003" x="1359" y="507" width="453" height="507"/>
+	<SubTexture name="loopkill pico0004" x="0" y="1014" width="453" height="507"/>
+	<SubTexture name="loopkill pico0005" x="0" y="1014" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0000" x="453" y="1014" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0001" x="453" y="1014" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0002" x="906" y="1014" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0003" x="906" y="1014" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0004" x="906" y="2028" width="453" height="507"/>
+	<SubTexture name="loopnervous pico0005" x="906" y="2028" width="453" height="507"/>
+	<SubTexture name="looptalk pico0000" x="1359" y="1014" width="453" height="507"/>
+	<SubTexture name="looptalk pico0001" x="1359" y="1014" width="453" height="507"/>
+	<SubTexture name="looptalk pico0002" x="0" y="1521" width="453" height="507"/>
+	<SubTexture name="looptalk pico0003" x="0" y="1521" width="453" height="507"/>
+	<SubTexture name="looptalk pico0004" x="1359" y="2028" width="453" height="507"/>
+	<SubTexture name="looptalk pico0005" x="1359" y="2028" width="453" height="507"/>
+	<SubTexture name="loopthink pico0000" x="453" y="1521" width="453" height="507"/>
+	<SubTexture name="loopthink pico0001" x="453" y="1521" width="453" height="507"/>
+	<SubTexture name="loopthink pico0002" x="906" y="1521" width="453" height="507"/>
+	<SubTexture name="loopthink pico0003" x="906" y="1521" width="453" height="507"/>
+	<SubTexture name="loopthink pico0004" x="0" y="2535" width="453" height="507"/>
+	<SubTexture name="loopthink pico0005" x="0" y="2535" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0000" x="1359" y="1521" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0001" x="1359" y="1521" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0002" x="0" y="2028" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0003" x="0" y="2028" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0004" x="453" y="2028" width="453" height="507"/>
+	<SubTexture name="loopunhappy pico0005" x="453" y="2028" width="453" height="507"/>
+	<SubTexture name="nervous pico0000" x="906" y="2028" width="453" height="507"/>
+	<SubTexture name="talk pico0000" x="1359" y="2028" width="453" height="507"/>
+	<SubTexture name="think pico0000" x="0" y="2535" width="453" height="507"/>
+	<SubTexture name="unhappy pico0000" x="453" y="2028" width="453" height="507"/>
+</TextureAtlas>

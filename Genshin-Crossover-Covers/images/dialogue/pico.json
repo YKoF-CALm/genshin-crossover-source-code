@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		20,
+		-20
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "looptalk pico",
+			"idle_name": "talk pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "unhappy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "unhappy pico",
+			"loop_name": "loopunhappy pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "think",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "think pico",
+			"loop_name": "loopthink pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "nervous pico",
+			"loop_name": "loopnervous pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry pico",
+			"loop_name": "loopangry pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "ask",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ask pico",
+			"loop_name": "loopask pico"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "kill",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "kill pico",
+			"loop_name": "loopkill pico"
+		}
+	],
+	"image": "pico-dial"
+}

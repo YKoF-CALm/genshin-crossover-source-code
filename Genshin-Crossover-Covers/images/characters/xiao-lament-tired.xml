@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xiao-lament-tired.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="defeated xiao0000" x="0" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0001" x="750" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0002" x="1500" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0003" x="2250" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0004" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0005" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0006" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0007" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0008" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0009" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0010" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0011" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0012" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0013" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0014" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0015" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0016" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0017" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0018" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0019" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0020" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0021" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0022" x="3000" y="0" width="750" height="723"/>
+	<SubTexture name="defeated xiao0023" x="0" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0024" x="750" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0025" x="1500" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0026" x="1500" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0027" x="2250" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0028" x="2250" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0029" x="3000" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0030" x="3000" y="723" width="750" height="723"/>
+	<SubTexture name="defeated xiao0031" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0032" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0033" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0034" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0035" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0036" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0037" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0038" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0039" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0040" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0041" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0042" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0043" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0044" x="0" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0045" x="750" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0046" x="750" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0047" x="1500" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0048" x="1500" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0049" x="2250" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0050" x="2250" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0051" x="3000" y="1446" width="750" height="723"/>
+	<SubTexture name="defeated xiao0052" x="0" y="2169" width="750" height="723"/>
+	<SubTexture name="defeated xiao0053" x="750" y="2169" width="750" height="723"/>
+	<SubTexture name="defeated xiao0054" x="750" y="2169" width="750" height="723"/>
+	<SubTexture name="down xiao tired0000" x="1500" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0001" x="1500" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0002" x="1872" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0003" x="1872" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0004" x="2244" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0005" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0006" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0007" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0008" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0009" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0010" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0011" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0012" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0013" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0014" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0015" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0016" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0017" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0018" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0019" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0020" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0021" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0022" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0023" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0024" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0025" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0026" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0027" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0028" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0029" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0030" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0031" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0032" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0033" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0034" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0035" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0036" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0037" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0038" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0039" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0040" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0041" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0042" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0043" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0044" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0045" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0046" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="down xiao tired0047" x="2616" y="2169" width="372" height="759"/>
+	<SubTexture name="idle defeated xiao0000" x="2988" y="2169" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0001" x="3358" y="2169" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0002" x="0" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0003" x="370" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0004" x="740" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0005" x="1110" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0006" x="1480" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0007" x="1850" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0008" x="2220" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0009" x="2590" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0010" x="2960" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0011" x="3330" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0012" x="3700" y="2928" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0013" x="0" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0014" x="370" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0015" x="740" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0016" x="1110" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0017" x="1480" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0018" x="1850" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0019" x="2220" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0020" x="2590" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0021" x="2960" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0022" x="3330" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0023" x="3700" y="3534" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0024" x="0" y="4140" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0025" x="370" y="4140" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0026" x="740" y="4140" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0027" x="1110" y="4140" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0028" x="1480" y="4140" width="370" height="606"/>
+	<SubTexture name="idle defeated xiao0029" x="2988" y="2169" width="370" height="606"/>
+	<SubTexture name="idle xiao tired0000" x="1850" y="4140" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0001" x="1850" y="4140" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0002" x="2600" y="4140" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0003" x="2600" y="4140" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0004" x="0" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0005" x="0" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0006" x="750" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0007" x="1500" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0008" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0009" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0010" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0011" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0012" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0013" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0014" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="idle xiao tired0015" x="2250" y="4913" width="750" height="773"/>
+	<SubTexture name="left xiao tired0000" x="3000" y="4913" width="434" height="748"/>
+	<SubTexture name="left xiao tired0001" x="3000" y="4913" width="434" height="748"/>
+	<SubTexture name="left xiao tired0002" x="3434" y="4913" width="434" height="748"/>
+	<SubTexture name="left xiao tired0003" x="3434" y="4913" width="434" height="748"/>
+	<SubTexture name="left xiao tired0004" x="0" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0005" x="434" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0006" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0007" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0008" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0009" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0010" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0011" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0012" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0013" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0014" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0015" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0016" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0017" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0018" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0019" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0020" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0021" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0022" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0023" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0024" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0025" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0026" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0027" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0028" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0029" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0030" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0031" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0032" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0033" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0034" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0035" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0036" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0037" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0038" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0039" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0040" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0041" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0042" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0043" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0044" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0045" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="left xiao tired0046" x="868" y="5686" width="434" height="748"/>
+	<SubTexture name="right xiao tired0000" x="1302" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0001" x="1302" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0002" x="1715" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0003" x="1715" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0004" x="2128" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0005" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0006" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0007" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0008" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0009" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0010" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0011" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0012" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0013" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0014" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0015" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0016" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0017" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0018" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0019" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0020" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0021" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0022" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0023" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0024" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0025" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0026" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0027" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0028" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0029" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0030" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0031" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0032" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0033" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0034" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0035" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0036" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0037" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0038" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0039" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0040" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0041" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0042" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0043" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0044" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0045" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="right xiao tired0046" x="2541" y="5686" width="413" height="733"/>
+	<SubTexture name="up xiao tired0000" x="2954" y="5686" width="421" height="787"/>
+	<SubTexture name="up xiao tired0001" x="2954" y="5686" width="421" height="787"/>
+	<SubTexture name="up xiao tired0002" x="3375" y="5686" width="421" height="787"/>
+	<SubTexture name="up xiao tired0003" x="0" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0004" x="421" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0005" x="842" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0006" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0007" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0008" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0009" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0010" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0011" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0012" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0013" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0014" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0015" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0016" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0017" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0018" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0019" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0020" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0021" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0022" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0023" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0024" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0025" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0026" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0027" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0028" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0029" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0030" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0031" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0032" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0033" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0034" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0035" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0036" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0037" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0038" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0039" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0040" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0041" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0042" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0043" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0044" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0045" x="1263" y="6473" width="421" height="787"/>
+	<SubTexture name="up xiao tired0046" x="1263" y="6473" width="421" height="787"/>
+</TextureAtlas>

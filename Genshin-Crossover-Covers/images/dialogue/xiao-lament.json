@@ -1,0 +1,245 @@
+{
+	"position": [
+		180,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "xiao-lament-dial",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loophappy xiao",
+			"idle_name": "happy xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopsad xiao",
+			"idle_name": "sad xiao"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused xiao",
+			"loop_name": "loopconfused xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"anim": "sad2",
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"idle_name": "sad2 xiao",
+			"loop_name": "loopsad2 xiao"
+		},
+		{
+			"idle_offsets": [
+				-9,
+				0
+			],
+			"anim": "sad3",
+			"loop_offsets": [
+				-9,
+				0
+			],
+			"idle_name": "sad3 xiao",
+			"loop_name": "loopsad3 xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"anim": "look up",
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"idle_name": "lookup xiao",
+			"loop_name": "looplookup xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "think",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopthink xiao",
+			"idle_name": "think xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "angry think",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopangrythink xiao",
+			"idle_name": "angrythink xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "angry think2",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopangrythink2 xiao",
+			"idle_name": "angrythink2 xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				21
+			],
+			"anim": "challenge",
+			"loop_offsets": [
+				-8,
+				21
+			],
+			"idle_name": "challenge xiao",
+			"loop_name": "loopchallenge xiao"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "how",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "how xiao",
+			"loop_name": "loophow xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"anim": "pain",
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"idle_name": "pain xiao",
+			"loop_name": "loopain xiao"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "worry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "worry xiao",
+			"loop_name": "loopworry xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"anim": "stare",
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"idle_name": "stare xiao",
+			"loop_name": "stare xiao"
+		},
+		{
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"anim": "very sad",
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"idle_name": "verysad xiao",
+			"loop_name": "loopverysad xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "sad look",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopsadlook xiao",
+			"idle_name": "sadlook xiao"
+		},
+		{
+			"loop_offsets": [
+				-8,
+				0
+			],
+			"anim": "question",
+			"idle_offsets": [
+				-8,
+				0
+			],
+			"loop_name": "loopquestion xiao",
+			"idle_name": "question xiao"
+		},
+		{
+			"loop_name": "loophow0 xiao",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "how0 xiao",
+			"anim": "how0",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

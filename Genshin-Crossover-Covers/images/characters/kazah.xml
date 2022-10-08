@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kazah.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down kazi0000" x="0" y="0" width="653" height="388" frameX="0" frameY="-72" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0001" x="0" y="0" width="653" height="388" frameX="0" frameY="-72" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0002" x="653" y="0" width="578" height="443" frameX="-37" frameY="-17" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0003" x="653" y="0" width="578" height="443" frameX="-37" frameY="-17" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0004" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0005" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0006" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0007" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0008" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0009" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0010" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0011" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0012" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0013" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0014" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0015" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0016" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0017" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0018" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0019" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0020" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0021" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0022" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0023" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0024" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0025" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0026" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0027" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0028" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0029" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0030" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0031" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0032" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0033" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0034" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0035" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0036" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0037" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0038" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="down kazi0039" x="1231" y="0" width="558" height="460" frameX="-47" frameY="0" frameWidth="653" frameHeight="460"/>
+	<SubTexture name="kazidle0000" x="1789" y="0" width="213" height="570" frameX="-86" frameY="0" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0001" x="2002" y="0" width="218" height="568" frameX="-83" frameY="-2" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0002" x="2220" y="0" width="257" height="550" frameX="-64" frameY="-20" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0003" x="2477" y="0" width="340" height="511" frameX="-22" frameY="-59" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0004" x="2817" y="0" width="378" height="493" frameX="-3" frameY="-77" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0005" x="3195" y="0" width="384" height="490" frameX="0" frameY="-80" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0006" x="3579" y="0" width="374" height="495" frameX="-5" frameY="-75" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0007" x="0" y="570" width="346" height="508" frameX="-19" frameY="-62" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0008" x="346" y="570" width="298" height="530" frameX="-43" frameY="-40" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0009" x="644" y="570" width="251" height="553" frameX="-66" frameY="-17" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0010" x="895" y="570" width="222" height="566" frameX="-81" frameY="-4" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="kazidle0011" x="1789" y="0" width="213" height="570" frameX="-86" frameY="0" frameWidth="384" frameHeight="570"/>
+	<SubTexture name="left kazzu0000" x="1117" y="570" width="571" height="630" frameX="0" frameY="0" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0001" x="1117" y="570" width="571" height="630" frameX="0" frameY="0" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0002" x="1688" y="570" width="468" height="630" frameX="-103" frameY="0" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0003" x="1688" y="570" width="468" height="630" frameX="-103" frameY="0" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0004" x="2156" y="570" width="520" height="518" frameX="-150" frameY="-112" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0005" x="2676" y="570" width="606" height="383" frameX="-150" frameY="-247" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0006" x="3282" y="570" width="708" height="91" frameX="-127" frameY="-533" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0007" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0008" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0009" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0010" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0011" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0012" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0013" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0014" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0015" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0016" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0017" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0018" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0019" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0020" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0021" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0022" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0023" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0024" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0025" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0026" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0027" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0028" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0029" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0030" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0031" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0032" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0033" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0034" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0035" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0036" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0037" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0038" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="left kazzu0039" x="0" y="1200" width="661" height="104" frameX="-151" frameY="-526" frameWidth="835" frameHeight="630"/>
+	<SubTexture name="right kazuha0000" x="661" y="1200" width="472" height="569"/>
+	<SubTexture name="right kazuha0001" x="661" y="1200" width="472" height="569"/>
+	<SubTexture name="right kazuha0002" x="1133" y="1200" width="422" height="569" frameX="-50" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0003" x="1133" y="1200" width="422" height="569" frameX="-50" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0004" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0005" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0006" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0007" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0008" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0009" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0010" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="right kazuha0011" x="1555" y="1200" width="394" height="569" frameX="-78" frameY="0" frameWidth="472" frameHeight="569"/>
+	<SubTexture name="upkaz0000" x="1949" y="1200" width="361" height="682" frameX="-76" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0001" x="1949" y="1200" width="361" height="682" frameX="-76" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0002" x="2310" y="1200" width="513" height="612" frameX="0" frameY="-70" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0003" x="2310" y="1200" width="513" height="612" frameX="0" frameY="-70" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0004" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0005" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0006" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0007" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0008" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0009" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0010" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0011" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0012" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0013" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0014" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0015" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0016" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0017" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0018" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0019" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0020" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0021" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0022" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0023" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0024" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0025" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0026" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0027" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0028" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0029" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0030" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0031" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0032" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0033" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0034" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0035" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0036" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0037" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0038" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+	<SubTexture name="upkaz0039" x="2823" y="1200" width="468" height="682" frameX="-22" frameY="0" frameWidth="513" frameHeight="682"/>
+</TextureAtlas>

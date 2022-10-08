@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil-ganyu-dial-flipped.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black evil ganyu0000" x="0" y="0" width="308" height="526"/>
+	<SubTexture name="evil ganyu0000" x="308" y="0" width="308" height="526"/>
+	<SubTexture name="hehe evil ganyu0000" x="616" y="0" width="308" height="526"/>
+	<SubTexture name="p1 appear evil ganyu0000" x="0" y="526" width="308" height="526"/>
+	<SubTexture name="p2 appear evil ganyu0000" x="308" y="526" width="308" height="526"/>
+	<SubTexture name="p3 appear evil ganyu0000" x="616" y="526" width="308" height="526"/>
+	<SubTexture name="red eyes evil ganyu0000" x="0" y="1052" width="308" height="526"/>
+	<SubTexture name="scary evil ganyu0000" x="308" y="1052" width="308" height="526"/>
+	<SubTexture name="scary evil ganyu0001" x="308" y="1052" width="308" height="526"/>
+	<SubTexture name="scary evil ganyu0002" x="308" y="1052" width="308" height="526"/>
+	<SubTexture name="scary evil ganyu0003" x="308" y="1052" width="308" height="526"/>
+	<SubTexture name="very scary evil ganyu0000" x="616" y="1052" width="308" height="526"/>
+	<SubTexture name="very scary evil ganyu0001" x="616" y="1052" width="308" height="526"/>
+	<SubTexture name="very scary evil ganyu0002" x="616" y="1052" width="308" height="526"/>
+	<SubTexture name="very scary evil ganyu0003" x="616" y="1052" width="308" height="526"/>
+</TextureAtlas>

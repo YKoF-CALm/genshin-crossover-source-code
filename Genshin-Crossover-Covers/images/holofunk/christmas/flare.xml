@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flare.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flare0000" x="10" y="10" width="345" height="630" frameX="0" frameY="-28" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0001" x="10" y="10" width="345" height="630" frameX="0" frameY="-28" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0002" x="355" y="10" width="331" height="650" frameX="-10" frameY="-8" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0003" x="355" y="10" width="331" height="650" frameX="-10" frameY="-8" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0004" x="686" y="10" width="315" height="656" frameX="-24" frameY="-2" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0005" x="686" y="10" width="315" height="656" frameX="-24" frameY="-2" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0006" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0007" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0008" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0009" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0010" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0011" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0012" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+	<SubTexture name="flare0013" x="1001" y="10" width="326" height="658" frameX="-11" frameY="0" frameWidth="345" frameHeight="658"/>
+</TextureAtlas>

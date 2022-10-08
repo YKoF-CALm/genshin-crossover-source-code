@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eula.png">
+<SubTexture name="Eula Idle0000" x="1983" y="725" width="391" height="723" frameX="-199" frameY="-150" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Idle0001" x="1983" y="0" width="392" height="725" frameX="-199" frameY="-148" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Idle0002" x="0" y="737" width="391" height="730" frameX="-202" frameY="-144" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Idle0003" x="716" y="0" width="393" height="735" frameX="-199" frameY="-139" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Left0000" x="1505" y="727" width="455" height="726" frameX="-226" frameY="-142" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Left0001" x="391" y="737" width="467" height="730" frameX="-221" frameY="-137" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Right0000" x="1505" y="0" width="478" height="727" frameX="-95" frameY="-143" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Right0001" x="1109" y="0" width="396" height="731" frameX="-90" frameY="-144" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Up0000" x="356" y="0" width="360" height="736" frameX="-202" frameY="-136" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Up0001" x="0" y="0" width="356" height="737" frameX="-207" frameY="-135" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Down0000" x="0" y="1467" width="380" height="715" frameX="-212" frameY="-159" frameWidth="809" frameHeight="882" />
+<SubTexture name="Eula Down0001" x="858" y="737" width="417" height="730" frameX="-197" frameY="-144" frameWidth="809" frameHeight="882" />
+</TextureAtlas>

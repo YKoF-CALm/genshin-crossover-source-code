@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdeath.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead loop0000" x="0" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0001" x="601" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0002" x="1202" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0003" x="1803" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0004" x="2404" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0005" x="3005" y="0" width="601" height="512"/>
+	<SubTexture name="dead loop0006" x="0" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0007" x="601" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0008" x="1202" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0009" x="1803" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0010" x="2404" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0011" x="3005" y="512" width="601" height="512"/>
+	<SubTexture name="dead loop0012" x="0" y="1024" width="601" height="512"/>
+	<SubTexture name="dead loop0013" x="601" y="1024" width="601" height="512"/>
+	<SubTexture name="dead loop0014" x="1202" y="1024" width="601" height="512"/>
+	<SubTexture name="dies0000" x="1803" y="1024" width="853" height="519"/>
+	<SubTexture name="dies0001" x="2656" y="1024" width="853" height="519"/>
+	<SubTexture name="dies0002" x="0" y="1543" width="853" height="519"/>
+	<SubTexture name="dies0003" x="853" y="1543" width="853" height="519"/>
+	<SubTexture name="dies0004" x="1706" y="1543" width="853" height="519"/>
+	<SubTexture name="dies0005" x="2559" y="1543" width="853" height="519"/>
+	<SubTexture name="dies0006" x="0" y="2062" width="853" height="519"/>
+	<SubTexture name="dies0007" x="853" y="2062" width="853" height="519"/>
+	<SubTexture name="dies0008" x="1706" y="2062" width="853" height="519"/>
+	<SubTexture name="dies0009" x="2559" y="2062" width="853" height="519"/>
+	<SubTexture name="dies0010" x="0" y="2581" width="853" height="519"/>
+	<SubTexture name="dies0011" x="853" y="2581" width="853" height="519"/>
+	<SubTexture name="dies0012" x="1706" y="2581" width="853" height="519"/>
+	<SubTexture name="dies0013" x="2559" y="2581" width="853" height="519"/>
+	<SubTexture name="dies0014" x="0" y="3100" width="853" height="519"/>
+	<SubTexture name="dies0015" x="853" y="3100" width="853" height="519"/>
+	<SubTexture name="retry0000" x="1706" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0001" x="2062" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0002" x="2418" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0003" x="2774" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0004" x="3130" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0005" x="3486" y="3100" width="356" height="433"/>
+	<SubTexture name="retry0006" x="0" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0007" x="356" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0008" x="712" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0009" x="1068" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0010" x="1424" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0011" x="1780" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0012" x="2136" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0013" x="2492" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0014" x="2848" y="3619" width="356" height="433"/>
+	<SubTexture name="retry0015" x="3204" y="3619" width="356" height="433"/>
+</TextureAtlas>

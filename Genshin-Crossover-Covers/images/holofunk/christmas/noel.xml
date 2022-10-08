@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noel.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="noel0000" x="10" y="10" width="242" height="590" frameX="-1" frameY="-33" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0001" x="10" y="10" width="242" height="590" frameX="-1" frameY="-33" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0002" x="252" y="10" width="239" height="608" frameX="0" frameY="-15" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0003" x="252" y="10" width="239" height="608" frameX="0" frameY="-15" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0004" x="491" y="10" width="230" height="615" frameX="-6" frameY="-8" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0005" x="491" y="10" width="230" height="615" frameX="-6" frameY="-8" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0006" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0007" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0008" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0009" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0010" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0011" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0012" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+	<SubTexture name="noel0013" x="721" y="10" width="230" height="623" frameX="-11" frameY="0" frameWidth="243" frameHeight="623"/>
+</TextureAtlas>

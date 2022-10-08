@@ -1,0 +1,3 @@
+In case you want to use this script, move it to the 'scripts' folder and do these 2 things:
+1. Move all the 'changeNoteSkin' lines into 'onUpdate(elapsed)'
+2. Remove the 'close(true)' from the stages

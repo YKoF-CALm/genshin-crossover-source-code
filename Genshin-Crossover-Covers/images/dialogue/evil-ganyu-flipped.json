@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		-30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "scary evil ganyu",
+			"idle_name": "scary evil ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "evil ganyu",
+			"loop_name": "evil ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "black",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "black evil ganyu",
+			"loop_name": "black evil ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "eyes",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "red eyes evil ganyu",
+			"loop_name": "red eyes evil ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "appear 1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "p1 appear evil ganyu",
+			"idle_name": "p1 appear evil ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "appear 2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "p2 appear evil ganyu",
+			"idle_name": "p2 appear evil ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "appear 3",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "p3 appear evil ganyu",
+			"loop_name": "p3 appear evil ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bitch",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hehe evil ganyu",
+			"idle_name": "hehe evil ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "very scary",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "very scary evil ganyu",
+			"idle_name": "very scary evil ganyu"
+		}
+	],
+	"image": "evil-ganyu-dial-flipped"
+}

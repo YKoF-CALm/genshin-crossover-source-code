@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yoimiyascared.png">
+<SubTexture name="yoimiyascared idle0000" x="0" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0001" x="0" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0002" x="1008" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0003" x="1008" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0004" x="2016" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0005" x="2016" y="0" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0006" x="0" y="1008" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0007" x="0" y="1008" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0008" x="1008" y="1008" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared idle0009" x="1008" y="1008" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0000" x="2016" y="1008" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0001" x="0" y="2016" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0002" x="1008" y="2016" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0003" x="1008" y="2016" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0004" x="2016" y="2016" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0005" x="2016" y="2016" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0006" x="0" y="3024" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+<SubTexture name="yoimiyascared shoot0007" x="0" y="3024" width="1008" height="1008" frameX="0" frameY="0" frameWidth="1008" frameHeight="1008" />
+</TextureAtlas>

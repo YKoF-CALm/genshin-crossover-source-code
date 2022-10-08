@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ganyu-Dancin.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ganyu dancin0000" x="0" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0001" x="0" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0002" x="332" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0003" x="332" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0004" x="664" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0005" x="664" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0006" x="996" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0007" x="1328" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0008" x="1328" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0009" x="1660" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0010" x="1660" y="0" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0011" x="0" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0012" x="0" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0013" x="332" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0014" x="332" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0015" x="664" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0016" x="996" y="723" width="332" height="723"/>
+	<SubTexture name="ganyu dancin0017" x="996" y="723" width="332" height="723"/>
+</TextureAtlas>
