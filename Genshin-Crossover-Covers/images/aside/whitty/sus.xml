@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sus.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sussy baka0000" x="4" y="4" width="294" height="304"/>
+	<SubTexture name="sussy baka0001" x="4" y="4" width="294" height="304"/>
+	<SubTexture name="sussy baka0002" x="4" y="312" width="294" height="294" frameX="0" frameY="-10" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0003" x="4" y="312" width="294" height="294" frameX="0" frameY="-10" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0004" x="302" y="4" width="294" height="298" frameX="0" frameY="-6" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0005" x="302" y="4" width="294" height="298" frameX="0" frameY="-6" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0006" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0007" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0008" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0009" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0010" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0011" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0012" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0013" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+	<SubTexture name="sussy baka0014" x="302" y="306" width="294" height="297" frameX="0" frameY="-7" frameWidth="294" frameHeight="304"/>
+</TextureAtlas>
