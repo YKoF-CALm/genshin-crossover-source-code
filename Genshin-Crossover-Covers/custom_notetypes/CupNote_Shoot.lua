@@ -2,12 +2,6 @@ ShotSoundRandomStuff = 0
 CupheadShootDmg = 0
 
 function onCreate()
-	for i = 0, getProperty('unspawnNotes.length')-1 do
-		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'CupNote_Shoot' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'crossed-out/CupNote_Shoot');
-		end
-	end
-
 	if difficultyName == 'Easy' or difficultyName == 'Omegaspace' then
 		CupheadShootDmg = 0.04
     elseif difficultyName == 'Normal' then
