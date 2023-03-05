@@ -1,0 +1,238 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"playerOffsets": [
+				62,
+				-18
+			],
+			"name": "Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				10,
+				32
+			],
+			"name": "Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"playerOffsets": [
+				-8,
+				9
+			],
+			"name": "Sonic Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "shocked",
+			"fps": 24,
+			"playerOffsets": [
+				14,
+				2
+			],
+			"name": "Sonic Shocked",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				170
+			],
+			"anim": "jump",
+			"fps": 24,
+			"playerOffsets": [
+				140,
+				170
+			],
+			"name": "Sonic Jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				90
+			],
+			"anim": "boost",
+			"fps": 24,
+			"playerOffsets": [
+				230,
+				90
+			],
+			"name": "Sonic Boost",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "Sonic Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"playerOffsets": [
+				-39,
+				0
+			],
+			"name": "Sonic Idle No Mic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				12
+			],
+			"anim": "skid",
+			"fps": 24,
+			"playerOffsets": [
+				44,
+				12
+			],
+			"name": "Sonic Skid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"playerOffsets": [
+				23,
+				-103
+			],
+			"name": "Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				160
+			],
+			"anim": "jump-loop",
+			"fps": 24,
+			"playerOffsets": [
+				20,
+				160
+			],
+			"name": "Sonic Jump",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "hey",
+			"fps": 24,
+			"playerOffsets": [
+				-40,
+				10
+			],
+			"name": "Sonic Hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				-70
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "jump-center-loop",
+			"loop": true,
+			"name": "Sonic Jump",
+			"playerOffsets": [
+				30,
+				-70
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicROTWAngry",
+	"position": [
+		-25,
+		105
+	],
+	"player_camera_position": [
+		180,
+		130
+	],
+	"playerposition": [
+		0,
+		105
+	],
+	"healthicon": "sonic-rotw-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		57,
+		153
+	],
+	"camera_position": [
+		-110,
+		130
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 0.95
+}

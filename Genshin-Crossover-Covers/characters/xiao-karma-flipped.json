@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				-22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left xiao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XIAO-KARMA'D",
+	"position": [
+		-70,
+		-125
+	],
+	"healthicon": "xiao-mask",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		23,
+		19
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 3.7,
+	"scale": 1
+}

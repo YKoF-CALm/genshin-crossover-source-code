@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao"
+		},
+		{
+			"offsets": [
+				13,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left xiao"
+		},
+		{
+			"offsets": [
+				-37,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				-40,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				6,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY xiao",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xiao-XMAS",
+	"position": [
+		60,
+		27
+	],
+	"healthicon": "xiao",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xian"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xian",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "excited up xian"
+		},
+		{
+			"offsets": [
+				-32,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "excited down xian"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xiangling-CHEF",
+	"position": [
+		-50,
+		-95
+	],
+	"healthicon": "xiangling-chef",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		31,
+		79
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

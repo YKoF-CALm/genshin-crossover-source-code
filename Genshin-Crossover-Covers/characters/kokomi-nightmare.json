@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-67
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				2
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-158,
+				10
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right kokomi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle kokomi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "leaves",
+			"fps": 24,
+			"name": "kokomi leave the battle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "kokomi leave the battle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kokomi-Nightmare",
+	"position": [
+		-150,
+		-220
+	],
+	"healthicon": "kokomi-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		10
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

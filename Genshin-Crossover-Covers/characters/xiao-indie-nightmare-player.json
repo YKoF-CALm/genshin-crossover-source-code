@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-146,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				-230,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "edgy line",
+			"fps": 24,
+			"name": "edgy line",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-275,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				-239,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao-indie-nightmare",
+	"position": [
+		-260,
+		-150
+	],
+	"healthicon": "xiao-indie-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		100
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1
+}

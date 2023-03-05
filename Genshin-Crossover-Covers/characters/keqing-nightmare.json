@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left keqing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				-1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down keqing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				25
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upkeq"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				292,
+				87
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right keqing"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle keqing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Keqing-Nightmare",
+	"position": [
+		-10,
+		20
+	],
+	"healthicon": "keqing-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-190,
+		-20
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "TC Dance Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "TC Dance Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TC Speakers",
+	"position": [
+		10,
+		-60
+	],
+	"healthicon": "tc",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		121
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

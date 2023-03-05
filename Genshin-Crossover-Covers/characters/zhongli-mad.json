@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle zhongli"
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left zhongli"
+		},
+		{
+			"offsets": [
+				28,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down zhongli"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up zhongli"
+		},
+		{
+			"offsets": [
+				-26,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right zhongli"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zhongli-MAD",
+	"position": [
+		30,
+		-75
+	],
+	"healthicon": "zhongli-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		185,
+		42
+	],
+	"camera_position": [
+		-20,
+		-75
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

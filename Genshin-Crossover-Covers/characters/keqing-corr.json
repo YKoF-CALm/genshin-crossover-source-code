@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down keqing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upkeq",
+			"indices": []
+		},
+		{
+			"offsets": [
+				269,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right keqing"
+		},
+		{
+			"offsets": [
+				9,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left keqing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/keqing dusk",
+	"position": [
+		-40,
+		30
+	],
+	"healthicon": "keqing-dusked",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		98,
+		202
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

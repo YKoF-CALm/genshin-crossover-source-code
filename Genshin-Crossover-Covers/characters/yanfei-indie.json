@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				7,
+				17,
 				-4
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left yanfei"
+			"fps": 24,
+			"name": "left yanfei",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-51,
 				-12
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down yanfei"
+			"fps": 24,
+			"name": "down yanfei",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-1,
+				1,
 				9
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up yanfei"
+			"fps": 24,
+			"name": "up yanfei",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-80,
+				-88,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right yanfei"
+			"fps": 24,
+			"name": "right yanfei",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle yanfei"
+			"fps": 24,
+			"name": "idle yanfei",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "yanfei-indie",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		177,
-		154
+		245,
+		144,
+		132
 	],
 	"camera_position": [
 		0,

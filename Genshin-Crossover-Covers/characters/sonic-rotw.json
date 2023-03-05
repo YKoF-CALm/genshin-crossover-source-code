@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "Sonic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"playerOffsets": [
+				62,
+				-18
+			],
+			"name": "Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"playerOffsets": [
+				23,
+				-103
+			],
+			"name": "Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				10,
+				32
+			],
+			"name": "Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"playerOffsets": [
+				-8,
+				9
+			],
+			"name": "Sonic Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				2
+			],
+			"anim": "shrug",
+			"fps": 24,
+			"playerOffsets": [
+				81,
+				3
+			],
+			"name": "Sonic Shrug",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				150
+			],
+			"anim": "jump-loop",
+			"fps": 24,
+			"playerOffsets": [
+				150,
+				160
+			],
+			"name": "Sonic Jump",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				40,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Sonic Jump",
+			"playerOffsets": [
+				150,
+				160
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicROTW",
+	"position": [
+		-20,
+		100
+	],
+	"player_camera_position": [
+		130,
+		90
+	],
+	"playerposition": [
+		0,
+		100
+	],
+	"healthicon": "sonic-rotw",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		57,
+		153
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"isPlayerChar": false,
+	"scale": 0.95
+}

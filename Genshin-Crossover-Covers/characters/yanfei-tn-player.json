@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				159,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down yanfei",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				18
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up yanfei",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right yanfei",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left yanfei",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle yanfei",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yanfei turns nightmare",
+	"position": [
+		85,
+		20
+	],
+	"healthicon": "yanfei-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		144,
+		132
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

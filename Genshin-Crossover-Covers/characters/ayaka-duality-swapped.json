@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				-1
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "ayaka idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "ayaka idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-17,
 				-1
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "ayaka down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ayaka down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-1
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "ayaka up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "ayaka up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				39,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "ayaka right"
+			"fps": 24,
+			"name": "ayaka right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "ayaka left"
+			"fps": 24,
+			"name": "ayaka left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-290,
 		-190
 	],
-	"healthicon": "aether",
+	"healthicon": "face",
 	"flip_x": true,
 	"healthbar_colors": [
-		251,
-		240,
-		171
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		-370,

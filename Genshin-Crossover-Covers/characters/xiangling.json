@@ -1,78 +1,89 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				3,
-				-1
+				0,
+				0
 			],
-			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "xiangling idle"
+			"indices": [],
+			"name": "idle xian"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				3,
+				20,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
 				-1
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "xiangling left"
+			"fps": 24,
+			"name": "left xian",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-19,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "xiangling right"
-		},
-		{
 			"offsets": [
-				-37,
-				12
+				-15,
+				15
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "xiangling down"
-		},
-		{
-			"offsets": [
-				-17,
-				0
-			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
+			"fps": 24,
+			"name": "up xian",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "xiangling up"
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xian",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/xiangling",
+	"image": "characters/Xiangling FNF",
 	"position": [
-		-290,
-		-190
+		-50,
+		75
 	],
-	"healthicon": "face",
+	"healthicon": "xiangling",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		95,
-		0
+		32,
+		31,
+		79
 	],
 	"camera_position": [
-		-10,
-		120
+		0,
+		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

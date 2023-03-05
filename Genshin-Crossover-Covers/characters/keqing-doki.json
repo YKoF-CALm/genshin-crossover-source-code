@@ -1,125 +1,125 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-4,
 				-13
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down dokeqing",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down dokeqing"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				34,
 				4
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "up dokeq",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up dokeq"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-22,
 				0
 			],
-			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right dokeqing",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right dokeqing"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle dokeqing"
+			"fps": 24,
+			"name": "idle dokeqing",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "HEY dokeq"
+			"fps": 24,
+			"name": "HEY dokeq",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				3
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left dokeqing",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left dokeqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				20,
 				3
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missleft dokeqing",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft dokeqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				15,
 				-13
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missdown dokeqing",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown dokeqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-21,
 				-1
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missright dokeqing",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright dokeqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				35,
 				5
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missup dokeq",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup dokeq"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "scared",
+			"loop": true,
 			"fps": 24,
-			"name": "fear dokeqing",
-			"indices": []
+			"anim": "scared",
+			"indices": [],
+			"name": "fear dokeqing"
 		}
 	],
 	"no_antialiasing": false,

@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				31,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left zhongli",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left zhongli"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down zhongli",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down zhongli"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				1,
 				1
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up zhongli",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up zhongli"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right zhongli",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right zhongli"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"indices": [],
 			"fps": 24,
-			"name": "idle zhongli",
-			"indices": []
+			"anim": "idle",
+			"loop": true,
+			"name": "idle zhongli"
 		}
 	],
 	"no_antialiasing": false,

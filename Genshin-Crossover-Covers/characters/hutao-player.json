@@ -1,0 +1,176 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle hutao",
+			"indices": [
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle hutao",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down hutao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up hutao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right hutao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left hutao",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey hutao"
+		},
+		{
+			"offsets": [
+				25,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown hutao"
+		},
+		{
+			"offsets": [
+				3,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup hutao"
+		},
+		{
+			"offsets": [
+				59,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missright hutao"
+		},
+		{
+			"offsets": [
+				1,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missleft hutao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hu Tao fnf",
+	"position": [
+		-60,
+		35
+	],
+	"healthicon": "hutao",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		23,
+		12
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

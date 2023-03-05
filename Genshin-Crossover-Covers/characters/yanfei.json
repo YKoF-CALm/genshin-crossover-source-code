@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				7,
-				-4
-			],
 			"loop": false,
-			"anim": "singLEFT",
+			"offsets": [
+				27,
+				-2
+			],
 			"fps": 24,
-			"name": "left yanfei",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left yanfei"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-51,
 				-12
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down yanfei",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-1,
-				9
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up yanfei",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-80,
-				-1
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right yanfei",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle yanfei",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
 			"indices": [],
-			"name": "HEY!! yanfei"
+			"name": "down yanfei"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up yanfei"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right yanfei"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle yanfei"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY!! yanfei",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -76,9 +76,9 @@
 	"healthicon": "yanfei",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		177,
-		154
+		245,
+		144,
+		132
 	],
 	"camera_position": [
 		0,

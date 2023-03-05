@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "aether idle"
+			"fps": 24,
+			"name": "aether idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-39,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "aether down"
+			"fps": 24,
+			"name": "aether down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				11,
 				1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "aether up"
+			"fps": 24,
+			"name": "aether up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-22,
 				1
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "aether left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aether left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-34,
 				-5
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "aether right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aether right"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-350,
 		-190
 	],
-	"healthicon": "face",
+	"healthicon": "aether",
 	"flip_x": true,
 	"healthbar_colors": [
-		1,
-		0,
-		1
+		251,
+		240,
+		171
 	],
 	"camera_position": [
 		-290,

@@ -52,9 +52,9 @@
 	"healthicon": "yanfei-indie",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		177,
-		154
+		245,
+		144,
+		132
 	],
 	"camera_position": [
 		0,

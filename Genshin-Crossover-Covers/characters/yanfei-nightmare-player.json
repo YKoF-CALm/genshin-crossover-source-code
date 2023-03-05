@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				139,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down yanfei",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				-4
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up yanfei",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle yanfei"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right yanfei",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left yanfei",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yanfei-NIGHTMARE",
+	"position": [
+		80,
+		-170
+	],
+	"healthicon": "yanfei-nightmare",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1
+}

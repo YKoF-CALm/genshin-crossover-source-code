@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle yanfei"
+		},
+		{
+			"offsets": [
+				57,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right yanfei"
+		},
+		{
+			"offsets": [
+				60,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up yanfei"
+		},
+		{
+			"offsets": [
+				129,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down yanfei"
+		},
+		{
+			"offsets": [
+				26,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left yanfei"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YanFei annoyed NEW",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "yanfei-annoyed",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		144,
+		112
+	],
+	"camera_position": [
+		190,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

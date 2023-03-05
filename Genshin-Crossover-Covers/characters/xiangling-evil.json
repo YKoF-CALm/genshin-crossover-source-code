@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				1
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xian"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xian",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EVIL XIANGLING",
+	"position": [
+		-50,
+		75
+	],
+	"healthicon": "evil-xiangling",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

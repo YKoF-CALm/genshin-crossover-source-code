@@ -1,125 +1,125 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle keqing",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle keqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				26,
 				-13
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down keqing",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down keqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-27,
 				4
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "upkeq",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "upkeq"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				11,
 				3
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "left keqing",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left keqing"
+		},
+		{
+			"offsets": [
+				67,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right keqing"
 		},
 		{
 			"loop": false,
-			"offsets": [
-				137,
-				5
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "right keqing",
-			"indices": []
-		},
-		{
 			"offsets": [
 				139,
 				138
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "dodge",
-			"indices": [],
-			"name": "dodge keqing"
+			"fps": 24,
+			"name": "dodge keqing",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "HEY keq"
+			"fps": 24,
+			"name": "HEY keq",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				25,
 				-14
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missdown keqing",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown keqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-15,
 				2
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missupkeq",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missupkeq"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				2
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missleft keqing",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft keqing"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				42,
 				0
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "missright keqing",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright keqing"
 		}
 	],
 	"no_antialiasing": false,

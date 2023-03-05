@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				3
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left keqing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down keqing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upkeq"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right keqing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle keqing",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EVIL KEQING SP2",
+	"position": [
+		-10,
+		20
+	],
+	"healthicon": "keqing-not-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		83,
+		172
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

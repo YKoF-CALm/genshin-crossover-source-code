@@ -56,25 +56,14 @@
 			"indices": []
 		},
 		{
-			"loop": true,
-			"offsets": [
-				18,
-				79
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle ganyu",
-			"indices": []
-		},
-		{
 			"offsets": [
 				0,
 				78
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTalt",
-			"loop": false,
+			"indices": [],
 			"name": "pewleft ganyu"
 		},
 		{
@@ -82,10 +71,10 @@
 				41,
 				73
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNalt",
-			"loop": false,
+			"indices": [],
 			"name": "pewdown ganyu"
 		},
 		{
@@ -93,10 +82,10 @@
 				17,
 				77
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUPalt",
-			"loop": false,
+			"indices": [],
 			"name": "pewup ganyu"
 		},
 		{
@@ -104,11 +93,22 @@
 				63,
 				67
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTalt",
-			"loop": false,
+			"indices": [],
 			"name": "pewright ganyu"
+		},
+		{
+			"offsets": [
+				18,
+				79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle ganyu"
 		}
 	],
 	"no_antialiasing": false,

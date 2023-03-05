@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				0
+			],
+			"loop": false,
+			"anim": "reloading",
+			"fps": 24,
+			"name": "Pico Reloading Gun",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				128
+			],
+			"loop": false,
+			"anim": "attack",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				-5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				-11
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				4
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico-Bedeviled",
+	"position": [
+		20,
+		280
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

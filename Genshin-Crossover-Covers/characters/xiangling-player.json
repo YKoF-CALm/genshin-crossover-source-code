@@ -1,78 +1,133 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				3,
-				-1
+				0,
+				0
 			],
+			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "xiangling idle",
+			"name": "idle xian",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY xian"
+		},
+		{
+			"offsets": [
+				-10,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xian"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xian"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				3,
+				73,
 				-1
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "xiangling left",
+			"name": "right xian",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				1,
+				46,
 				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "xiangling right",
+			"name": "left xian",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-17,
-				12
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "xiangling down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				23,
+				0,
 				0
 			],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 24,
-			"name": "xiangling up",
-			"indices": []
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup xian"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown xian"
+		},
+		{
+			"offsets": [
+				73,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missright xian"
+		},
+		{
+			"offsets": [
+				40,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missleft xian"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/xiangling",
+	"image": "characters/Xiangling FNF",
 	"position": [
-		-290,
-		-190
+		-50,
+		75
 	],
-	"healthicon": "bf",
+	"healthicon": "xiangling",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		95,
-		0
+		32,
+		31,
+		79
 	],
 	"camera_position": [
-		-10,
-		120
+		0,
+		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

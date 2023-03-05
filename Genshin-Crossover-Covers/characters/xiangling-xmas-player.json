@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle xian",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY xian"
+		},
+		{
+			"offsets": [
+				-10,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xian"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xian"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right xian",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left xian",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup xian"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown xian"
+		},
+		{
+			"offsets": [
+				73,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missright xian"
+		},
+		{
+			"offsets": [
+				40,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missleft xian"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xiangling-XMAS",
+	"position": [
+		-50,
+		75
+	],
+	"healthicon": "xiangling",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		31,
+		79
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
