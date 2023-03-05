@@ -1,0 +1,524 @@
+{
+	"dialogue": [
+		{
+			"expression": "ask",
+			"text": "This funeral parlor really is something",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "Nothing like you'd see in Philly, that's for sure",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "normal v2",
+			"text": "Well, it IS a funeral parlor",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "ask",
+			"text": "Yeah, but that doesn't give it a reason to store so many coffins",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "Do y'all have a death wish or somethin'?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "normal v2",
+			"text": "Well, they take in plenty of orders, so it's not weird that they would still have many 'pending orders' lying around",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "kill",
+			"text": "They'd probably get more business if I was here, I guess",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Is that so...",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "Wait, quiet",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "...do you hear that?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "black half corrupted",
+			"text": "...hurts........so sorry....",
+			"boxState": "normal",
+			"sound": "dialogue/dialhutao",
+			"speed": 0.05,
+			"portrait": "hutao"
+		},
+		{
+			"expression": "black",
+			"text": "...stay still.......hold on...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "confused",
+			"text": "Are those survivors?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "think",
+			"text": "Seems like it",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "Should we go take a look?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "think",
+			"text": "O...okay...",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "normal v2",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "Who's there!?",
+			"boxState": "angry",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "shocked",
+			"text": "Whoa whoa whoa, calm down!",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "scared",
+			"text": "Huh? Ganyu?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "No...that's impossible...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "...you're just another illusion, here to fight me again, aren't you?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "confused",
+			"text": "You're...Mr. Zhongli?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "confused",
+			"text": "But...how did you-",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "I see how it is",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "angry",
+			"text": "Stalling time, are we?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "shocked",
+			"text": "What!? No, Mr. Zhongli, we're here to-",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "Be gone",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "H-huh?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "annoyed",
+			"text": "If you know what's good for you, be gone",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "angry",
+			"text": "Or face the consequences",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "shocked",
+			"text": "W-what? Mr. Zhongli, PLEASE",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "It's me, Ganyu!",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "I'm here to seek your assistance",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "sad",
+			"text": "...you even speak like her...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Ugh, forget it",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "annoyed",
+			"text": "If you won't leave...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "pissed",
+			"text": "I'll MAKE you leave",
+			"boxState": "angry",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "(Oh no, what do I do...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "ask",
+			"text": "Okay, what did you do this time?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "It's not me! It seems as if Mr. Zhongli has gone insane",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "Goddammit",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "Is that someone else behind him?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "I think so",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "half corrupted",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "hutao"
+		},
+		{
+			"expression": "nervous",
+			"text": "That's...Hu Tao?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "Well, seems like we have to deal with this guy first",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "Got any ideas?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "I...I don't know...",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "think",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.1,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "Okay, fine, rap battle him",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "shocked",
+			"text": "Huh!?",
+			"boxState": "angry",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "unhappy",
+			"text": "This old man is probably treating that girl behind him",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "unhappy",
+			"text": "If we wanna prove we're on the same side, let's try showing him how to cure the\nCorruption first",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "Are you sure?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "angry",
+			"text": "It's either that or we fight, and you ain't in the best condition to fight now",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "...fine",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "unhappy",
+			"text": "I'll be here just in case he-",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "annoyed",
+			"text": "It seems like you're still unwilling to leave",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "angry",
+			"text": "No matter, I'll make you leave regardless",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "...decides to go all out",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "angry",
+			"text": "I'll back you up, just sing",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "O-okay",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "serious",
+			"text": "Let's do this",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		}
+	]
+}

@@ -1,0 +1,844 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "I kinda wish I could talk to that Liyue girl about this..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Liyue girl? You mean Xinyan?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, the other one. The one who sings so gracefully, and puts on a very elegant dance, too!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, you must be talking about Yun Jin"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Yeah, her! I kinda wish to collaborate with her sometime"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "*sigh* But I'm unable to keep up with her melodies. They're very foreign to me. I just can't learn them properly"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why not just have her teach you?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Oh, surely not! It might seem too impolite of me to just go up and ask her about this"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean, she's chill, so you got nothing much to worry about"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Besides, aren't you an idol yourself? Think of it as a, uhh, idol-to-idol kind of thing"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Hmm, I might try when we get back. Thanks for the encouragement!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "No worries"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, let's just hurry on and head ba-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm? Is something the matter?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...yeah. Just look"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Huh?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Is that...a portal?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yep. And I thought I was done with these ones"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Who will we meet from Teyvat this time?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't think it's bringing someone to us..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ah shit, here goes..."
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Huh!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "*They both get teleported*"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Okay, where is thi-"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ah"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "welcome to the underground"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how was your fall?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sans, we had no fall"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "ah, seems like you're back...somehow"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "it appears you've brought a guest"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "AH! Is that...a skeleton!?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, but he's chill"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "heh"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "seems like i actually scare someone off for once"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "She's probably just new to this"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "This is unexpected, but as long as you say there's no danger, I should be fine"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ah, right, I should introduce myself"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name is Barbara. I am the deaconess of the Church of Favonius"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pleasure meetin' ya. i'm sans. sans the skeleton"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "From the looks of it, it seems like you've had some history with BF before"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just beat him in some rap battles, and saw him kill a guy trying to kill him"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Surprised he didn't try to kill me though"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shrug",
+			"text": "i don't really have much interest in capturing humans anyway, let along killing them"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that human was tryna mess with us, so he got what he deserved"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell me about it"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are we here anyway? Is it to rap you again, or..."
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "i was told that your friend would be the one rapping"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait, Barbara is the one to rap battle you!?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Huh!?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "sleep",
+			"text": "nah, don't got the mood for it"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Dafuq"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "aha",
+			"text": "i was told that someone else was rap battling her"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "shrug",
+			"text": "dunno who though"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...okay, guess we're waiting for this opponent to show u-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*Something falls behind Sans, making an audible grunt*"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What was that?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it appears our 'contestant' has arrived"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Ow....."
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Where am I...?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "welcome to the underground"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how was your fall?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "What the...who are you?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So, the opponent is Monika?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "curious",
+			"text": "guessin' that's her name. yeah seems like it"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Huh? BF? What are you doing here?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Who are these people?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Wow! So tall! And so pretty!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Monika, that skeleton you greeted was Sans"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And this girl is Barbara"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sans, Barbara, this is Monika, the president of the Doki Doki Literature Club"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "A literature club? Hmm, Lisa might be interested in it"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "cool"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Hmm? You know Lisa, Barbara?"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, she's the librarian for the Knights of Favo-"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "...wait, how do you know Lisa?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Ah, then you must be the singer that Lisa sometimes talks about"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Young and full of positive energy...seems to match the description"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Heh, did Lisa really say those things?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you're wondering, Lisa is a regular at the literature club"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She often stops by to chat for a while with our club members"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I'd say, she's quite the reader"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Heh, that's the Lisa I know, alright"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't mean to be rude, but, uhh, you 2 gonna rap now or..."
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Hmm? Is that why I was teleported here?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Based on what Sans told us, yeah"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're going up against Barbara BTW"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You can sing?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I do a little bit of music in my spare time, yes"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's mostly piano, but I can hold a tune on my own, too"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You can play the piano, too? That's amazing!"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Hehe, thanks. I'm still learning, though, so I'm not particularly good at this"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cool, but what are they gonna sing?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Any ideas, Sans?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "triggered",
+			"text": "how bout this one?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh, should be good enough"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll be over here if you need us"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready, Monika?"
+		},
+		{
+			"sound": "dialogue/MoniText",
+			"speed": 0.05,
+			"portrait": "monika-real",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yep, all good here!"
+		},
+		{
+			"sound": "dialogue/dialbarbara",
+			"speed": 0.05,
+			"portrait": "barbara",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Then let the show begin!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you seriously do that greeting every time? Like, asking how their fall was and all?"
+		},
+		{
+			"sound": "dialogue/snd_txtsans",
+			"speed": 0.05,
+			"portrait": "sans",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh, didn't bother thinking of another one"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Fair enough"
+		}
+	]
+}

@@ -1,0 +1,364 @@
+{
+	"dialogue": [
+		{
+			"expression": "tired",
+			"text": "Okay, maybe I shouldn't do anymore rap battles for now...",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "ask",
+			"text": "I'd expect you to still have it in you to hold on for a little longer",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "tired",
+			"text": "Well, singing isn't my forte",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "unhappy",
+			"text": "Okay, fair enough",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "tired",
+			"text": "Heh...heh...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "tired",
+			"text": "A quite admirable fight, I must say",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "You done yet, old man? Can we finally talk now?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Talk?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Hah, I didn't expect you monsters to have in it you to \"talk\" it out",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "confused",
+			"text": "Mr. Zhongli, stop!",
+			"boxState": "normal",
+			"sound": "dialogue/dialhutao",
+			"speed": 0.05,
+			"portrait": "hutao"
+		},
+		{
+			"expression": "angry",
+			"text": "Director? I told you to hold back",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "happy",
+			"text": "No! Mr. Zhongli! The Corruption on me! It's...",
+			"boxState": "normal",
+			"sound": "dialogue/dialhutao",
+			"speed": 0.05,
+			"portrait": "hutao"
+		},
+		{
+			"expression": "scared",
+			"text": "...it's reduced? How can this be?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "That's how you cure the Corruption",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "awkward",
+			"text": "You...sing it off, I guess?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "Wait, this means you are actually Ganyu?",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "And this guy is...",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "ask",
+			"text": "Pico. Some introduction this is",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "We heard gunshots here. What's going on?",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Ganyu, Pico, you two alright?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "angry",
+			"text": "We're fine, you might wanna check out this old man though",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "angry",
+			"text": "Ever considered getting glasses, big guy?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Pico!",
+			"boxState": "normal",
+			"sound": "dialogue/GfText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Don't you know who you're speaking to?",
+			"boxState": "normal",
+			"sound": "dialogue/GfText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "What, the guy who was about to KILL us?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "That's Rex Lapis! I understand your anger, but still show a little respect, perhaps?",
+			"boxState": "normal",
+			"sound": "dialogue/GfText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, you mean that rock god or something?",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "ask",
+			"text": "Oh wow, a god. That doesn't change the past now, does it?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "...uhh, Keqing, you alright?",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Sorry, but GF, did you say...",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "...he is Rex Lapis?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "nervous",
+			"text": "...guess it was a good thing I didn't hurt him",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "sad",
+			"text": "Well, Ganyu, Pico, I apologize for what happened just now",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "tired",
+			"text": "This Corruption might have taken a mental toll on me",
+			"boxState": "normal",
+			"sound": "dialogue/dialzhongli",
+			"speed": 0.05,
+			"portrait": "zhongli"
+		},
+		{
+			"expression": "ask",
+			"text": "Apology accepted. Just don't throw pebbles at me again",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, you're just forgiving him like that?",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "We caused quite a ruckus just now. Best to forgive and check if we've been heard",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "You mean, if any corrupted beings heard us?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, best to prepare for-",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "black",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "evil-xiangling"
+		},
+		{
+			"expression": "shocked",
+			"text": "...the worst",
+			"boxState": "normal",
+			"sound": "dialogue/BfText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Oh shit",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "Incoming!",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		}
+	]
+}

@@ -2,6 +2,7 @@ local gfx = 0
 local bfx = 0
 local dadx = 0
 local dady = 0
+local bfy = 0
 
 function onCreate()
     addCharacterToList('ganyu', 'dad')
@@ -20,6 +21,8 @@ function onCreate()
     dady = getProperty('dad.y')
     setProperty('gf.x', getProperty('gf.x') - 100)
     gfx = getProperty('gf.x')
+    setProperty('boyfriend.y', getProperty('boyfriend.y') + 20)
+    bfy = getProperty('boyfriend.y')
     cameraSetTarget('dad')
 
     scaleObject('stagedfront', 1.3, 1.3)
@@ -47,11 +50,13 @@ function onCreate()
     addLuaSprite('pico', false)
     setProperty('pico.visible', false)
 
-    makeLuaSprite('preflash', '', 0, 0)
-    makeGraphic('preflash', screenWidth, screenHeight, 'FFFFFF')
-    setObjectCamera('preflash', 'hud')
-    addLuaSprite('preflash', false)
-    setProperty('preflash.alpha', 0)
+    if flashingLights then
+        makeLuaSprite('preflash', '', 0, 0)
+        makeGraphic('preflash', screenWidth, screenHeight, 'FFFFFF')
+        setObjectCamera('preflash', 'hud')
+        addLuaSprite('preflash', false)
+        setProperty('preflash.alpha', 0)
+    end
 
     makeLuaSprite('blackout', '', 0, 0)
     makeGraphic('blackout', screenWidth, screenHeight, '000000')
@@ -93,14 +98,18 @@ local theBeat = 10000
 
 function onBeatHit()
     if curBeat == 15 or curBeat == 47 or curBeat == 111 or curBeat == 175 or curBeat == 956 then
-        doTweenAlpha('preflash', 'preflash', 1, 0.8, 'quadIn')
+        if flashingLights then
+            doTweenAlpha('preflash', 'preflash', 1, 0.8, 'quadIn')
+        end
         theBeat = curBeat
     end
 
     if curBeat == (theBeat + 1) then
-        cameraFlash('hud', 'FFFFFF', 0.8, true)
-        cancelTween('preflash')
-        setProperty('preflash.alpha', 0)
+        if flashingLights then
+            cameraFlash('hud', 'FFFFFF', 0.8, true)
+            cancelTween('preflash')
+            setProperty('preflash.alpha', 0)
+        end
     end
 
     if curBeat == 142 then
@@ -115,7 +124,9 @@ function onBeatHit()
         drain = false
         drain2 = true
         bfaid = true
-        cameraFlash('game', 'FFFFFF', 0.8, true)
+        if flashingLights then
+            cameraFlash('game', 'FFFFFF', 0.8, true)
+        end
         removeLuaText('justno')
         setProperty('dad.x', dadx)
         setProperty('dad.y', dady - 5)
@@ -133,11 +144,13 @@ function onBeatHit()
         if idleAllowed then
             playAnim('bf', 'idle', true)
         end
-        objectPlayAnimation('pico', 'idle', true)
+        playAnim('pico', 'idle', true)
     end
 
     if curBeat >= 160 and curBeat <= 174 then
-        cameraFlash('game', '000000', 0.5, true)
+        if flashingLights then
+            cameraFlash('game', '000000', 0.5, true)
+        end
     end
 
     if curBeat == 192 or curBeat == 208 then
@@ -148,13 +161,15 @@ function onBeatHit()
         triggerEvent('Camera Follow Pos', 600, 600)
     end
 
-    if curBeat == 112 or curBeat == 208 then
+    if curBeat == 112 then
         setProperty('boyfriend.x', bfx)
     end
 
     if curBeat == 208 then
         setProperty('dad.x', dadx)
         setProperty('dad.y', dady - 5)
+        setProperty('boyfriend.x', bfx)
+        setProperty('boyfriend.y', bfy)
         drain2 = false
         bfaid2 = false
     end
@@ -179,7 +194,9 @@ function onBeatHit()
     end
 
     if curBeat == 248 then
-        cameraFlash('hud', 'FFFFFF', 0.8, true)
+        if flashingLights then
+            cameraFlash('hud', 'FFFFFF', 0.8, true)
+        end
         setProperty('blackout.alpha', 0)
         removeLuaText('bftext', true)
         removeLuaText('gftext', true)
@@ -189,15 +206,21 @@ function onBeatHit()
     end
 
     if curBeat >= 296 and curBeat <= 299 then
-        cameraFlash('game', '000000', 0.5, true)
+        if flashingLights then
+            cameraFlash('game', '000000', 0.5, true)
+        end
     end
 
     if curBeat == 302 then
-        doTweenAlpha('preflash', 'preflash', 1, 1.8, 'quadIn')
+        if flashingLights then
+            doTweenAlpha('preflash', 'preflash', 1, 1.8, 'quadIn')
+        end
     end
 
     if curBeat == 304 then
-        cameraFlash('hud', 'FFFFFF', 0.8, true)
+        if flashingLights then
+            cameraFlash('hud', 'FFFFFF', 0.8, true)
+        end
         cancelTween('preflash')
         setProperty('preflash.alpha', 0)
         doTweenAlpha('bye', 'scoreTxt', 0, 0.8, 'quartIn')
@@ -221,12 +244,16 @@ local theStep = 1200
 
 function onStepHit()
     if curStep == 830 then
-        doTweenAlpha('preflash', 'preflash', 1, 0.3, 'quadIn')
+        if flashingLights then
+            doTweenAlpha('preflash', 'preflash', 1, 0.3, 'quadIn')
+        end
         theBeat = curBeat
     end
 
     if curStep == theStep and curStep < 1216 then
-        cameraFlash('game', '000000', 0.3, true)
+        if flashingLights then
+            cameraFlash('game', '000000', 0.3, true)
+        end
         theStep = theStep + 2
     end
 end

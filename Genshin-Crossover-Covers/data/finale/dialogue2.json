@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...should've known you were pulling a fast one on me",
+			"boxState": "normal",
+			"portrait": "nyanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare ac",
+			"text": "So, how's it feel?",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "fire",
+			"text": "I get why you'd like it and all...",
+			"boxState": "normal",
+			"portrait": "nyanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "talk",
+			"text": "...but I ain't a fan of being a neon sign",
+			"boxState": "normal",
+			"portrait": "nyanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare",
+			"text": "I mean, you can always turn it off",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "surprised",
+			"text": "...what",
+			"boxState": "normal",
+			"portrait": "nyanfei",
+			"speed": 0.105,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "pissed",
+			"text": "Couldn't you've told me this from the start?",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "tired",
+			"text": "Uhh...",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.12,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "Duty calls bye",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.015,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "bruh",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "tired",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "tired",
+			"text": "...what a jerk",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		}
+	]
+}

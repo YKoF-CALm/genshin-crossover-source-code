@@ -1,0 +1,284 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "Ooh, what the hell..."
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Keqing is back to normal!"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, you doing alright?"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "...yeah, I'll manage"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Thanks, uhh..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh right, I'm BF, like, for Boyfriend"
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And I'm GF, for Girlfriend"
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Name's Pico"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh, nice to meet you. I believe you already know who I am from our \"scuffle\" just now"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "BF, GF, Pico, thank you so much for saving my life"
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're not quite done yet, there's still a bit more remaining on you"
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Let me handle it"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Oh, uhh, thanks"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, can you tell me more about what this Corruption is?"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's essentially a substance that consumes you like a virus"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It only spreads by soundwaves and physical touch"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Fortunately, if you're a good rapper like me, you can rap this shit off of others that have 'em"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Or, I guess you can just get demon abilities like GF or use a gun like Pico"
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "This thing comes from a guy we call Monster"
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Lemon head, black squiggly body, looks like he got the worst plastic surgery of all time, seen him?"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Not that I've seen anyone like him..."
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "It's fine, just know that he's bad news"
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "If you see him, feel free to end his free trial of life"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I...\\nI see..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Heh, don't mind Pico, he's a mercenary after all"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But, I agree with everything he said just now"
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Keqing, do you know if there are any survivors remaining?"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "I don't know. It seems like I was consumed pretty early on in this catastrophe"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's cool, just more work for us is all"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For now, take a breather and let GF do her thing"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "We all need one after what happened just now"
+		},
+		{
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "I'll keep watch. Don't want any surprises now, do we?"
+		},
+		{
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah. Thanks, Pico"
+		},
+		{
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing-flipped",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thank you all so much once again"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're welcome"
+		}
+	]
+}

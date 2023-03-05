@@ -23,7 +23,7 @@ function onCreate()
     addCharacterToList('zhongli', 'dad')
     addCharacterToList('xiao-player', 'dad')
     addCharacterToList('zhongli-player', 'dad')
-    addCharacterToList('hu-tao-alt', 'dad')
+    addCharacterToList('hutao', 'dad')
     addCharacterToList('keqing-player', 'dad')
     addCharacterToList('keqing-player', 'gf')
     addCharacterToList('ganyu-mad-player', 'boyfriend')
@@ -256,6 +256,15 @@ function onUpdatePost(elapsed)
     setProperty('keqingDangerIcon.y', getProperty('iconP1.y') - 25)
     setProperty('keqingDangerIcon.scale.x', getProperty('iconP1.scale.x')/2 + 0.2)
     setProperty('keqingDangerIcon.scale.y', getProperty('iconP1.scale.y')/2 + 0.2)
+
+    if (curStep >= 1300 and curStep <= 2813) or (curStep >= 5249 and curStep <= 6163) then
+        setProperty('iconP1.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))-(150 * getProperty('iconP1.scale.x'))/2 - 26*2)
+        setProperty('iconP2.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))+(150 * getProperty('iconP2.scale.x')-150)/2 - 26)
+    end
+end
+
+function remapToRange(value, start1, stop1, start2, stop2)
+    return start2 + (value - start1) * ((stop2 - start2) / (stop1 - start1))
 end
 
 function onStepHit()
@@ -282,6 +291,9 @@ function onStepHit()
         healthdrain = false
         setProperty('dad.flipX', true)
         setProperty('boyfriend.flipX', false)
+        setProperty('iconP1.flipX', 1)
+        setProperty('iconP2.flipX', 1)
+        setProperty('healthBar.flipX', 1)
     end
 
     if curStep == 1428 then
@@ -299,6 +311,13 @@ function onStepHit()
 
     if curStep == 2814 then
         healthdrain = false
+        setProperty('iconP1.flipX', 0)
+        setProperty('iconP2.flipX', 0)
+        setProperty('healthBar.flipX', 0)
+    end
+
+    if curStep == 2815 then
+        setProperty('dad.y', getProperty('dad.y') + 10)
     end
 
     if curStep == 3028 then
@@ -326,10 +345,16 @@ function onStepHit()
 
     if curStep == 5249 then
         setProperty('dad.flipX', true)
+        setProperty('iconP1.flipX', 1)
+        setProperty('iconP2.flipX', 1)
+        setProperty('healthBar.flipX', 1)
     end
 
     if curStep == 6164 then
         healthdrain = true
+        setProperty('iconP1.flipX', 0)
+        setProperty('iconP2.flipX', 0)
+        setProperty('healthBar.flipX', 0)
     end
 
     if curStep == 6356 then

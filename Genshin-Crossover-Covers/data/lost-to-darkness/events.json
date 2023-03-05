@@ -1,0 +1,141 @@
+{
+	"song": {
+		"events": [
+			[
+				20571.4285714286,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60321.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"xiao-lament-crazy"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				63428.5714285715,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				90857.1428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"xiao-lament"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				200035.714285714,
+				[
+					[
+						"Change Character",
+						"0",
+						"xiao-lament-crazy"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				200571.428571428,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				214285.714285714,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"xiao-lament-tired"
+					]
+				]
+			],
+			[
+				248571.428571428,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"xiao"
+					]
+				]
+			],
+			[
+				276000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"ganyu"
+					],
+					[
+						"Change Character",
+						"0",
+						"xiao"
+					]
+				]
+			]
+		]
+	}
+}

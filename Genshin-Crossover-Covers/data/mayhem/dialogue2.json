@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well that was refreshing",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "unhappy",
+			"text": "Okay, well, that was actually fast",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "tired",
+			"text": "Ugh...huh?",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "tired confused",
+			"text": "A...a child? Did you save me?",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "talk",
+			"text": "Bruh I'm 19",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "awkward",
+			"text": "Whoops, sorry! You just look a little too short for a 19-year-old",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "confused",
+			"text": "And...wait",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "confused",
+			"text": "Lady Keqing, Mr. Zhongli, Hu Tao, and Ms. Ganyu?",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "confused",
+			"text": "How did you guys set Hu Tao free too, and why are you all here?",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "talk",
+			"text": "Power of music. Literally",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "happy",
+			"text": "Always good to have one more person on the team",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "awkward",
+			"text": "Yet, I think we gotta run, like, now",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "We can't escape like this. We gotta split",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "nervous",
+			"text": "Our group is too easy a target for them",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "confused",
+			"text": "Sure, but we gotta regroup somewhere",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "confused",
+			"text": "How about the teleport waypoint to the north of Liyue Harbor?",
+			"boxState": "normal",
+			"portrait": "hutao",
+			"speed": 0.05,
+			"sound": "dialogue/dialhutao"
+		},
+		{
+			"expression": "confused",
+			"text": "It isn't too far out of reach",
+			"boxState": "normal",
+			"portrait": "hutao",
+			"speed": 0.05,
+			"sound": "dialogue/dialhutao"
+		},
+		{
+			"expression": "talk",
+			"text": "Fine by me",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "talk",
+			"text": "The director will have to stay with me, she isn't fully in the clear of this Corruption yet",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "confused",
+			"text": "I'll stick with Xiangling, then, to help her out with her Corruption",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "normal v2",
+			"text": "Also, we might need a decent singer on each team",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "think",
+			"text": "Oh, then it's simple enough",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "unhappy",
+			"text": "BF and I will follow Zhongli and Hu Tao, while Keqing and Ganyu go with GF and Xiangling",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Works for me",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, we'll meet up at the north, right?",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Just be sure to take a different evasive route than ours",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "talk",
+			"text": "If you see survivors, get them to join us",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		},
+		{
+			"expression": "confused",
+			"text": "What about corrupted beings?",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "talk",
+			"text": "Hide or fight. What, were you expecting a 3rd option?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/BFText"
+		},
+		{
+			"expression": "awkward",
+			"text": "Oh, okay",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "angry",
+			"text": "We're running out of time, let's book it, see ya'll later",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "dialogue/picoTalk"
+		}
+	]
+}

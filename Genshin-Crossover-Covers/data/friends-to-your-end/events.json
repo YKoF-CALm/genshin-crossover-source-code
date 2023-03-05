@@ -1,0 +1,201 @@
+{
+	"song": {
+		"events": [
+			[
+				6575.34246575342,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ganyu-indie-nightmare"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59178.0821917808,
+				[
+					[
+						"Change Character",
+						"dad",
+						"emptygf"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62465.7534246576,
+				[
+					[
+						"Screen Shake",
+						"1",
+						"0.05"
+					]
+				]
+			],
+			[
+				64109.5890410959,
+				[
+					[
+						"Screen Shake",
+						"1",
+						"0.05"
+					]
+				]
+			],
+			[
+				65753.4246575343,
+				[
+					[
+						"Change Character",
+						"dad",
+						"xiao-indie-nightmare-alt"
+					],
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"edgy line",
+						"Dad"
+					]
+				]
+			],
+			[
+				65958.9041095891,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				69041.095890411,
+				[
+					[
+						"Change Character",
+						"dad",
+						"xiao-indie-nightmare"
+					]
+				]
+			],
+			[
+				130579.557428872,
+				[
+					[
+						"Change Character",
+						"dad",
+						"zhongli-indie-nightmare"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130669.918874655,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"1"
+					]
+				]
+			],
+			[
+				176844.617669836,
+				[
+					[
+						"Change Character",
+						"dad",
+						"emptygf"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185519.316465016,
+				[
+					[
+						"Change Character",
+						"dad",
+						"keqing-nightmare"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185604.543737744,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"1"
+					]
+				]
+			],
+			[
+				250973.861919561,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kokomi-nightmare"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				251057.195252895,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				294973.861919561,
+				[
+					[
+						"Play Animation",
+						"leaves",
+						"Dad"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

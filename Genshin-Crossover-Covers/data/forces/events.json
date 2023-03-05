@@ -1,0 +1,386 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"3"
+					],
+					[
+						"Add Camera Zoom",
+						"0.30",
+						"0.3"
+					]
+				]
+			],
+			[
+				39170.9844559586,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39792.7461139896,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"xiao"
+					]
+				]
+			],
+			[
+				48497.4093264249,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				49430.0518134715,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"3"
+					]
+				]
+			],
+			[
+				49740.9326424871,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"pico-player"
+					]
+				]
+			],
+			[
+				53316.0621761658,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				54715.0259067358,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				57979.274611399,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				58290.1554404146,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58445.5958549223,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				58911.9170984457,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					],
+					[
+						"Lyrics Bf Side",
+						"BITCH!",
+						"0.5"
+					]
+				]
+			],
+			[
+				59689.1191709845,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Change Character",
+						"1",
+						"ganyu"
+					]
+				]
+			],
+			[
+				64663.2124352332,
+				[
+					[
+						"Change Character",
+						"0",
+						"hd-senpai-player"
+					]
+				]
+			],
+			[
+				69637.3056994819,
+				[
+					[
+						"Change Character",
+						"1",
+						"hutao"
+					]
+				]
+			],
+			[
+				72124.3523316063,
+				[
+					[
+						"Change Character",
+						"0",
+						"spooky-player"
+					]
+				]
+			],
+			[
+				75854.9222797928,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76165.8031088083,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					],
+					[
+						"Lyrics Bf Side",
+						"It'sa Spooky Month!!",
+						"0.6"
+					]
+				]
+			],
+			[
+				76321.2435233161,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				76632.1243523316,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				76787.5647668394,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				76943.0051813472,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				77098.445595855,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				79585.4922279793,
+				[
+					[
+						"Change Character",
+						"0",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				99481.865284974,
+				[
+					[
+						"Change Character",
+						"0",
+						"dad-player"
+					],
+					[
+						"Change Character",
+						"1",
+						"zhongli"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				109430.051813471,
+				[
+					[
+						"Change Character",
+						"1",
+						"keqing"
+					],
+					[
+						"Change Character",
+						"0",
+						"mom-player"
+					]
+				]
+			],
+			[
+				118445.595854922,
+				[
+					[
+						"Change Character",
+						"0",
+						"tankman-player"
+					]
+				]
+			],
+			[
+				119378.238341969,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				128393.78238342,
+				[
+					[
+						"Change Character",
+						"1",
+						"kokomi"
+					]
+				]
+			],
+			[
+				139274.611398964,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		]
+	}
+}

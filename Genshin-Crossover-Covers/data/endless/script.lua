@@ -5,16 +5,18 @@ function onCreate()
     precacheImage('exe/two')
     precacheImage('exe/one')
     precacheImage('exe/gofun')
-    makeLuaSprite('3', 'exe/three', 70, 250);
-    makeLuaSprite('2', 'exe/two', 70, 250);
-    makeLuaSprite('1', 'exe/one', 70, 250);
-    makeLuaSprite('go', 'exe/gofun', 70, 250);
+    makeLuaSprite('3', 'exe/three', 70, 150);
+    makeLuaSprite('2', 'exe/two', 70, 150);
+    makeLuaSprite('1', 'exe/one', 70, 150);
+    makeLuaSprite('go', 'exe/gofun', 70, 150);
     makeLuaSprite('blackscreen', 'exe/blackscreen', 0, 0);
 	setObjectCamera('blackscreen', 'hud');
     makeLuaSprite('circle', 'exe/StartScreens/CircleMajin', 777, 0);
 	setObjectCamera('circle', 'hud');
     makeLuaSprite('text', 'exe/StartScreens/TextMajin', -1100, 0);
 	setObjectCamera('text', 'hud');
+
+    setProperty('dad.y', getProperty('dad.y') + 10)
 
     setProperty('introSoundsSuffix', '-blank')
 end
@@ -32,7 +34,7 @@ function onStartCountdown()
 end
 
 local xx = 520;
-local yy = 530;
+local yy = 430;
 local xx2 = 820;
 local yy2 = 530;
 local ofs = 20;

@@ -65,6 +65,7 @@ end
 function onCreatePost()
     setProperty('iconP1.alpha', 0)
     setProperty('iconP2.alpha', 0)
+    initLuaShader('greyscale')
 end
 
 local theStep2 = 10000
@@ -74,6 +75,15 @@ function onStepHit()
     if curStep == 1 then
         doTweenAlpha('bye', 'blackout', 0, 1, 'linear')
         doTweenAlpha('hii2', 'iconP2', 1, 1, 'linear')
+        makeLuaSprite("shaderImage")
+        makeGraphic("shaderImage", screenWidth, screenHeight)
+        setSpriteShader("shaderImage", "greyscale")
+        addHaxeLibrary("ShaderFilter", "openfl.filters")
+        runHaxeCode([[
+            trace(ShaderFilter);
+            game.camGame.setFilters([new ShaderFilter(game.getLuaObject("shaderImage").shader)]);
+            game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("shaderImage").shader)]);
+        ]])
     end
 
     if curStep == 114 then
@@ -99,6 +109,11 @@ function onStepHit()
         setProperty('stagedcurtains.alpha', 1)
         setProperty('boyfriend.alpha', 1)
         setProperty('iconP1.alpha', 1)
+        removeSpriteShader('shaderImage')
+        runHaxeCode([[
+            game.camGame.setFilters();
+            game.camHUD.setFilters();
+        ]])
     end
 
     if curStep == 880 or curStep == 884 or curStep == 888 or curStep == 892 or curStep == 1408 or curStep == 1412 or curStep == 1416 or curStep == 1420 then
@@ -174,6 +189,8 @@ function onUpdate(elapsed)
             triggerEvent('Camera Follow Pos', xx, yy)
         end
     end
+
+    setShaderFloat("shaderImage", "iTime", os.clock())
 end
 
 function onEvent(name, value1, value2)

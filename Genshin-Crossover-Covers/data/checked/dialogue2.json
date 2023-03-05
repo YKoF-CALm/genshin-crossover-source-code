@@ -1,0 +1,404 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "...there, I won."
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Now, you said you will consider coming back..."
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "Yes, and I have made up my mind already"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "serioustalk",
+			"text": "From this rap battle, I feel like I'm still not ready to rejoin you on your journey..."
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "...and that I still have a lot to learn about this world"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "...so we're parting ways again..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...man..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...hey, wait a sec"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...are you trolling, uhh, Lumine?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "veryserious",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "content",
+			"text": "...pft..."
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "plead",
+			"text": "...huh?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bahahahahahahahahahahahahahah"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "...you're...laughing?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Oh, Aether, you really still have a long way to go when it comes to tomfoolery"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Wait, you were pretending this whole time?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well, not really"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "At least, I wasn't until after our rap battle"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "You only said you would consider rejoining me"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Don't I always say the same thing every time we make a bet?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Hell, you always use this same sentence, too"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Oh, come on, Lumine, you know I've not seen you in 500 years, right?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Really? Whatever happened to familiar bonds that transcend space and time?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "So, you ARE coming with us, right?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Yeah, I mean, ever since I became a traveler, there isn't much to do here"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Well, aside from walking around town and having this mic"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well, I do have a bunch of friends at the house BF and GF bought me"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Like us, they all warped here for some mysterious reason"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Your friends...from Teyvat?"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's alright if you don't wanna meet them, I can just find you a room in there, get you in secretly and stuff"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "What, am I a criminal now?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All the issues in Teyvat don't matter here, so what's the big deal?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "content",
+			"text": "Besides, I'd like to hear about your experiences, both from you and from them"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "It's settled, then!"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Oh yeah, what were you two doing in the alleyway just now anyway?"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF wanted to take a shortcut back home, since we just ate"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This guy doesn't even know what a McDonald's is. Can you imagine?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "McDonald's?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, we should probably head home now. Both of you must be tired"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And I for one need to cool off after taking a bunch of unknown damage"
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you even hit me anyway?"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's called 'emotional damage'"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Pretty neat, eh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue/BFText",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Note to self: Never get on Lumine's bad side"
+		},
+		{
+			"sound": "dialogue/diallumine",
+			"speed": 0.03,
+			"portrait": "lumine",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Anyway, I'm so ready to hit the hay, I'm beat"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Same here"
+		},
+		{
+			"sound": "dialogue/dialaether",
+			"speed": 0.03,
+			"portrait": "aether",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "I just hope Klee doesn't bother me later on..."
+		}
+	]
+}

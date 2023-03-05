@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				34666.6666666667,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				98666.6666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"keqing-evil-sp1"
+					],
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				122666.666666667,
+				[
+					[
+						"Change Character",
+						"2",
+						"keqing-player"
+					],
+					[
+						"Change Character",
+						"1",
+						"keqing-evil-sp2"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"2",
+						"emptygf"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

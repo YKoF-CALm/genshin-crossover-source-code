@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"0",
+						"yanfei-player"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"ganyu-mad-player"
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"xiao-player"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"hutao-player"
+					],
+					[
+						"Change Character",
+						"1",
+						"zhongli-mad"
+					]
+				]
+			],
+			[
+				181333.333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"zhongli"
+					]
+				]
+			]
+		]
+	}
+}

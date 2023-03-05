@@ -39,13 +39,13 @@ function onCreate()
     end
 
     makeAnimatedLuaSprite('Final_Bendy','characters/Zhongli-Indie-NIGHTMARE', -400, -180)
-	addAnimationByPrefix('Final_Bendy','IdleBedy','idle zhongli',24, false)
+	addAnimationByPrefix('Final_Bendy','IdleBedy','idle zhongli',24, true)
 
     makeAnimatedLuaSprite('Final_Cuphead','characters/Ganyu-Indie-NIGHTMARE', -370, 130)
-	addAnimationByPrefix('Final_Cuphead','IdleCuphead','idle ganyu',24, false)
+	addAnimationByPrefix('Final_Cuphead','IdleCuphead','idle ganyu',24, true)
 
     makeAnimatedLuaSprite('Final_Cuphead_front','characters/Ganyu-Indie-NIGHTMARE', -370, 130)
-	addAnimationByPrefix('Final_Cuphead_front','IdleCuphead','idle ganyu',24, false)
+	addAnimationByPrefix('Final_Cuphead_front','IdleCuphead','idle ganyu',24, true)
 end
 
 function onCreatePost()

@@ -9,7 +9,7 @@ function onCreate()
     addLuaSprite('bf', true)
 
     dady = getCharacterY('dad')
-    setCharacterY('dad', dady + 70)
+    setCharacterY('dad', dady + 80)
     setProperty('dad.x', getProperty('dad.x') + 100)
     cameraSetTarget('dad')
 end

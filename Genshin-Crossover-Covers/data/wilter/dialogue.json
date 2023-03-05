@@ -1,0 +1,612 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "At least we made it to shelter in good time",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "frown",
+			"text": "Hmph, so much for clear skies",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "rightmiss",
+			"text": "Yeah, wasn't expecting that huge rain so suddenly",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "normal",
+			"text": "That weather forecast reporter will get what he deserves, mark my words!",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "idle",
+			"text": "Calm down, Eula. It was just a forecast, I'm sure no one saw this coming",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "left",
+			"text": "And anyway, this seems like a cool place to explore! Wanna take a look?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "frown",
+			"text": "Beats waiting around, that's for sure",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "outline",
+			"text": "*They proceed to explore the mansion they stumbled into for shelter*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "outline",
+			"text": "*They head upstairs for a look*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "idle",
+			"text": "Wow, this place is huge!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "sus",
+			"text": "From the looks of it, this seems to be a mansion. One yet to be abandoned, even",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "sus",
+			"text": "The fireplace is lit, there are some burn marks on the floor, and this teacup has been used just recently...",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "left",
+			"text": "Eula, look! Doesn't that look like GF?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "sus",
+			"text": "Huh",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "sus",
+			"text": "Judging from that and those 2 other portraits, this must be property of GF's family",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "It doesn't seem like anyone's home for now. I suggest we lay low until the downpour sto-",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "outline",
+			"text": "*Eula hears a faint creaking sound from the floor behind them*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "sus",
+			"text": "What the? Who's there?",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "idle",
+			"text": "I was about to ask the same thing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "idle",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "up",
+			"text": "Tactie!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singDOWN",
+			"text": "Cathie? What are you doing here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "singDOWN",
+			"text": "And who is that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "right",
+			"text": "Oh, this is Eula. She's a good friend of mine. We met a few days ago",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "right",
+			"text": "Eula, this is Tactie, my best friend, and a skilled professional sniper!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singUP",
+			"text": "Ah, a friend of Cathie's! Nice to meet you Eula",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "frown",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singDOWN",
+			"text": "...Eula?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "Ah, my apologies. Salutations to you as well",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "idle",
+			"text": "What's wrong, Eula? You seem a little uneasy",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "idle",
+			"text": "Are you scared of Tactie?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "sus",
+			"text": "No. Err, 'concerned' is more the word",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singRIGHTmiss",
+			"text": "Concerned? Is it the sniper?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "Sort of. How should I put this...",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "frown",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "Cathie, you remember Klee, right?",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "right",
+			"text": "Of course! She's a very happy kid, how could I forget her?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "normal",
+			"text": "You told me before that you wanted to let her meet 'your best friend'. I assume Tactie is that friend?",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "left",
+			"text": "Mhm! I think they would be great with each other!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "frown",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "Well, Klee is still a kid at heart",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "And the impression I'm getting from Tactie is a rather, err, violent one",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "I think she has plenty of things that I don't really want Klee to see",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singLEFTmiss",
+			"text": "Hey, what do you mean by that!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "singLEFTmiss",
+			"text": "You got a problem with my job or something?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "sus",
+			"text": "Personally? No. But this is Klee we're talking about",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "I'm sorry, but I do wish to keep Klee's mind pure. I don't want Tactie to potentially be a bad influence to her",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "downmiss",
+			"text": "Aw man...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singLEFTmiss",
+			"text": "Hey, I don't think that how you're supposed to create a first impression, Blue",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "I apologise, but I'm trying to protect Klee here. This has nothing to do with impressions or personal grudges",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "right",
+			"text": "Umm, doesn't Klee use bombs herself?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singDOWNmiss",
+			"text": "She uses what now?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "sus",
+			"text": "Sure, but she mainly uses them for blasting fish, not assassinating people",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "rightmiss",
+			"text": "Uh, still...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singDOWN",
+			"text": "It's okay, Cathie",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "idle",
+			"text": "I know, I'm a killer, I shouldn't really be interacting with kids",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "singDOWNmiss",
+			"text": "Eula is just...being responsible...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "downmiss",
+			"text": "Tactie...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "frown",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "Alright, fine, if you can convince me that you won't be a bad influence to Klee, then I'll consider it",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singLEFTmiss",
+			"text": "Uhh, how do you expect me to do that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "right",
+			"text": "Mmm, maybe a rap battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "singDOWN",
+			"text": "Wait, she can sing?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "I have some experience with it, yes",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "I've sung with some blue-haired kid and his girlfriend once",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "frown",
+			"text": "Heard that he's the best in his league",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "idle",
+			"text": "Oh, you're talking about BF and GF",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "sus",
+			"text": "Now that I think about it, you do look awfully similar to-",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singLEFTmiss",
+			"text": "Ugh, I know. We're not related, I don't even know how in the world I managed to look like her, okay?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "Well, at least that clears things up a bit",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "normal",
+			"text": "If you win this, I'll consider on letting you meet Klee",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singUP",
+			"text": "Sure",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "up",
+			"text": "Have fun, you two!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cathie"
+		},
+		{
+			"expression": "idle",
+			"text": "'Have fun'...I always hear this. Do you ever have fun in a rap battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		},
+		{
+			"expression": "normal",
+			"text": "Sometimes. It depends what I'm doing it for",
+			"boxState": "normal",
+			"sound": "dialogue/dialeula",
+			"speed": 0.05,
+			"portrait": "eula"
+		},
+		{
+			"expression": "singRIGHT",
+			"text": "Eh, fair enough",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tactie"
+		}
+	]
+}

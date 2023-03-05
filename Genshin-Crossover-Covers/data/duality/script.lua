@@ -42,6 +42,9 @@ end
 function onCreatePost()
 	defx = getProperty('Dad2.x')
 	defy = getProperty('Dad2.y')
+    setProperty('iconP1.flipX', 1)
+    setProperty('iconP2.flipX', 1)
+    setProperty('healthBar.flipX', 1)
 end
 
 function onCountdownTick(counter)
@@ -84,6 +87,15 @@ function onStepHit()
 	end
 end
 
+function onUpdatePost()
+    setProperty('iconP1.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))-(150 * getProperty('iconP1.scale.x'))/2 - 26*2)
+    setProperty('iconP2.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))+(150 * getProperty('iconP2.scale.x')-150)/2 - 26)
+end
+
+function remapToRange(value, start1, stop1, start2, stop2)
+    return start2 + (value - start1) * ((stop2 - start2) / (stop1 - start1))
+end
+
 lastNote = {0, ""}
 
 function opponentNoteHit(id,d,t,s)
@@ -95,6 +107,10 @@ function opponentNoteHit(id,d,t,s)
 		objectPlayAnimation('Dad2', lastNote[1])
 		allowIdle = false
 		runTimer('resumeIdle', 0.5, 1)
+    end
+
+    if getProperty('health') > 0.023 then
+        setProperty('health', getProperty('health') - 0.023)
     end
 end
 

@@ -1,0 +1,268 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Oh ho ho. Look what we have here...",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiangling",
+			"speed": 0.05,
+			"portrait": "evil-xiangling"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "...despicable",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "To catch us in a moment like this",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "Is that...",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "confused",
+			"text": "...Xiangling...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, let me handle this one",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "BF, are you sure? I could just end this quicker-",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "I don't give a damn anymore now that we're spotted. Might as well clean up and run",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Dude, you're literally asking for death by doing this",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "Pico, you have a fucking UZI, what are you worried about?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "Fine, but make it quick. We don't have all day",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "BF, what are you doing?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "Nothing much, just about to absolutely shit on her so hard even diapers can't hold in my wrath",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Whoa, calm down! Perhaps we can find a peaceful resolution instead?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "pissed",
+			"text": "This IS the peaceful resolution",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Besides, she's just a chef, yeah?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, yes...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Then this one's gonna be a freebie. Stand back everyone",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Well well well, we meet again-",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiangling",
+			"speed": 0.05,
+			"portrait": "evil-xiangling"
+		},
+		{
+			"expression": "pissed",
+			"text": "Shut the fuck up and listen to me beating the shit out of yo ass",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-xiangling",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "unhappy",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "unhappy",
+			"text": "If I had a nickel for every time BF loses his Mcfucking marbles because of the\\nCorruption here...",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "unhappy",
+			"text": "I'd have 2 nickels",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "unhappy",
+			"text": "Which isn't a lot, but it's weird that it happened twice",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Did you seriously just use a meme to describe this situation?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "kill",
+			"text": "Y E S",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.1,
+			"portrait": "pico"
+		},
+		{
+			"expression": "nervous",
+			"text": "wtf",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		}
+	]
+}

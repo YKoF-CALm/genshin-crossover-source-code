@@ -1,43 +1,61 @@
 local sansIdle = true
 local bfIdle = true
-local sansx = 300
-local sansy = 300
-local bfx = 1200
-local bfy = 430
 
 function onCreate()
+    precacheImage('indie/sans/DodgeMechs')
+    precacheImage('characters/BoyFriend_CRshader')
+    precacheImage('characters/Sans')
+
     setProperty('introSoundsSuffix', '-sans')
     setProperty('boyfriend.y', getProperty('boyfriend.y') + 30)
     cameraSetTarget('boyfriend')
 
-    makeAnimatedLuaSprite('sans', 'characters/Sans', sansx, sansy)
+    makeAnimatedLuaSprite('sans', 'characters/Sans', 300, 300)
     addAnimationByIndices('sans', 'idle', 'Sans FNF instance 1', '0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14', 24)
+    addOffset('sans', 'idle', 0, 0)
     addAnimationByIndices('sans', 'idle2', 'Sans FNF instance 1', '15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30', 24)
+    addOffset('sans', 'idle2', 0, 0)
     addAnimationByPrefix('sans', 'blueeye', 'Switch to UT mode instance 1', 24, false)
+    addOffset('sans', 'blueeye', 20, -1)
     addAnimationByPrefix('sans', 'up', 'Up instance 1', 24, false)
+    addOffset('sans', 'up', -17, 28)
     addAnimationByPrefix('sans', 'down', 'Down instance 1', 24, false)
+    addOffset('sans', 'down', -12, -15)
     addAnimationByPrefix('sans', 'left', 'Left instance 1', 24, false)
+    addOffset('sans', 'left', 48, 0)
     addAnimationByPrefix('sans', 'right', 'Right instance 1', 24, false)
+    addOffset('sans', 'right', -18, -1)
     addAnimationByPrefix('sans', 'up2', 'Up 02 instance 1', 24, false)
+    addOffset('sans', 'up2', 35, 29)
     addAnimationByPrefix('sans', 'down2', 'Down 02 instance 1', 24, false)
+    addOffset('sans', 'down2', -12, -15)
     addAnimationByPrefix('sans', 'left2', 'Left 02 instance 1', 24, false)
+    addOffset('sans', 'left2', 48, 0)
     addAnimationByPrefix('sans', 'right2', 'Right 02 instance 1', 24, false)
+    addOffset('sans', 'right2', -18, -1)
     addAnimationByPrefix('sans', 'dodge', 'SansDodge instance 1', 24, false)
+    addOffset('sans', 'dodge', 110, 20)
 
-    makeAnimatedLuaSprite('boner', 'indie/sans/DodgeMechs', bfx - 100, bfy - 100)
+    makeAnimatedLuaSprite('boner', 'indie/sans/DodgeMechs', 1100, 330)
     addAnimationByPrefix('boner', 'warning', 'Alarm instance 1', 24, false)
     addAnimationByPrefix('boner', 'bones', 'Bones boi instance 1', 24, false)
     setProperty('boner.alpha', 0)
 
-    makeAnimatedLuaSprite('bf', 'characters/BoyFriend_CRshader', bfx, bfy)
+    makeAnimatedLuaSprite('bf', 'characters/BoyFriend_CRshader', 1200, 430)
     addAnimationByPrefix('bf', 'idle', 'BF idle dance instance 1', 24, false)
+    addOffset('bf', 'idle', 0, 0)
     addAnimationByPrefix('bf', 'up', 'BF NOTE UP instance 1', 24, false)
+    addOffset('bf', 'up', -45, 58)
     addAnimationByPrefix('bf', 'down', 'BF NOTE DOWN instance 1', 24, false)
+    addOffset('bf', 'down', -35, -31)
     addAnimationByPrefix('bf', 'left', 'BF NOTE LEFT instance 1', 24, false)
+    addOffset('bf', 'left', 27, -3)
     addAnimationByPrefix('bf', 'right', 'BF NOTE RIGHT instance 1', 24, false)
+    addOffset('bf', 'right', -34, 1)
     addAnimationByPrefix('bf', 'attack', '0BF attack instance 1', 24, false)
+    addOffset('bf', 'attack', 1088, -5)
 
-    makeAnimatedLuaSprite('bf2', 'indie/sans/DodgeMechs', bfx, bfy)
+    makeAnimatedLuaSprite('bf2', 'indie/sans/DodgeMechs', 1200, 430)
     addAnimationByPrefix('bf2', 'dodge', 'Dodge instance 1', 24, false)
     setProperty('bf2.alpha', 0)
 
@@ -50,203 +68,89 @@ end
 function onBeatHit()
     if curBeat % 2 == 0 then
         if sansIdle then
-            objectPlayAnimation('sans', 'idle', true)
+            playAnim('sans', 'idle', true)
         end
         if bfIdle then
-            objectPlayAnimation('bf', 'idle', true)
+            playAnim('bf', 'idle', true)
         end
     end
 
     if curBeat % 2 == 1 then
         if sansIdle then
-            objectPlayAnimation('sans', 'idle2', true)
+            playAnim('sans', 'idle2', true)
         end
     end
 end
 
 function onStepHit()
-    if curStep == 232 then
-        objectPlayAnimation('sans', 'up', true)
+    if curStep == 232 or curStep == 348 or curStep == 350 or curStep == 730 then
+        playAnim('sans', 'up', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
     end
 
-    if curStep == 242 then
-        objectPlayAnimation('bf', 'down', true)
+    if curStep == 242 or curStep == 746 then
+        playAnim('bf', 'down', true)
         bfIdle = false
         runTimer('idleresumebf', 0.5, 1)
     end
 
-    if curStep == 244 then
-        objectPlayAnimation('bf', 'left', true)
+    if curStep == 244 or curStep == 381 or curStep == 654 or curStep == 672 or curStep == 712 or curStep == 716 then
+        playAnim('bf', 'left', true)
         bfIdle = false
         runTimer('idleresumebf', 0.5, 1)
     end
 
-    if curStep == 260 then
-        objectPlayAnimation('sans', 'left2', true)
+    if curStep == 260 or curStep == 477 or curStep == 756 or curStep == 876 then
+        playAnim('sans', 'left2', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
     end
 
-    if curStep == 348 then
-        objectPlayAnimation('sans', 'up', true)
+    if curStep == 354 or curStep == 356 or curStep == 536 or curStep == 538 or curStep == 540 or curStep == 684 or curStep == 890 then
+        playAnim('bf', 'up', true)
+        bfIdle = false
+        runTimer('idleresumebf', 0.5, 1)
+    end
+
+    if curStep == 373 or curStep == 377 or curStep == 454 or curStep == 466 or curStep == 468 or curStep == 516 or curStep == 518 or curStep == 520 then
+        playAnim('bf', 'right', true)
+        bfIdle = false
+        runTimer('idleresumebf', 0.5, 1)
+    end
+
+    if curStep == 388 or curStep == 390 or curStep == 392 then
+        playAnim('sans', 'down2', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 350 then
-        objectPlayAnimation('sans', 'up', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 354 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 356 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 373 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 377 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 381 then
-        objectPlayAnimation('bf', 'left', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 388 then
-        objectPlayAnimation('sans', 'down2', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 390 then
-        objectPlayAnimation('sans', 'down2', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 392 then
-        objectPlayAnimation('sans', 'down2', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 454 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
     end
 
     if curStep == 460 then
-        objectPlayAnimation('sans', 'right2', true)
+        playAnim('sans', 'right2', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
     end
 
-    if curStep == 466 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 468 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 477 then
-        objectPlayAnimation('sans', 'left2', true)
+    if curStep == 502 or curStep == 504 or curStep == 506 or curStep == 668 then
+        playAnim('sans', 'right', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 502 then
-        objectPlayAnimation('sans', 'right', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 504 then
-        objectPlayAnimation('sans', 'right', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 506 then
-        objectPlayAnimation('sans', 'right', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 516 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 518 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 520 then
-        objectPlayAnimation('bf', 'right', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
     end
 
     if curStep == 528 then
-        objectPlayAnimation('sans', 'up2', true)
+        playAnim('sans', 'up2', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
     end
 
-    if curStep == 536 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 538 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 540 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 603 then
-        objectPlayAnimation('sans', 'blueeye', true)
+    if curStep == 603 or curStep == 775 then
+        playAnim('sans', 'blueeye', true)
         sansIdle = false
     end
 
     if curStep == 608 then
         setProperty('boner.alpha', 1)
-        objectPlayAnimation('boner', 'warning', true)
+        playAnim('boner', 'warning', true)
     end
 
     if curStep == 612 then
@@ -258,8 +162,8 @@ function onStepHit()
         setProperty('bf.alpha', 0)
         setProperty('bf2.alpha', 1)
         setProperty('boner.alpha', 1)
-        objectPlayAnimation('boner', 'bones', true)
-        objectPlayAnimation('bf2', 'dodge', true)
+        playAnim('boner', 'bones', true)
+        playAnim('bf2', 'dodge', true)
     end
 
     if curStep == 624 then
@@ -268,25 +172,19 @@ function onStepHit()
         removeLuaSprite('boner', false)
     end
 
-    if curStep == 628 then
-        objectPlayAnimation('sans', 'down', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 630 then
-        objectPlayAnimation('sans', 'down', true)
+    if curStep == 628 or curStep == 630 or curStep == 695 or curStep == 700 then
+        playAnim('sans', 'down', true)
         sansIdle = false
         runTimer('idleresumesans', 0.5, 1)
     end
 
     if curStep == 636 then
-        objectPlayAnimation('bf', 'attack', true)
+        playAnim('bf', 'attack', true)
         bfIdle = false
     end
 
     if curStep == 638 then
-        objectPlayAnimation('sans', 'dodge', true)
+        playAnim('sans', 'dodge', true)
         sansIdle = false
     end
 
@@ -294,114 +192,19 @@ function onStepHit()
         bfIdle = true
     end
 
-    if curStep == 648 then
+    if curStep == 648 or curStep == 784 then
         sansIdle = true
-    end
-
-    if curStep == 654 then
-        objectPlayAnimation('bf', 'left', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 668 then
-        objectPlayAnimation('sans', 'right', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 672 then
-        objectPlayAnimation('bf', 'left', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 684 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 695 then
-        objectPlayAnimation('sans', 'down', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 700 then
-        objectPlayAnimation('sans', 'down', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 712 then
-        objectPlayAnimation('bf', 'left', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 716 then
-        objectPlayAnimation('bf', 'left', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 730 then
-        objectPlayAnimation('sans', 'up', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 746 then
-        objectPlayAnimation('bf', 'down', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
-    end
-
-    if curStep == 756 then
-        objectPlayAnimation('sans', 'left2', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 775 then
-        objectPlayAnimation('sans', 'blueeye', true)
-        sansIdle = false
-    end
-
-    if curStep == 784 then
-        sansIdle = true
-    end
-
-    if curStep == 876 then
-        objectPlayAnimation('sans', 'left2', true)
-        sansIdle = false
-        runTimer('idleresumesans', 0.5, 1)
-    end
-
-    if curStep == 890 then
-        objectPlayAnimation('bf', 'up', true)
-        bfIdle = false
-        runTimer('idleresumebf', 0.5, 1)
     end
 end
 
-local xx = 520;
-local yy = 460;
-local xx2 = 820;
-local yy2 = 460;
-local ofs = 20;
-local followchars = true;
-local del = 0;
-local del2 = 0;
+local xx = 520
+local yy = 460
+local xx2 = 820
+local yy2 = 460
+local ofs = 20
+local followchars = true
 
 function onUpdate(elapsed)
-	if del > 0 then
-		del = del - 1
-	end
-	if del2 > 0 then
-		del2 = del2 - 1
-	end
     if followchars == true then
         if mustHitSection == false then
             if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
@@ -455,83 +258,28 @@ function onUpdate(elapsed)
     else
         triggerEvent('Camera Follow Pos','','')
     end
-
-    if getProperty('sans.animation.curAnim.name') == 'left' or getProperty('sans.animation.curAnim.name') == 'left2' then
-        setProperty('sans.x', sansx - 48)
-        setProperty('sans.y', sansy)
-    elseif getProperty('sans.animation.curAnim.name') == 'up' then
-        setProperty('sans.x', sansx + 17)
-        setProperty('sans.y', sansy - 28)
-    elseif getProperty('sans.animation.curAnim.name') == 'right' or getProperty('sans.animation.curAnim.name') == 'right2' then
-        setProperty('sans.x', sansx + 18)
-        setProperty('sans.y', sansy + 1)
-    elseif getProperty('sans.animation.curAnim.name') == 'down' or getProperty('sans.animation.curAnim.name') == 'down2' then
-        setProperty('sans.x', sansx + 12)
-        setProperty('sans.y', sansy + 15)
-    elseif getProperty('sans.animation.curAnim.name') == 'up2' then
-        setProperty('sans.x', sansx - 35)
-        setProperty('sans.y', sansy - 29)
-    elseif getProperty('sans.animation.curAnim.name') == 'blueeye' then
-        setProperty('sans.x', sansx - 20)
-        setProperty('sans.y', sansy + 1)
-    elseif getProperty('sans.animation.curAnim.name') == 'dodge' then
-        setProperty('sans.x', sansx - 110)
-        setProperty('sans.y', sansy - 20)
-    else
-        setProperty('sans.x', sansx)
-        setProperty('sans.y', sansy)
-    end
-
-    if getProperty('bf.animation.curAnim.name') == 'left' then
-        setProperty('bf.x', bfx - 27)
-        setProperty('bf.y', bfy + 3)
-    elseif getProperty('bf.animation.curAnim.name') == 'down' then
-        setProperty('bf.x', bfx + 35)
-        setProperty('bf.y', bfy + 31)
-    elseif getProperty('bf.animation.curAnim.name') == 'up' then
-        setProperty('bf.x', bfx + 45)
-        setProperty('bf.y', bfy - 58)
-    elseif getProperty('bf.animation.curAnim.name') == 'right' then
-        setProperty('bf.x', bfx + 34)
-        setProperty('bf.y', bfy - 1)
-    elseif getProperty('bf.animation.curAnim.name') == 'attack' then
-        setProperty('bf.x', bfx - 1088)
-        setProperty('bf.y', bfy + 5)
-    else
-        setProperty('bf.x', bfx)
-        setProperty('bf.y', bfy)
-    end
 end
 
-local allowCountdown = false
 local dia1 = false
 local dia2 = false
 local blockEnd = true
 
 function onStartCountdown()
-	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
-	if not allowCountdown and not dia1 then
+	if not dia1 then
 		setProperty('inCutscene', true)
 		runTimer('startDialogue', 0.8)
         dia1 = true
-		return Function_Stop
+		return Function_Stop;
 	end
-	return Function_Continue
+	return Function_Continue;
 end
 
 function onEndSong()
-    if not allowCountdown and blockEnd then
+    if blockEnd then
 		if not dia2 then
 			dia2 = true
         	setProperty('inCutscene', true)
-			startDialogue('dialogue2');
-			runTimer('delayEnd', 600)
-		end
-		if keyJustPressed('back') then
-			blockEnd = false
-			cancelTimer('delayEnd')
-			endSong()
-    		return Function_Continue;
+			runTimer('endDialogue', 0.8)
 		end
 		return Function_Stop;
 	end
@@ -539,7 +287,7 @@ function onEndSong()
 end
 
 function onNextDialogue(count)
-	if dia2 and count >= 149 then
+	if count >= 149 then
         runTimer('endthethingalready', 20)
         blockEnd = false
 		cancelTimer('delayEnd')
@@ -555,8 +303,13 @@ function onTimerCompleted(tag, loops, loopsLeft)
         bfIdle = true
     end
 
-    if tag == 'startDialogue' then -- Timer completed, play dialogue
+    if tag == 'startDialogue' then
 		startDialogue('dialogue')
+	end
+
+    if tag == 'endDialogue' then
+		startDialogue('dialogue2')
+        runTimer('delayEnd', 300)
 	end
 
     if tag == 'delayEnd' then
@@ -568,5 +321,4 @@ function onTimerCompleted(tag, loops, loopsLeft)
         blockEnd = false
         endSong()
     end
-    
 end

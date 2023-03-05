@@ -2,9 +2,6 @@ function onCreate()
     makeAnimatedLuaSprite('bf', 'characters/BOYFRIEND', 1300, 400)
     addAnimationByPrefix('bf', 'idle', 'BF idle dance', 24, false)
     addLuaSprite('bf', false)
-
-    setProperty('dad.y', getProperty('dad.y') - 10)
-    cameraSetTarget('dad')
 end
 
 function onBeatHit()

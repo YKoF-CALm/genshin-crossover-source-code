@@ -2,7 +2,7 @@ function onCreate()
     precacheSound('Lights_Shut_off')
 
     setProperty('dad.x', getProperty('dad.x') + 150)
-    setProperty('dad.y', getProperty('dad.y') + 130)
+    setProperty('dad.y', getProperty('dad.y') + 140)
     setProperty('boyfriend.y', getProperty('boyfriend.y') + 50)
     setProperty('boyfriend.x', getProperty('boyfriend.x') + 100)
 

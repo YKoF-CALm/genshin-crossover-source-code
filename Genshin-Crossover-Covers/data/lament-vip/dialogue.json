@@ -1,0 +1,436 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "look up",
+			"text": "Ganyu, where are you...?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "look up",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "sad",
+			"text": "*sigh* What am I thinking? She probably left to seek shelter from others",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad2",
+			"text": "Others more capable than I am",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad2",
+			"text": "...more capable than a failure",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad2",
+			"text": "...like me...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad3",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "sad",
+			"text": "...who can't even protect everyone when they counted on me most",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think",
+			"text": "That...monster. He came in and tried to ruin our lives...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think",
+			"text": "...and I couldn't be there in time to save them",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think2",
+			"text": "Hell, I didn't even try. I just fled",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think2",
+			"text": "And now most of my friends are...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "think",
+			"text": "...well, do they even consider me a friend anymore?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "think",
+			"text": "After how I abandoned them?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad",
+			"text": "Left them to die?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think2",
+			"text": "DAMMIT",
+			"boxState": "angry",
+			"portrait": "xiao-lament",
+			"speed": 0.02,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think2",
+			"text": "All I had to do was kill that freak, and I can't even fucking do THAT",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think",
+			"text": "What else am I good for anymore?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think",
+			"text": "What's a Yaksha good for if he can't even kill one single demon even after centuries of battle?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "angry think",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "think",
+			"text": "Even now, all I can do is wait",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad3",
+			"text": "It should've been me to go out looking for help",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad3",
+			"text": "I know I was tired, but it's too dangerous for her",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "think",
+			"text": "It's been, what, hours?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad2",
+			"text": "Days?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad3",
+			"text": "...weeks?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "look up",
+			"text": "Where have you gone...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "appear 1",
+			"text": "*footsteps*",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "worry",
+			"text": "Who's there!?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.03,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "appear 2",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, Ganyu! There you are!",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "happy",
+			"text": "So, what's the sit-",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "appear 3",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "...Ganyu?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "normal",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "how0",
+			"text": "...no",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "how",
+			"text": "How?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "pain",
+			"text": "HOW!?",
+			"boxState": "angry",
+			"portrait": "xiao-lament",
+			"speed": 0.02,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "pain",
+			"text": "Even you couldn't stop them...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "normal",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "very sad",
+			"text": "...this is it for me, then",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "normal",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "sad look",
+			"text": "You're eerily quiet...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "question",
+			"text": "Can you even say anything?",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "normal",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "J o i n u s",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "sad look",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "sad",
+			"text": "...I promised to protect you, to get you to safety",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "angry think",
+			"text": "And I'm not about to let that go to waste",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiao"
+		},
+		{
+			"expression": "talk",
+			"text": "R e s i s t i n g   i s   u s e l e s s",
+			"boxState": "normal",
+			"portrait": "evil-ganyu",
+			"speed": 0.1,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "stare",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.2,
+			"sound": ""
+		},
+		{
+			"expression": "challenge",
+			"text": "Try me",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.1,
+			"sound": "dialogue/dialxiao"
+		}
+	]
+}

@@ -1,0 +1,420 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "We're here, I guess",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "So, this is Liyue? It does look like how it does in-game",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "ask",
+			"text": "Yeah, but did we just land in a sandbox game or something?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ask",
+			"text": "I mean, there's no one here",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's find somewhere to rest first",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "*They find a nearby building and rest for a while*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "GF, you sure we're in Liyue? I thought it was a bustling city, not a ghost town",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Relax, I'm sure there's an explanation. A glitch, perhaps?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "We'd be dead if that's the case",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "ask",
+			"text": "Buildings seem intact, so it's not like there was a war or anything",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "unhappy",
+			"text": "Hallucination maybe?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Maybe",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "black",
+			"text": "Hmm? Have some guests arrived in town?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "Who the fuck was that?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "black",
+			"text": "*footsteps*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "black",
+			"text": "You don't seem like from around here. Welcome to Liyue Harbor",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "She sounds like Keqing...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Something ain't right, though...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "ask",
+			"text": "Eh?",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Why is her voice so...echoey?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Hmm...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey, why are you hiding in the shadows anyway?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "black",
+			"text": "Oh, sorry, just a bad hair day",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Whatever, can you let us know what's going on?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "The streets are eerily quiet. Is there a pandemic or something?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "black",
+			"text": "Eh, something like that",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "But we like to call this the Corruption",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "shocked",
+			"text": "JESUS FUCKING CHRIST!",
+			"boxState": "angry",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "The Corruption!? It's here!?",
+			"boxState": "angry",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "Shit! GF, behind me, NOW!",
+			"boxState": "angry",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "laugh",
+			"text": "Aw, but isn't this such a nice reunion we're having?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...reunion? You know us?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh come on, BF. Think just a little bit, would you?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "...no",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "You're the same Corruption that I defeated...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I suppose \"reincarnation\" is more the word",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "You thought I would simply vanish after removing me from everyone?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "scary",
+			"text": "So long as he lives, I live",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "He?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Monster. That lemon freak",
+			"boxState": "normal",
+			"sound": "dialogue/picoTalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "But he fled after we defeated the Corruption. Where could he be hiding away this time?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "We'll figure it out eventually",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "You two, get behind me. I got this",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "laugh",
+			"text": "Oh, little Boyfriend. When will you ever learn that rapping against me is useless?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "Ha...no matter",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "scary",
+			"text": "This is just a small fragment of the whole Corruption here",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "very scary",
+			"text": "Soon you'll understand",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "evil-keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...you done?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Good",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Because now, it's PERSONAL",
+			"boxState": "angry",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -56,7 +56,7 @@ function onCreate()
     addCharacterToList('zhongli', 'dad')
     addCharacterToList('zhongli-player', 'dad')
     addCharacterToList('xiao-player', 'dad')
-    addCharacterToList('hu-tao-alt', 'dad')
+    addCharacterToList('hutao', 'dad')
     addCharacterToList('ganyu-player', 'boyfriend')
 end
 
@@ -141,6 +141,18 @@ function onUpdate()
     
 end
 
+function onUpdatePost()
+    if curStep >= 1296 and curStep <= 2822 then
+        setProperty('iconP1.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))-(150 * getProperty('iconP1.scale.x'))/2 - 26*2)
+        setProperty('iconP2.x', -593+getProperty('healthBar.x') + (getProperty('healthBar.width')*(remapToRange(getProperty('healthBar.percent'), 0, -100, 100, 0)*0.01))+(150 * getProperty('iconP2.scale.x')-150)/2 - 26)
+    end
+end
+
+function remapToRange(value, start1, stop1, start2, stop2)
+    return start2 + (value - start1) * ((stop2 - start2) / (stop1 - start1))
+end
+
+
 function onEvent(name,a,b)
     if name == 'Opponent Notes Left Side' then
         setPropertyFromGroup('opponentStrums', 0, 'x', defaultOpponentStrumX0)
@@ -218,6 +230,10 @@ function onStepHit()
         setProperty('boyfriend.x', getProperty('boyfriend.x') - 200)
         setProperty('dad.flipX', true)
         setProperty('boyfriend.flipX', false)
+
+        setProperty('iconP1.flipX', 1)
+        setProperty('iconP2.flipX', 1)
+        setProperty('healthBar.flipX', 1)
     end
 
     if curStep == 2320 then
@@ -243,6 +259,10 @@ function onStepHit()
         setProperty('exeglitch.visible', false)
 
         setCharacterX('dad', 200)
+
+        setProperty('iconP1.flipX', 0)
+        setProperty('iconP2.flipX', 0)
+        setProperty('healthBar.flipX', 0)
     end
 
     if curStep == 2832 then

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Mr. Zhongli, isn't this Nightmare gig past its time already?",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nervous",
+			"text": "Or should I call you Rex Lapis?",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare ac",
+			"text": "I mean, one more Nightmare wouldn't hurt, right?",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "We're gonna be a neon nation at this point. Surely we have no need for any more?",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare ac",
+			"text": "No such thing. I only allow a privileged few to partake in this Nightmare power",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "So, what business do you have with me?",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare",
+			"text": "Like I said, I only allow a select few to have this power",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "nightmare",
+			"text": "Among those, a handful of adepti",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "nervous",
+			"text": "...wait a minute",
+			"boxState": "normal",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare ac",
+			"text": "You're quite the fighter yourself, no?",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "pissed v2",
+			"text": "Okay, fuck off now!",
+			"boxState": "angry",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		},
+		{
+			"expression": "nightmare ac",
+			"text": "Seems like I must show you just how great this power truly is",
+			"boxState": "normal",
+			"portrait": "zhongli",
+			"speed": 0.05,
+			"sound": "dialogue/dialzhongli"
+		},
+		{
+			"expression": "pissed v2",
+			"text": "Okay, that's it! Bring it on!",
+			"boxState": "angry",
+			"portrait": "yanfei",
+			"speed": 0.05,
+			"sound": "dialogue/dialyanfei"
+		}
+	]
+}

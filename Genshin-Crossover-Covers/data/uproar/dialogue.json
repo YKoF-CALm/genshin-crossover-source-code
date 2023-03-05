@@ -1,0 +1,820 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "There. Do you trust me now?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "thinking",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "lean_tired",
+			"text": "Umm...Ei?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "mad",
+			"text": "This is interesting indeed",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "mad",
+			"text": "Not only did you defeat me, you even managed to bypass my attacks",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bitch I've had way worse than this",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "True, considering your encounter with Tricky",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "madtalk",
+			"text": "However, I still have some power remaining",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "madtalk",
+			"text": "Tell me, Boyfriend, can you say the same for yourself?",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "shocked",
+			"text": "..........",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Seems like I'm gonna have to throw a few more beats right back at ya",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "BF, I think she might be more enduring than others",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Maybe we should either leave her alone or...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Babe, she's literally trying to kill me",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Okay, then maybe get Aloe to help you?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Or, uh, maybe stall a little, I asked Aloe to call for help from one of our Teyvat friends",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "You did WHAT!?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "bruh",
+			"text": "Well, I asked Nene to pick a good person for the job",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "grin",
+			"text": "Trust me, she's fit for this",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "cheery",
+			"text": "Look, there she is!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "bruh",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm here. What do you need me for, BF?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Nene...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "grin",
+			"text": "What? Told ya she's up for it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "I might not know a whole lot about Genshin Impact...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "But you called Keqing...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cheery",
+			"text": "Mhm",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "...who's an Electro character...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "oblivious",
+			"text": "Uhh, yeah?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "...to help me deal with the Genshin equivalent of the God of Thunder",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cheery",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "worried",
+			"text": "...................oh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "bruh",
+			"text": "...Nene...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "pout",
+			"text": "Well, okay, maybe I was calling for her because I like her, but...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "determined",
+			"text": "She's an Electro character, like you said! Don't you think she might be able to give you some tips on how to counter lightning?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "...Nene, I countered the lightning by dodging it",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...NVM, this is pointless, you've already called her here anyway",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "thinking",
+			"text": "Uhh, I don't seem to understand, what's the problem?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "That",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, is that...?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "...behold, the Almighty Raiden Shogun...heh",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "This is unexpected, how did SHE get here?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "We'll fill you in later",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I think the more crucial situation is that this God of Thunder is trying to kill me and GF?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait, so you need my help in fighting her?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "BF, this is the Raiden Shogun we're talking about here!",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, tell that to the person that chose to call you",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pout",
+			"text": "Look, I'm sorry, okay!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "Whatever, at this point, Electro or not, Keqing's our best bet here anyway",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "thinking",
+			"text": "So you choose to side with this girl from Liyue to preserve your own life...",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "mad",
+			"text": "A rather foolish decision, wouldn't you say?",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "confused",
+			"text": "(Damn, do I really have to brute-force my way out of this again?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "(I'm probably gonna be worn out after another song, and Aloe certainly can't handle her...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "(And I highly doubt that if I barely made it through THAT, then GF and Nene combined don't stand a chance even...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "(There's only one last way. Risky, but it's our best bet...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "madtalk",
+			"text": "So, do you still have it in you to face me once again?",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "mad",
+			"text": "Might I remind you that this girl wields Electro?",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "challenge",
+			"text": "Her attacks will mean nothing to me",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "talk",
+			"text": "She's Electro, yes...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "But you'd be foolish to think that elements even matter in a rap battle",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "BF WHAT!?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "We'll have Keqing rap battle you",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "How's THAT for a challenge?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "thinking",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "mad",
+			"text": "Fine",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "challenge",
+			"text": "However, if she fails, you all will perish nonetheless",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "talk",
+			"text": "Aight bet",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "BF, what are you saying!?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "There's no way I can equal the Raiden Shogun, and I'm not exactly that good in rap battling either!",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I mean, you beat Tricky, no?",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "tired",
+			"text": "Well, sure, but this is different",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "tired",
+			"text": "Even while coming here, I heard the constant roar of lightning from your direction",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "I may be good in combat, but I'm no better than the Raiden Shogun herself",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "No worries",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Because Aloe and I can back you up",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lean_shocked",
+			"text": "Wait, BF, what?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "talk",
+			"text": "Keqing is the one mainly facing off the Raiden Shogun. We can't allow her to lose",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Since both of us can sing, we back her up on the vocals",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That way, she can be more prepared for the lightning",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lean_tired",
+			"text": "Well, okay",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "lean_tired",
+			"text": "I really hope you know what you're doing, BF",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aloe"
+		},
+		{
+			"expression": "confused",
+			"text": "Honestly? Same...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "But this is our best option, so we must make sure that this works",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "madtalk",
+			"text": "Challenger from Liyue, state your name",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "tired",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "challenge",
+			"text": "I am Keqing, Yuheng of the Liyue Qixing",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "mad",
+			"text": "So, you're from the Liyue Qixing...",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "madtalk",
+			"text": "I do hope that you are prepared for this battle...",
+			"boxState": "normal",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "challenge",
+			"text": "Because I am not holding back on this one",
+			"boxState": "angry",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "challenge",
+			"text": "Are you ready for the fight of your life?",
+			"boxState": "angry",
+			"sound": "dialogue/dialei",
+			"speed": 0.05,
+			"portrait": "ei"
+		},
+		{
+			"expression": "tired",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "challenge",
+			"text": "Bring it on, Almighty Shogun!",
+			"boxState": "angry",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Nene, get up here",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "determined",
+			"text": "Hup",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "cheery",
+			"text": "We'll be cheering you on from here!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "You got this!",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I really hope you're ready, Keqing...",
+			"boxState": "normal",
+			"sound": "dialogue/BFText",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

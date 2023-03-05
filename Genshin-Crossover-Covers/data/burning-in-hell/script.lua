@@ -13,7 +13,7 @@ function onCreate()
     addCharacterToList('mona', 'dad')
     addCharacterToList('xiao', 'dad')
     addCharacterToList('ganyu-mad', 'dad')
-    addCharacterToList('hu-tao-alt', 'dad')
+    addCharacterToList('hutao', 'dad')
     addCharacterToList('shenhe', 'dad')
     addCharacterToList('kazuha', 'dad')
     addCharacterToList('ayaka', 'dad')
@@ -25,6 +25,7 @@ function onCreate()
     setProperty('introSoundsSuffix', '-sans')
 
     setProperty('gf.x', getProperty('gf.x') - 250)
+    setProperty('gf.y', getProperty('gf.y') - 20)
     setProperty('boyfriend.x', getProperty('boyfriend.x') - 150)
     setProperty('dad.x', getProperty('dad.x') + 150)
     cameraSetTarget('boyfriend')
@@ -36,6 +37,31 @@ function onCreatePost()
 end
 
 function onBeatHit()
+    if curBeat == 96 or curBeat == 160 then
+        setProperty('gf.x', gfx - 300)
+    end
+
+    if curBeat == 96 or curBeat == 160 then
+        setProperty('dad.x', dadx)
+    end
+
+    if curBeat == 240 or curBeat == 256 or curBeat == 272 or curBeat == 336 or curBeat == 352 or curBeat == 384 or curBeat == 400 or curBeat == 448 then
+        setProperty('dad.x', dadx + 100)
+    end
+
+    if curBeat == 224 then
+        setProperty('dad.x', dadx + 200)
+        setProperty('dad.y', getProperty('dad.y') + 50)
+    end
+
+    if curBeat == 288 or curBeat == 416 or curBeat == 432 then
+        setProperty('dad.x', getProperty('dad.x') + 200)
+    end
+
+    if curBeat == 307 or curBeat == 320 then
+        setProperty('dad.x', getProperty('dad.x') + 300)
+    end
+
     if curBeat == 416 then
         doTweenZoom('in', 'camGame', 0.9, 11.3, 'quadInOut')
     end
@@ -51,19 +77,8 @@ local xx2 = 820;
 local yy2 = 510;
 local ofs = 20;
 local followchars = true;
-local del = 0;
-local del2 = 0;
 
 function onUpdate(elapsed)
-    setProperty('gf.x', gfx)
-    setProperty('dad.x', dadx)
-
-    if del > 0 then
-		del = del - 1
-	end
-	if del2 > 0 then
-		del2 = del2 - 1
-	end
     if followchars == true then
         if mustHitSection == false then
             if gfSection then

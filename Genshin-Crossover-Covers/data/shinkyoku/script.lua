@@ -149,6 +149,8 @@ function onStepHit()
     if curStep == 480 then
         removeLuaSprite('diona', true)
         setProperty('keqing.visible', true)
+        setProperty('boyfriend.x', getProperty('boyfriend.x') + 100)
+        setProperty('boyfriend.y', getProperty('boyfriend.y') - 40)
     end
     if curStep == 516 then
         removeLuaSprite('chongyun', true)

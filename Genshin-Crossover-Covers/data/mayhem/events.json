@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiangling-evil-sp1"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiangling-evil-sp2"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						""
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiangling-evil-sp3"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						""
+					]
+				]
+			],
+			[
+				92666.6666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"xiangling"
+					],
+					[
+						"Flash Camera",
+						"camGame",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,7 +1,7 @@
 function onCreate()
     setProperty('dad.x', getProperty('dad.x') - 250)
     setProperty('boyfriend.x', getProperty('boyfriend.x') - 300)
-    setProperty('dad.y', getProperty('dad.y') - 5)
+    setProperty('dad.y', getProperty('dad.y') + 3)
 end
 
 local xx = 920;

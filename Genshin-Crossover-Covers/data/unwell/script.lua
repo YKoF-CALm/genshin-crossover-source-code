@@ -220,6 +220,17 @@ function onCreatePost()
     setObjectOrder('yoimiyaDangerIcon', getObjectOrder('kazuhaDangerIcon') + 1)
     setProperty('yoimiyaDangerIcon.flipX', true)
     setProperty('yoimiyaDangerIcon.visible', false)
+
+    initLuaShader('greyscale')
+    makeLuaSprite("shaderImage")
+    makeGraphic("shaderImage", screenWidth, screenHeight)
+    setSpriteShader("shaderImage", "greyscale")
+    addHaxeLibrary("ShaderFilter", "openfl.filters")
+    runHaxeCode([[
+        trace(ShaderFilter);
+        game.camGame.setFilters([new ShaderFilter(game.getLuaObject("shaderImage").shader)]);
+        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("shaderImage").shader)]);
+    ]])
 end
 
 local xx = 420;
