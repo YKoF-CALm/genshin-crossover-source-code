@@ -1,56 +1,23 @@
 function onCreate()
-	-- background shit
+	makeAnimatedLuaSprite('bg', 'indie/sans/Nightmare Sans Stage',-600,-160)
+    addAnimationByIndices('bg','normal','Normal instance 1', '0', 24)
+	addAnimationByPrefix('bg','beatdrop','Normal instance 1',24,true)
+	addAnimationByPrefix('bg','beatDropFinish','sdfs instance 1',24,false)
+    objectPlayAnimation('bg', 'normal', true)
+    setScrollFactor('bg', 1, 1)
+	addLuaSprite('bg', false)
 
-
-
-	makeAnimatedLuaSprite('SansBS-BG', 'indie/sans/Nightmare Sans Stage',300,500);
-	addAnimationByPrefix('SansBS-BG','BG1','Normal instance 1',24,true);
-	addAnimationByPrefix('SansBS-BG','BG2','sdfs instance 1',24,true);
-	setProperty('SansBS-BG.animation.curAnim.frameRate',0)
-	objectPlayAnimation('SansBS-BG','BG1',false)
-
-
-	addLuaSprite('SansBS-BG', false);
-    if songName == 'Bad-Time' then
-		if not lowQuality and flashingLights then
-			makeAnimatedLuaSprite('BeatSans', 'indie/sans/Nightmare Sans Stage',0,170);
-			addAnimationByPrefix('BeatSans','Beat','dd instance 1',24,false);
-			objectPlayAnimation('BeatSans','Beat',false)
-			setObjectCamera('BeatSans','hud')
-			setBlendMode('BeatSans','add')
-			setProperty('BeatSans.alpha',0.8)
-			BeatEffect = 0
-		end
-	end
-
-end
-
-function onUpdate(elapsed)
-	if curStep == 384 then
-		setProperty('SansBS-BG.animation.curAnim.frameRate', 24)
-	end
-	if songName == 'Bad Time' then
-		if curStep == 512 or curStep == 928 or curStep == 1440 then
-			objectPlayAnimation('SansBS-BG','BG2')	
-		
-			if not lowQuality and flashingLights then
-				BeatEffect = 1;	
-				addLuaSprite('BeatSans',true)
-			end
-		end
-		if curStep == 768 or curStep == 1184 then
-			objectPlayAnimation('SansBS-BG','BG1')	
-			BeatEffect = 0
-			if not lowQuality and flashingLights then
-			 removeLuaSprite('BeatSans',false)
-			end
-		end
-	end
+    if not lowQuality and flashingLights then
+        makeAnimatedLuaSprite('beatDropBG', 'indie/sans/Nightmare Sans Stage',-100,300)
+        addAnimationByPrefix('beatDropBG','beathit','dd instance 1',32,false);
+        setBlendMode('beatDropBG','add')
+        setProperty('beatDropBG.alpha',0)
+        addLuaSprite('beatDropBG', false)
+    end
 end
 
 function onBeatHit()
-	if curBeat % 2 == 0 and BeatEffect == 1 and not lowQuality and flashingLights then
-		objectPlayAnimation('BeatSans','Beat',true)
-	end
+    if curBeat % 2 == 0 then
+        objectPlayAnimation('beatDropBG', 'beathit', true)
+    end
 end
-
