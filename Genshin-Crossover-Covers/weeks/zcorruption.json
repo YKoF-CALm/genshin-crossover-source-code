@@ -1,0 +1,86 @@
+{
+	"storyName": "It's Corruptin' Time",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Duality",
+			"mom-dad-duality",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lament VIP",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+        [
+			"Short Circuit",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dusk VIP",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bedeviled",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mayhem",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Resurgence",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
