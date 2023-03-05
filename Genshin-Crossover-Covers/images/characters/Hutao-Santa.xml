@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hutao-Santa.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down hutao0000" x="0" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0001" x="0" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0002" x="388" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0003" x="388" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0004" x="776" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0005" x="1164" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0006" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0007" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0008" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0009" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0010" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0011" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0012" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0013" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0014" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0015" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0016" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0017" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0018" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0019" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0020" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0021" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0022" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0023" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0024" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0025" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0026" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0027" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0028" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0029" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0030" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0031" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0032" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0033" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0034" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0035" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0036" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0037" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0038" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0039" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0040" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0041" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0042" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0043" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0044" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0045" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0046" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="down hutao0047" x="1552" y="0" width="388" height="669"/>
+	<SubTexture name="hey hutao0000" x="1940" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0001" x="1940" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0002" x="2328" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0003" x="2716" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0004" x="3104" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0005" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0006" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0007" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0008" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0009" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0010" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0011" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0012" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0013" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0014" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0015" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0016" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0017" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0018" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0019" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0020" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0021" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0022" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0023" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0024" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="hey hutao0025" x="3492" y="0" width="388" height="717"/>
+	<SubTexture name="idle hutao0000" x="0" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0001" x="0" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0002" x="388" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0003" x="388" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0004" x="776" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0005" x="776" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0006" x="1164" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0007" x="1552" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0008" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0009" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0010" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0011" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0012" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0013" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0014" x="2328" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0015" x="2716" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0016" x="2716" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0017" x="3104" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0018" x="3104" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0019" x="3492" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0020" x="3492" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0021" x="0" y="1434" width="388" height="717"/>
+	<SubTexture name="idle hutao0022" x="388" y="1434" width="388" height="717"/>
+	<SubTexture name="idle hutao0023" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0024" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0025" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0026" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0027" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0028" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0029" x="1940" y="717" width="388" height="717"/>
+	<SubTexture name="idle hutao0030" x="776" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0000" x="1164" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0001" x="1164" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0002" x="1552" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0003" x="1552" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0004" x="1940" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0005" x="1940" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0006" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0007" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0008" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0009" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0010" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0011" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0012" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0013" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0014" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="laugh hutao0015" x="2328" y="1434" width="388" height="717"/>
+	<SubTexture name="left hutao0000" x="2716" y="1434" width="388" height="695" frameX="-3" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0001" x="2716" y="1434" width="388" height="695" frameX="-3" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0002" x="3104" y="1434" width="388" height="695" frameX="-3" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0003" x="3104" y="1434" width="388" height="695" frameX="-3" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0004" x="3492" y="1434" width="391" height="695"/>
+	<SubTexture name="left hutao0005" x="3492" y="1434" width="391" height="695"/>
+	<SubTexture name="left hutao0006" x="0" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0007" x="390" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0008" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0009" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0010" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0011" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0012" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0013" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0014" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0015" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0016" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0017" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0018" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0019" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0020" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0021" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0022" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0023" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0024" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0025" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0026" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0027" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0028" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0029" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0030" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0031" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0032" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0033" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0034" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0035" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0036" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0037" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0038" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0039" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0040" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0041" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0042" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0043" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0044" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0045" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0046" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="left hutao0047" x="780" y="2151" width="390" height="695" frameX="-1" frameY="0" frameWidth="391" frameHeight="695"/>
+	<SubTexture name="right hutao0000" x="1170" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0001" x="1170" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0002" x="1662" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0003" x="1662" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0004" x="2154" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0005" x="2646" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0006" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0007" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0008" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0009" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0010" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0011" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0012" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0013" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0014" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0015" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0016" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0017" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0018" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0019" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0020" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0021" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0022" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0023" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0024" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0025" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0026" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0027" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0028" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0029" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0030" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0031" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0032" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0033" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0034" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0035" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0036" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0037" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0038" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0039" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0040" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0041" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0042" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0043" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0044" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0045" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0046" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="right hutao0047" x="3138" y="2151" width="492" height="717"/>
+	<SubTexture name="up hutao0000" x="3630" y="2151" width="411" height="732"/>
+	<SubTexture name="up hutao0001" x="3630" y="2151" width="411" height="732"/>
+	<SubTexture name="up hutao0002" x="0" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0003" x="0" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0004" x="411" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0005" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0006" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0007" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0008" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0009" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0010" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0011" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0012" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0013" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0014" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0015" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0016" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0017" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0018" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0019" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0020" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0021" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0022" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0023" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0024" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0025" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0026" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0027" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0028" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0029" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0030" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0031" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0032" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0033" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0034" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0035" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0036" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0037" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0038" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0039" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0040" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0041" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0042" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0043" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0044" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0045" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0046" x="822" y="2883" width="411" height="732"/>
+	<SubTexture name="up hutao0047" x="822" y="2883" width="411" height="732"/>
+</TextureAtlas>

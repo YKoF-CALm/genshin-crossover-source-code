@@ -96,186 +96,186 @@
 	<SubTexture name="idle kokomi0013" x="3670" y="708" width="367" height="708"/>
 	<SubTexture name="idle kokomi0014" x="0" y="1416" width="367" height="708"/>
 	<SubTexture name="idle kokomi0015" x="367" y="1416" width="367" height="708"/>
-	<SubTexture name="left kokomi0000" x="734" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0001" x="734" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0002" x="1093" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0003" x="1093" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0004" x="1452" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0005" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0006" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0007" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0008" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0009" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0010" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0011" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0012" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0013" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0014" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0015" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0016" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0017" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0018" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0019" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0020" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0021" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0022" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0023" x="2170" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0024" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="left kokomi0025" x="1811" y="1416" width="359" height="710"/>
-	<SubTexture name="missdown kokomi0000" x="2529" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0001" x="2906" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0002" x="2906" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0003" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0004" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0005" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0006" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0007" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0008" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0009" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0010" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0011" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0012" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0013" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0014" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0015" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0016" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0017" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0018" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0019" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0020" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0021" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0022" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0023" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0024" x="3283" y="1416" width="377" height="708"/>
-	<SubTexture name="missdown kokomi0025" x="3660" y="1416" width="377" height="708"/>
-	<SubTexture name="missleft kokomi0000" x="0" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0001" x="359" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0002" x="359" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0003" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0004" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0005" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0006" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0007" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0008" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0009" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0010" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0011" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0012" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0013" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0014" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0015" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0016" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0017" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0018" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0019" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0020" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0021" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0022" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0023" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0024" x="718" y="2126" width="359" height="710"/>
-	<SubTexture name="missleft kokomi0025" x="1077" y="2126" width="359" height="710"/>
-	<SubTexture name="missright kokomi0000" x="1436" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0001" x="1826" y="2126" width="392" height="708"/>
-	<SubTexture name="missright kokomi0002" x="1826" y="2126" width="392" height="708"/>
-	<SubTexture name="missright kokomi0003" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0004" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0005" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0006" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0007" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0008" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0009" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0010" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0011" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0012" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0013" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0014" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0015" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0016" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0017" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0018" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0019" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0020" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0021" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0022" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0023" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0024" x="2218" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missright kokomi0025" x="2608" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
-	<SubTexture name="missup kokomi0000" x="2998" y="2126" width="510" height="798"/>
-	<SubTexture name="missup kokomi0001" x="3508" y="2126" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0002" x="3508" y="2126" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0003" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0004" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0005" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0006" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0007" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0008" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0009" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0010" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0011" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0012" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0013" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0014" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0015" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0016" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0017" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0018" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0019" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0020" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0021" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0022" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0023" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0024" x="0" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="missup kokomi0025" x="510" y="2924" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="right kokomi0000" x="1020" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0001" x="1020" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0002" x="1410" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0003" x="1410" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0004" x="1800" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0005" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0006" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0007" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0008" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0009" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0010" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0011" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0012" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0013" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0014" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0015" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0016" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0017" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0018" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0019" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0020" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0021" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0022" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0023" x="2580" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0024" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="right kokomi0025" x="2190" y="2924" width="390" height="708"/>
-	<SubTexture name="up kokomi0000" x="2970" y="2924" width="510" height="798"/>
-	<SubTexture name="up kokomi0001" x="3480" y="2924" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0002" x="0" y="3722" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0003" x="510" y="3722" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0004" x="1020" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0005" x="1530" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0006" x="2040" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0007" x="2550" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0008" x="3060" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0009" x="3570" y="3722" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0010" x="0" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0011" x="510" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0012" x="1020" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0013" x="1530" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0014" x="2040" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0015" x="2550" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0016" x="3060" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0017" x="3570" y="4515" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0018" x="0" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0019" x="510" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0020" x="1020" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0021" x="1530" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0022" x="2040" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0023" x="2550" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0024" x="3060" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
-	<SubTexture name="up kokomi0025" x="3570" y="5306" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="left kokomi0000" x="734" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0001" x="734" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0002" x="1097" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0003" x="1097" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0004" x="1460" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0005" x="1823" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0006" x="2186" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0007" x="2549" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0008" x="2912" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0009" x="3275" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0010" x="3638" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0011" x="2549" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0012" x="2912" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0013" x="3275" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0014" x="3638" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0015" x="2549" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0016" x="2912" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0017" x="3275" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0018" x="3638" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0019" x="2549" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0020" x="2912" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0021" x="3275" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0022" x="3638" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0023" x="2549" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0024" x="2912" y="1416" width="363" height="710"/>
+	<SubTexture name="left kokomi0025" x="3275" y="1416" width="363" height="710"/>
+	<SubTexture name="missdown kokomi0000" x="0" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0001" x="377" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0002" x="377" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0003" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0004" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0005" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0006" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0007" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0008" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0009" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0010" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0011" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0012" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0013" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0014" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0015" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0016" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0017" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0018" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0019" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0020" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0021" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0022" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0023" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0024" x="754" y="2126" width="377" height="708"/>
+	<SubTexture name="missdown kokomi0025" x="1131" y="2126" width="377" height="708"/>
+	<SubTexture name="missleft kokomi0000" x="1508" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0001" x="1867" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0002" x="1867" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0003" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0004" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0005" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0006" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0007" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0008" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0009" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0010" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0011" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0012" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0013" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0014" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0015" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0016" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0017" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0018" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0019" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0020" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0021" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0022" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0023" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0024" x="2226" y="2126" width="359" height="710"/>
+	<SubTexture name="missleft kokomi0025" x="2585" y="2126" width="359" height="710"/>
+	<SubTexture name="missright kokomi0000" x="2944" y="2126" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0001" x="3334" y="2126" width="392" height="708"/>
+	<SubTexture name="missright kokomi0002" x="3334" y="2126" width="392" height="708"/>
+	<SubTexture name="missright kokomi0003" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0004" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0005" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0006" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0007" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0008" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0009" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0010" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0011" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0012" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0013" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0014" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0015" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0016" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0017" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0018" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0019" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0020" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0021" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0022" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0023" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0024" x="0" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missright kokomi0025" x="390" y="2836" width="390" height="708" frameX="0" frameY="0" frameWidth="392" frameHeight="708"/>
+	<SubTexture name="missup kokomi0000" x="780" y="2836" width="510" height="798"/>
+	<SubTexture name="missup kokomi0001" x="1290" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0002" x="1290" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0003" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0004" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0005" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0006" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0007" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0008" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0009" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0010" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0011" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0012" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0013" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0014" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0015" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0016" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0017" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0018" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0019" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0020" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0021" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0022" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0023" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0024" x="1800" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="missup kokomi0025" x="2310" y="2836" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="right kokomi0000" x="2820" y="2836" width="390" height="708"/>
+	<SubTexture name="right kokomi0001" x="2820" y="2836" width="390" height="708"/>
+	<SubTexture name="right kokomi0002" x="3210" y="2836" width="390" height="708"/>
+	<SubTexture name="right kokomi0003" x="3210" y="2836" width="390" height="708"/>
+	<SubTexture name="right kokomi0004" x="3600" y="2836" width="390" height="708"/>
+	<SubTexture name="right kokomi0005" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0006" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0007" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0008" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0009" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0010" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0011" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0012" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0013" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0014" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0015" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0016" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0017" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0018" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0019" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0020" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0021" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0022" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0023" x="390" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0024" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="right kokomi0025" x="0" y="3634" width="390" height="708"/>
+	<SubTexture name="up kokomi0000" x="780" y="3634" width="510" height="798"/>
+	<SubTexture name="up kokomi0001" x="1290" y="3634" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0002" x="1800" y="3634" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0003" x="2310" y="3634" width="510" height="793" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0004" x="2820" y="3634" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0005" x="3330" y="3634" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0006" x="0" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0007" x="510" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0008" x="1020" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0009" x="1530" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0010" x="2040" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0011" x="2550" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0012" x="3060" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0013" x="3570" y="4432" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0014" x="0" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0015" x="510" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0016" x="1020" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0017" x="1530" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0018" x="2040" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0019" x="2550" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0020" x="3060" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0021" x="3570" y="5223" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0022" x="0" y="6014" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0023" x="510" y="6014" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0024" x="1020" y="6014" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
+	<SubTexture name="up kokomi0025" x="1530" y="6014" width="510" height="791" frameX="0" frameY="0" frameWidth="510" frameHeight="798"/>
 </TextureAtlas>

@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Xiangling-CHEF.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEY xian0000" x="0" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0001" x="0" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0002" x="365" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0003" x="365" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0004" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0005" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0006" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0007" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0008" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0009" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0010" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0011" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0012" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0013" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0014" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0015" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0016" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0017" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0018" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0019" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0020" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0021" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0022" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="HEY xian0023" x="730" y="0" width="365" height="855"/>
+	<SubTexture name="down xian0000" x="1095" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0001" x="1095" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0002" x="1436" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0003" x="1436" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0004" x="1777" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0005" x="1777" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0006" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0007" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0008" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0009" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0010" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0011" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0012" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0013" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0014" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0015" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0016" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0017" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0018" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0019" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0020" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0021" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0022" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0023" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0024" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0025" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0026" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0027" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0028" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0029" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0030" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0031" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0032" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0033" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0034" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0035" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0036" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0037" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0038" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0039" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0040" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0041" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0042" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0043" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0044" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0045" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0046" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="down xian0047" x="2118" y="0" width="341" height="850"/>
+	<SubTexture name="excited down xian0000" x="2459" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0001" x="2459" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0002" x="2844" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0003" x="2844" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0004" x="3229" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0005" x="3229" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0006" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0007" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0008" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0009" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0010" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0011" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0012" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0013" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0014" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0015" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0016" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0017" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0018" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0019" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0020" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0021" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0022" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0023" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0024" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0025" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0026" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0027" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0028" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0029" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0030" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0031" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0032" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0033" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0034" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0035" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0036" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0037" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0038" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0039" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0040" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0041" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0042" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0043" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0044" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0045" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0046" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited down xian0047" x="3614" y="0" width="385" height="844"/>
+	<SubTexture name="excited up xian0000" x="0" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0001" x="0" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0002" x="358" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0003" x="358" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0004" x="716" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0005" x="716" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0006" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0007" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0008" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0009" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0010" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0011" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0012" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0013" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0014" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0015" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0016" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0017" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0018" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0019" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0020" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0021" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0022" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0023" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0024" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0025" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0026" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0027" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0028" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0029" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0030" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0031" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0032" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0033" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0034" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0035" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0036" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0037" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0038" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0039" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0040" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0041" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0042" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0043" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0044" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0045" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0046" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="excited up xian0047" x="1074" y="855" width="358" height="868"/>
+	<SubTexture name="idle xian0000" x="1432" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0001" x="1432" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0002" x="1785" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0003" x="1785" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0004" x="2138" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0005" x="2138" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0006" x="2491" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0007" x="2491" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0008" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0009" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0010" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0011" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0012" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0013" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0014" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="idle xian0015" x="2844" y="855" width="353" height="855"/>
+	<SubTexture name="left xian0000" x="3197" y="855" width="396" height="855"/>
+	<SubTexture name="left xian0001" x="3197" y="855" width="396" height="855"/>
+	<SubTexture name="left xian0002" x="3593" y="855" width="396" height="855"/>
+	<SubTexture name="left xian0003" x="3593" y="855" width="396" height="855"/>
+	<SubTexture name="left xian0004" x="0" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0005" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0006" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0007" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0008" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0009" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0010" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0011" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0012" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0013" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0014" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0015" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0016" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0017" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0018" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0019" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0020" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0021" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0022" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0023" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0024" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0025" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0026" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0027" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0028" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0029" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0030" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0031" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0032" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0033" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0034" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0035" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0036" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0037" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0038" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0039" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0040" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0041" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0042" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0043" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0044" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0045" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="left xian0046" x="396" y="1723" width="396" height="855"/>
+	<SubTexture name="right xian0000" x="792" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0001" x="792" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0002" x="1197" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0003" x="1197" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0004" x="1602" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0005" x="2007" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0006" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0007" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0008" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0009" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0010" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0011" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0012" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0013" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0014" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0015" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0016" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0017" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0018" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0019" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0020" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0021" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0022" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0023" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0024" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0025" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0026" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0027" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0028" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0029" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0030" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0031" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0032" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0033" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0034" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0035" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0036" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0037" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0038" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0039" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0040" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0041" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0042" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0043" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0044" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0045" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0046" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="right xian0047" x="2412" y="1723" width="405" height="854"/>
+	<SubTexture name="up xian0000" x="2817" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0001" x="2817" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0002" x="3149" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0003" x="3149" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0004" x="3481" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0005" x="3481" y="1723" width="332" height="868"/>
+	<SubTexture name="up xian0006" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0007" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0008" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0009" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0010" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0011" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0012" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0013" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0014" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0015" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0016" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0017" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0018" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0019" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0020" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0021" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0022" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0023" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0024" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0025" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0026" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0027" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0028" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0029" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0030" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0031" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0032" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0033" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0034" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0035" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0036" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0037" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0038" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0039" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0040" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0041" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0042" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0043" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0044" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0045" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0046" x="0" y="2591" width="332" height="868"/>
+	<SubTexture name="up xian0047" x="0" y="2591" width="332" height="868"/>
+</TextureAtlas>

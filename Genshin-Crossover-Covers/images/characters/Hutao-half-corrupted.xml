@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hutao-half-corrupted.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle hutao0000" x="0" y="0" width="390" height="679"/>
+	<SubTexture name="idle hutao0001" x="0" y="0" width="390" height="679"/>
+	<SubTexture name="idle hutao0002" x="390" y="0" width="390" height="679"/>
+	<SubTexture name="idle hutao0003" x="390" y="0" width="390" height="679"/>
+	<SubTexture name="idle hutao0004" x="0" y="679" width="390" height="679"/>
+	<SubTexture name="idle hutao0005" x="390" y="679" width="390" height="679"/>
+	<SubTexture name="idle hutao0006" x="0" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0007" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0008" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0009" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0010" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0011" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0012" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0013" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0014" x="390" y="1358" width="390" height="679"/>
+	<SubTexture name="idle hutao0015" x="390" y="1358" width="390" height="679"/>
+</TextureAtlas>

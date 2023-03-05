@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Keqing-Nightmare.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down keqing0000" x="0" y="0" width="859" height="838"/>
+	<SubTexture name="down keqing0001" x="859" y="0" width="859" height="838"/>
+	<SubTexture name="down keqing0002" x="1718" y="0" width="859" height="838"/>
+	<SubTexture name="down keqing0003" x="2577" y="0" width="859" height="838"/>
+	<SubTexture name="down keqing0004" x="0" y="838" width="859" height="838"/>
+	<SubTexture name="down keqing0005" x="859" y="838" width="859" height="838"/>
+	<SubTexture name="down keqing0006" x="1718" y="838" width="859" height="838"/>
+	<SubTexture name="down keqing0007" x="2577" y="0" width="859" height="838"/>
+	<SubTexture name="idle keqing0000" x="2577" y="838" width="552" height="741"/>
+	<SubTexture name="idle keqing0001" x="3129" y="838" width="552" height="741"/>
+	<SubTexture name="idle keqing0002" x="0" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0003" x="552" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0004" x="1104" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0005" x="1656" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0006" x="2208" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0007" x="2760" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0008" x="3312" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0009" x="0" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0010" x="552" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0011" x="1104" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0012" x="3312" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0013" x="1656" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0014" x="2208" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0015" x="1104" y="2417" width="552" height="741"/>
+	<SubTexture name="idle keqing0016" x="3312" y="1676" width="552" height="741"/>
+	<SubTexture name="idle keqing0017" x="2760" y="2417" width="552" height="741"/>
+	<SubTexture name="left keqing0000" x="3312" y="2417" width="550" height="741"/>
+	<SubTexture name="left keqing0001" x="0" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0002" x="550" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0003" x="1100" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0004" x="1650" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0005" x="2200" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0006" x="2750" y="3158" width="550" height="741"/>
+	<SubTexture name="left keqing0007" x="1100" y="3158" width="550" height="741"/>
+	<SubTexture name="right keqing0000" x="0" y="3899" width="835" height="916"/>
+	<SubTexture name="right keqing0001" x="835" y="3899" width="835" height="916"/>
+	<SubTexture name="right keqing0002" x="1670" y="3899" width="835" height="916"/>
+	<SubTexture name="right keqing0003" x="2505" y="3899" width="835" height="916"/>
+	<SubTexture name="right keqing0004" x="0" y="4815" width="835" height="916"/>
+	<SubTexture name="right keqing0005" x="835" y="4815" width="835" height="916"/>
+	<SubTexture name="right keqing0006" x="1670" y="4815" width="835" height="916"/>
+	<SubTexture name="right keqing0007" x="2505" y="4815" width="835" height="916"/>
+	<SubTexture name="upkeq0000" x="3340" y="4815" width="551" height="766"/>
+	<SubTexture name="upkeq0001" x="0" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0002" x="551" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0003" x="1102" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0004" x="1653" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0005" x="2204" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0006" x="2755" y="5731" width="551" height="766"/>
+	<SubTexture name="upkeq0007" x="1102" y="5731" width="551" height="766"/>
+</TextureAtlas>

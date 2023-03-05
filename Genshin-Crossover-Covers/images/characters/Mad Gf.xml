@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mad Gf.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle mad gf0000" x="0" y="0" width="317" height="466"/>
+	<SubTexture name="idle mad gf0001" x="317" y="0" width="317" height="466"/>
+	<SubTexture name="idle mad gf0002" x="634" y="0" width="317" height="466"/>
+	<SubTexture name="idle mad gf0003" x="0" y="466" width="317" height="466"/>
+	<SubTexture name="idle mad gf0004" x="317" y="466" width="317" height="466"/>
+	<SubTexture name="idle mad gf0005" x="634" y="466" width="317" height="466"/>
+	<SubTexture name="idle mad gf0006" x="0" y="932" width="317" height="466"/>
+	<SubTexture name="idle mad gf0007" x="317" y="932" width="317" height="466"/>
+	<SubTexture name="idle mad gf0008" x="634" y="932" width="317" height="466"/>
+	<SubTexture name="idle mad gf0009" x="0" y="1398" width="317" height="466"/>
+	<SubTexture name="idle mad gf0010" x="0" y="1398" width="317" height="466"/>
+	<SubTexture name="idle mad gf0011" x="634" y="932" width="317" height="466"/>
+	<SubTexture name="idle mad gf0012" x="634" y="932" width="317" height="466"/>
+	<SubTexture name="idle mad gf0013" x="0" y="1398" width="317" height="466"/>
+	<SubTexture name="idle mad gf0014" x="0" y="1398" width="317" height="466"/>
+	<SubTexture name="idle mad gf0015" x="634" y="932" width="317" height="466"/>
+</TextureAtlas>
