@@ -1,0 +1,167 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		-30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loophappy zhongli",
+			"idle_name": "happy zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "looptalk zhongli",
+			"idle_name": "talk zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopangry zhongli",
+			"idle_name": "angry zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopannoyed zhongli",
+			"idle_name": "annoyed zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "black",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "black zhongli",
+			"idle_name": "black zhongli"
+		},
+		{
+			"loop_offsets": [
+				-5,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-5,
+				0
+			],
+			"loop_name": "looppissed zhongli",
+			"idle_name": "pissed zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopsad zhongli",
+			"idle_name": "sad zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopscared zhongli",
+			"idle_name": "scared zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "looptired zhongli",
+			"idle_name": "tired zhongli"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "nervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopnervous zhongli",
+			"idle_name": "nervous zhongli"
+		},
+		{
+			"loop_name": "nightmare zhongli",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "nightmare zhongli",
+			"anim": "nightmare",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ac nightmare zhongli",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ac nightmare zhongli",
+			"anim": "nightmare ac",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "zhongli-dial"
+}

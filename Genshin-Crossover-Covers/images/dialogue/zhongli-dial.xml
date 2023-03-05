@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zhongli-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ac nightmare zhongli0000" x="0" y="0" width="388" height="567"/>
+	<SubTexture name="angry zhongli0000" x="388" y="567" width="388" height="567"/>
+	<SubTexture name="annoyed zhongli0000" x="388" y="0" width="388" height="567"/>
+	<SubTexture name="black zhongli0000" x="776" y="0" width="388" height="567"/>
+	<SubTexture name="happy zhongli0000" x="1164" y="0" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0000" x="1552" y="0" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0001" x="1552" y="0" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0002" x="0" y="567" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0003" x="0" y="567" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0004" x="388" y="567" width="388" height="567"/>
+	<SubTexture name="loopangry zhongli0005" x="388" y="567" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0000" x="776" y="567" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0001" x="776" y="567" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0002" x="1164" y="567" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0003" x="1164" y="567" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0004" x="388" y="0" width="388" height="567"/>
+	<SubTexture name="loopannoyed zhongli0005" x="388" y="0" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0000" x="1552" y="567" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0001" x="1552" y="567" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0002" x="0" y="1134" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0003" x="0" y="1134" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0004" x="1164" y="0" width="388" height="567"/>
+	<SubTexture name="loophappy zhongli0005" x="1164" y="0" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0000" x="388" y="1134" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0001" x="388" y="1134" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0002" x="776" y="1134" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0003" x="776" y="1134" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0004" x="1164" y="1134" width="388" height="567"/>
+	<SubTexture name="loopnervous zhongli0005" x="1164" y="1134" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0000" x="1552" y="1134" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0001" x="1552" y="1134" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0002" x="0" y="1701" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0003" x="0" y="1701" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0004" x="776" y="2835" width="388" height="567"/>
+	<SubTexture name="looppissed zhongli0005" x="776" y="2835" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0000" x="388" y="1701" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0001" x="388" y="1701" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0002" x="776" y="1701" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0003" x="776" y="1701" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0004" x="1164" y="1701" width="388" height="567"/>
+	<SubTexture name="loopsad zhongli0005" x="1164" y="1701" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0000" x="1552" y="1701" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0001" x="1552" y="1701" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0002" x="0" y="2268" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0003" x="0" y="2268" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0004" x="1164" y="2835" width="388" height="567"/>
+	<SubTexture name="loopscared zhongli0005" x="1164" y="2835" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0000" x="388" y="2268" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0001" x="388" y="2268" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0002" x="776" y="2268" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0003" x="776" y="2268" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0004" x="1552" y="2835" width="388" height="567"/>
+	<SubTexture name="looptalk zhongli0005" x="1552" y="2835" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0000" x="1164" y="2268" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0001" x="1164" y="2268" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0002" x="1552" y="2268" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0003" x="1552" y="2268" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0004" x="0" y="2835" width="388" height="567"/>
+	<SubTexture name="looptired zhongli0005" x="0" y="2835" width="388" height="567"/>
+	<SubTexture name="nervous zhongli0000" x="1164" y="1134" width="388" height="567"/>
+	<SubTexture name="nightmare zhongli0000" x="388" y="2835" width="388" height="567"/>
+	<SubTexture name="pissed zhongli0000" x="776" y="2835" width="388" height="567"/>
+	<SubTexture name="sad zhongli0000" x="1164" y="1701" width="388" height="567"/>
+	<SubTexture name="scared zhongli0000" x="1164" y="2835" width="388" height="567"/>
+	<SubTexture name="talk zhongli0000" x="1552" y="2835" width="388" height="567"/>
+	<SubTexture name="tired zhongli0000" x="0" y="2835" width="388" height="567"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil-xiangling-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry evil xian0000" x="0" y="0" width="304" height="500"/>
+	<SubTexture name="angry evil xian0001" x="0" y="0" width="304" height="500"/>
+	<SubTexture name="angry evil xian0002" x="0" y="0" width="304" height="500"/>
+	<SubTexture name="angry evil xian0003" x="0" y="0" width="304" height="500"/>
+	<SubTexture name="black evil xian0000" x="304" y="0" width="304" height="500"/>
+	<SubTexture name="evil xian0000" x="608" y="0" width="304" height="500"/>
+	<SubTexture name="evil xian0001" x="608" y="0" width="304" height="500"/>
+	<SubTexture name="evil xian0002" x="608" y="0" width="304" height="500"/>
+	<SubTexture name="evil xian0003" x="608" y="0" width="304" height="500"/>
+</TextureAtlas>

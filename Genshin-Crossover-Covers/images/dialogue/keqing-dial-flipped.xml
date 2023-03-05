@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keqing-dial-flipped.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awkward keqing0000" x="0" y="0" width="357" height="598"/>
+	<SubTexture name="challenge keqing0000" x="2141" y="0" width="536" height="598"/>
+	<SubTexture name="happy keqing0000" x="3389" y="0" width="356" height="598"/>
+	<SubTexture name="loopawkward keqing0000" x="357" y="0" width="356" height="598"/>
+	<SubTexture name="loopawkward keqing0001" x="357" y="0" width="356" height="598"/>
+	<SubTexture name="loopawkward keqing0002" x="713" y="0" width="356" height="598"/>
+	<SubTexture name="loopawkward keqing0003" x="713" y="0" width="356" height="598"/>
+	<SubTexture name="loopawkward keqing0004" x="0" y="0" width="357" height="598"/>
+	<SubTexture name="loopawkward keqing0005" x="0" y="0" width="357" height="598"/>
+	<SubTexture name="loopchallenge keqing0000" x="1069" y="0" width="536" height="598"/>
+	<SubTexture name="loopchallenge keqing0001" x="1069" y="0" width="536" height="598"/>
+	<SubTexture name="loopchallenge keqing0002" x="1605" y="0" width="536" height="598"/>
+	<SubTexture name="loopchallenge keqing0003" x="1605" y="0" width="536" height="598"/>
+	<SubTexture name="loopchallenge keqing0004" x="2141" y="0" width="536" height="598"/>
+	<SubTexture name="loopchallenge keqing0005" x="2141" y="0" width="536" height="598"/>
+	<SubTexture name="loophappy keqing0000" x="2677" y="0" width="356" height="598"/>
+	<SubTexture name="loophappy keqing0001" x="2677" y="0" width="356" height="598"/>
+	<SubTexture name="loophappy keqing0002" x="3033" y="0" width="356" height="598"/>
+	<SubTexture name="loophappy keqing0003" x="3033" y="0" width="356" height="598"/>
+	<SubTexture name="loophappy keqing0004" x="3389" y="0" width="356" height="598"/>
+	<SubTexture name="loophappy keqing0005" x="3389" y="0" width="356" height="598"/>
+	<SubTexture name="loopmelon keqing0000" x="0" y="598" width="357" height="598"/>
+	<SubTexture name="loopmelon keqing0001" x="0" y="598" width="357" height="598"/>
+	<SubTexture name="loopmelon keqing0002" x="357" y="598" width="357" height="598"/>
+	<SubTexture name="loopmelon keqing0003" x="357" y="598" width="357" height="598"/>
+	<SubTexture name="loopmelon keqing0004" x="714" y="598" width="357" height="598"/>
+	<SubTexture name="loopmelon keqing0005" x="714" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0000" x="1071" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0001" x="1071" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0002" x="1428" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0003" x="1428" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0004" x="1785" y="598" width="357" height="598"/>
+	<SubTexture name="loopnervous keqing0005" x="1785" y="598" width="357" height="598"/>
+	<SubTexture name="loopnormal keqing0000" x="2142" y="598" width="356" height="598"/>
+	<SubTexture name="loopnormal keqing0001" x="2142" y="598" width="356" height="598"/>
+	<SubTexture name="loopnormal keqing0002" x="2498" y="598" width="356" height="598"/>
+	<SubTexture name="loopnormal keqing0003" x="2498" y="598" width="356" height="598"/>
+	<SubTexture name="loopnormal keqing0004" x="2854" y="598" width="356" height="598"/>
+	<SubTexture name="loopnormal keqing0005" x="2854" y="598" width="356" height="598"/>
+	<SubTexture name="looppissed keqing0000" x="3210" y="598" width="357" height="598"/>
+	<SubTexture name="looppissed keqing0001" x="3210" y="598" width="357" height="598"/>
+	<SubTexture name="looppissed keqing0002" x="3567" y="598" width="357" height="598"/>
+	<SubTexture name="looppissed keqing0003" x="3567" y="598" width="357" height="598"/>
+	<SubTexture name="looppissed keqing0004" x="2957" y="1196" width="357" height="598"/>
+	<SubTexture name="looppissed keqing0005" x="2957" y="1196" width="357" height="598"/>
+	<SubTexture name="loopshocked keqing0000" x="0" y="1196" width="369" height="605"/>
+	<SubTexture name="loopshocked keqing0001" x="0" y="1196" width="369" height="605"/>
+	<SubTexture name="loopshocked keqing0002" x="369" y="1196" width="369" height="605"/>
+	<SubTexture name="loopshocked keqing0003" x="369" y="1196" width="369" height="605"/>
+	<SubTexture name="loopshocked keqing0004" x="738" y="1196" width="369" height="598" frameX="0" frameY="-7" frameWidth="369" frameHeight="605"/>
+	<SubTexture name="loopshocked keqing0005" x="738" y="1196" width="369" height="598" frameX="0" frameY="-7" frameWidth="369" frameHeight="605"/>
+	<SubTexture name="loopthink keqing0000" x="1107" y="1196" width="370" height="598"/>
+	<SubTexture name="loopthink keqing0001" x="1107" y="1196" width="370" height="598"/>
+	<SubTexture name="loopthink keqing0002" x="1477" y="1196" width="370" height="598"/>
+	<SubTexture name="loopthink keqing0003" x="1477" y="1196" width="370" height="598"/>
+	<SubTexture name="loopthink keqing0004" x="3683" y="1196" width="370" height="598"/>
+	<SubTexture name="loopthink keqing0005" x="3683" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0000" x="1847" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0001" x="1847" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0002" x="2217" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0003" x="2217" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0004" x="2587" y="1196" width="370" height="598"/>
+	<SubTexture name="looptired keqing0005" x="2587" y="1196" width="370" height="598"/>
+	<SubTexture name="melon keqing0000" x="714" y="598" width="357" height="598"/>
+	<SubTexture name="nervous keqing0000" x="1785" y="598" width="357" height="598"/>
+	<SubTexture name="normal keqing0000" x="2854" y="598" width="356" height="598"/>
+	<SubTexture name="pissed keqing0000" x="2957" y="1196" width="357" height="598"/>
+	<SubTexture name="shocked keqing0000" x="738" y="1196" width="369" height="598" frameX="0" frameY="0" frameWidth="369" frameHeight="605"/>
+	<SubTexture name="shocked keqing0001" x="738" y="1196" width="369" height="598" frameX="0" frameY="0" frameWidth="369" frameHeight="605"/>
+	<SubTexture name="shocked keqing0002" x="3314" y="1196" width="369" height="598"/>
+	<SubTexture name="shocked keqing0003" x="3314" y="1196" width="369" height="598"/>
+	<SubTexture name="think keqing0000" x="3683" y="1196" width="370" height="598"/>
+	<SubTexture name="tired keqing0000" x="0" y="1801" width="370" height="598"/>
+</TextureAtlas>

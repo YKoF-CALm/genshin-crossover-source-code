@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil-keqing-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dark evil keqing0000" x="0" y="0" width="357" height="598"/>
+	<SubTexture name="evil keqing0000" x="357" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0000" x="714" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0001" x="714" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0002" x="714" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0003" x="1071" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0004" x="1071" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0005" x="1428" y="0" width="357" height="598"/>
+	<SubTexture name="laugh evil keqing0006" x="0" y="598" width="357" height="598"/>
+	<SubTexture name="scary evil keqing0000" x="357" y="598" width="356" height="598"/>
+	<SubTexture name="scary evil keqing0001" x="357" y="598" width="356" height="598"/>
+	<SubTexture name="scary evil keqing0002" x="357" y="598" width="356" height="598"/>
+	<SubTexture name="scary evil keqing0003" x="357" y="598" width="356" height="598"/>
+	<SubTexture name="very scary evil keqing0000" x="713" y="598" width="356" height="598"/>
+	<SubTexture name="very scary evil keqing0001" x="713" y="598" width="356" height="598"/>
+</TextureAtlas>

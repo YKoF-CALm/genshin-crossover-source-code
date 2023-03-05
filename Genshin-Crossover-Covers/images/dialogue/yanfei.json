@@ -1,0 +1,89 @@
+{
+	"position": [
+		30,
+		-40
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "yanfei-dial",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal yanfei",
+			"loop_name": "loopnormal yanfei"
+		},
+		{
+			"loop_offsets": [
+				13,
+				0
+			],
+			"anim": "nervous",
+			"idle_offsets": [
+				13,
+				0
+			],
+			"loop_name": "loopnervous yanfei",
+			"idle_name": "nervous yanfei"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopbruh yanfei",
+			"idle_name": "bruh yanfei"
+		},
+		{
+			"loop_offsets": [
+				13,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				13,
+				0
+			],
+			"loop_name": "looppissed yanfei",
+			"idle_name": "pissed yanfei"
+		},
+		{
+			"loop_offsets": [
+				43,
+				0
+			],
+			"anim": "pissed v2",
+			"idle_offsets": [
+				43,
+				0
+			],
+			"loop_name": "looppissed v2 yanfei",
+			"idle_name": "pissed v2 yanfei"
+		},
+		{
+			"loop_offsets": [
+				17,
+				0
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				17,
+				0
+			],
+			"loop_name": "looptired yanfei",
+			"idle_name": "tired yanfei"
+		}
+	]
+}

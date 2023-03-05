@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nyanfei-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a nyanfei0000" x="0" y="0" width="419" height="510"/>
+	<SubTexture name="a nyanfei0001" x="419" y="0" width="419" height="510"/>
+	<SubTexture name="a nyanfei0002" x="0" y="510" width="419" height="510"/>
+	<SubTexture name="a nyanfei0003" x="419" y="510" width="419" height="510"/>
+	<SubTexture name="normal nyanfei0000" x="0" y="1020" width="353" height="510"/>
+	<SubTexture name="surprised nyanfei0000" x="353" y="1020" width="353" height="510"/>
+</TextureAtlas>

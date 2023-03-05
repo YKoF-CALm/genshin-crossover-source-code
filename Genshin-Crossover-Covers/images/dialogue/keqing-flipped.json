@@ -1,0 +1,141 @@
+{
+	"position": [
+		120,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "keqing-dial-flipped",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal keqing",
+			"loop_name": "loopnormal keqing"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pissed keqing",
+			"loop_name": "looppissed keqing"
+		},
+		{
+			"idle_offsets": [
+				14,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				14,
+				5
+			],
+			"idle_name": "shocked keqing",
+			"loop_name": "loopshocked keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "awkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopawkward keqing",
+			"idle_name": "awkward keqing"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				18
+			],
+			"anim": "challenge",
+			"idle_offsets": [
+				-3,
+				18
+			],
+			"loop_name": "loopchallenge keqing",
+			"idle_name": "challenge keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loophappy keqing",
+			"idle_name": "happy keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "nervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopnervous keqing",
+			"idle_name": "nervous keqing"
+		},
+		{
+			"loop_offsets": [
+				-2,
+				0
+			],
+			"anim": "thinking",
+			"idle_offsets": [
+				-2,
+				0
+			],
+			"loop_name": "loopthink keqing",
+			"idle_name": "think keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "looptired keqing",
+			"idle_name": "tired keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "melon",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopmelon keqing",
+			"idle_name": "melon keqing"
+		}
+	]
+}

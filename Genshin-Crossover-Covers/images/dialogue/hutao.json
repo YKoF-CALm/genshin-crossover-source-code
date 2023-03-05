@@ -1,0 +1,63 @@
+{
+	"position": [
+		100,
+		-10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "hutao-dial",
+	"animations": [
+		{
+			"loop_name": "loophappy hutao",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy hutao",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "loopconfused hutao",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused hutao",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "halfcorr hutao",
+			"idle_offsets": [
+				-10,
+				-40
+			],
+			"idle_name": "halfcorr hutao",
+			"anim": "half corrupted",
+			"loop_offsets": [
+				-10,
+				-40
+			]
+		},
+		{
+			"loop_name": "black halfcorr hutao",
+			"idle_offsets": [
+				-10,
+				-40
+			],
+			"idle_name": "black halfcorr hutao",
+			"anim": "black half corrupted",
+			"loop_offsets": [
+				-10,
+				-40
+			]
+		}
+	]
+}

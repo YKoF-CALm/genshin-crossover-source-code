@@ -1,0 +1,141 @@
+{
+	"position": [
+		150,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "ganyu-dial",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				10
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				10
+			],
+			"idle_name": "scared ganyu",
+			"loop_name": "loopscared ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopconfused ganyu",
+			"idle_name": "confused ganyu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopnormal ganyu",
+			"idle_name": "normal ganyu"
+		},
+		{
+			"loop_offsets": [
+				19,
+				2
+			],
+			"anim": "awkward",
+			"idle_offsets": [
+				19,
+				2
+			],
+			"loop_name": "loopawkward ganyu",
+			"idle_name": "awkward ganyu"
+		},
+		{
+			"loop_offsets": [
+				15,
+				0
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				15,
+				0
+			],
+			"loop_name": "looptired ganyu",
+			"idle_name": "tired ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh ganyu",
+			"loop_name": "loopbruh ganyu"
+		},
+		{
+			"idle_offsets": [
+				19,
+				2
+			],
+			"anim": "nervous",
+			"loop_offsets": [
+				19,
+				2
+			],
+			"idle_name": "nervous ganyu",
+			"loop_name": "loopnervous ganyu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal v2",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "normalv2 ganyu",
+			"loop_name": "loopnormalv2 ganyu"
+		},
+		{
+			"idle_offsets": [
+				15,
+				0
+			],
+			"anim": "think",
+			"loop_offsets": [
+				15,
+				0
+			],
+			"idle_name": "think ganyu",
+			"loop_name": "loopthink ganyu"
+		},
+		{
+			"loop_name": "loopserious ganyu",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "serious ganyu",
+			"anim": "serious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hutao-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black halfcorr hutao0000" x="0" y="0" width="363" height="541"/>
+	<SubTexture name="confused hutao0000" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="confused hutao0001" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="confused hutao0002" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="confused hutao0003" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="confused hutao0004" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="confused hutao0005" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="halfcorr hutao0000" x="725" y="0" width="363" height="541"/>
+	<SubTexture name="happy hutao0000" x="724" y="541" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0000" x="1088" y="0" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0001" x="1088" y="0" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0002" x="1450" y="0" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0003" x="1450" y="0" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0004" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="loopconfused hutao0005" x="363" y="0" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0000" x="0" y="541" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0001" x="0" y="541" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0002" x="362" y="541" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0003" x="362" y="541" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0004" x="724" y="541" width="362" height="541"/>
+	<SubTexture name="loophappy hutao0005" x="724" y="541" width="362" height="541"/>
+</TextureAtlas>

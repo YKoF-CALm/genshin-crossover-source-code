@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yanfei-dial.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruh yanfei0000" x="0" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0000" x="353" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0001" x="353" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0002" x="706" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0003" x="706" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0004" x="0" y="0" width="353" height="510"/>
+	<SubTexture name="loopbruh yanfei0005" x="0" y="0" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0000" x="1059" y="0" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0001" x="1059" y="0" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0002" x="1412" y="0" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0003" x="1412" y="0" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0004" x="353" y="1530" width="353" height="510"/>
+	<SubTexture name="loopnervous yanfei0005" x="353" y="1530" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0000" x="0" y="510" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0001" x="0" y="510" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0002" x="353" y="510" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0003" x="353" y="510" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0004" x="706" y="1530" width="353" height="510"/>
+	<SubTexture name="loopnormal yanfei0005" x="706" y="1530" width="353" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0000" x="706" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0001" x="706" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0002" x="1113" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0003" x="1113" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0004" x="1520" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed v2 yanfei0005" x="1520" y="510" width="407" height="510"/>
+	<SubTexture name="looppissed yanfei0000" x="0" y="1020" width="353" height="510"/>
+	<SubTexture name="looppissed yanfei0001" x="0" y="1020" width="353" height="510"/>
+	<SubTexture name="looppissed yanfei0002" x="353" y="1020" width="353" height="510"/>
+	<SubTexture name="looppissed yanfei0003" x="353" y="1020" width="353" height="510"/>
+	<SubTexture name="looppissed yanfei0004" x="706" y="1020" width="353" height="510"/>
+	<SubTexture name="looppissed yanfei0005" x="706" y="1020" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0000" x="1059" y="1020" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0001" x="1059" y="1020" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0002" x="1412" y="1020" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0003" x="1412" y="1020" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0004" x="0" y="1530" width="353" height="510"/>
+	<SubTexture name="looptired yanfei0005" x="0" y="1530" width="353" height="510"/>
+	<SubTexture name="nervous yanfei0000" x="353" y="1530" width="353" height="510"/>
+	<SubTexture name="normal yanfei0000" x="706" y="1530" width="353" height="510"/>
+	<SubTexture name="pissed v2 yanfei0000" x="1520" y="510" width="407" height="510"/>
+	<SubTexture name="pissed yanfei0000" x="706" y="1020" width="353" height="510"/>
+	<SubTexture name="tired yanfei0000" x="0" y="1530" width="353" height="510"/>
+</TextureAtlas>

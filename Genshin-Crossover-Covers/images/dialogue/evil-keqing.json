@@ -1,0 +1,76 @@
+{
+	"position": [
+		100,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "evil-keqing-dial",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "evil keqing",
+			"idle_name": "evil keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "laugh evil keqing",
+			"idle_name": "laugh evil keqing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "black",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dark evil keqing",
+			"idle_name": "dark evil keqing"
+		},
+		{
+			"loop_offsets": [
+				10,
+				0
+			],
+			"anim": "scary",
+			"idle_offsets": [
+				10,
+				0
+			],
+			"loop_name": "scary evil keqing",
+			"idle_name": "scary evil keqing"
+		},
+		{
+			"loop_offsets": [
+				17,
+				0
+			],
+			"anim": "very scary",
+			"idle_offsets": [
+				17,
+				0
+			],
+			"loop_name": "very scary evil keqing",
+			"idle_name": "very scary evil keqing"
+		}
+	]
+}

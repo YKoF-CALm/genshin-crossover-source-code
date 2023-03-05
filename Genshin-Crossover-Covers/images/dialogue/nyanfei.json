@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		30,
+		-40
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "normal nyanfei",
+			"idle_name": "normal nyanfei"
+		},
+		{
+			"idle_offsets": [
+				58,
+				0
+			],
+			"anim": "fire",
+			"loop_offsets": [
+				58,
+				0
+			],
+			"idle_name": "a nyanfei",
+			"loop_name": "a nyanfei"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "surprised nyanfei",
+			"idle_name": "surprised nyanfei"
+		}
+	],
+	"image": "nyanfei-dial"
+}

@@ -1,0 +1,89 @@
+{
+	"position": [
+		160,
+		15
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "xiangling-dial",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "loopnormal xian",
+			"idle_name": "normal xian"
+		},
+		{
+			"loop_name": "loopawkward xian",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "awkward xian",
+			"anim": "awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "looptired xian",
+			"idle_offsets": [
+				-15,
+				0
+			],
+			"idle_name": "tired xian",
+			"anim": "tired",
+			"loop_offsets": [
+				-15,
+				0
+			]
+		},
+		{
+			"loop_name": "loopconftired xian",
+			"idle_offsets": [
+				-15,
+				0
+			],
+			"idle_name": "conftired xian",
+			"anim": "tired confused",
+			"loop_offsets": [
+				-15,
+				0
+			]
+		},
+		{
+			"loop_name": "loopconfused xian",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused xian",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "loophappy xian",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy xian",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
