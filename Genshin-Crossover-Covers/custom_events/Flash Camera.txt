@@ -1,3 +1,4 @@
 Flashes Camera
 
-Value 1: speed
+Value 1: Camera
+Value 2: Flash Color

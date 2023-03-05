@@ -1,0 +1,1 @@
+Use this to spawn a pillar bullet (works only in Bedeviled)

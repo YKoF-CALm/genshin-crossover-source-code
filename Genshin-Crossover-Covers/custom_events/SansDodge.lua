@@ -1,10 +1,13 @@
+local dodgex = 0
+
 function onCreate()
-    Dodge = 0;
+    Dodge = 0
     Color = 0
-    RandomColor = 0;
+    RandomColor = 1
 
     
     makeAnimatedLuaSprite('DodgeAlert2','indie/sans/Sans_Shit_NM',getProperty('boyfriend.x') - 100,getProperty('boyfriend.y') - 50)
+    dodgex = getProperty('DodgeAlert2.x')
 
     addAnimationByPrefix('DodgeAlert2','alertBlue','AlarmBlue instance 1',24,false)
     addAnimationByPrefix('DodgeAlert2','alertOrange','AlarmOrange instance 1',24,false)
@@ -83,8 +86,25 @@ function onEvent(name,value1)
             runTimer('SansAttack',0.8)
             playSound('sans/notice')
             setProperty('DodgeAlert.y',getProperty('boyfriend.y') - 50)
-            setProperty('DodgeAlert2.y',getProperty('boyfriend.y') - 50)
-            triggerEvent('Camera Follow Pos',getProperty('boyfriend.x') - 50,getProperty('boyfriend.y'))
+            if boyfriendName == 'ganyu-indie-nightmare-player' then
+                setProperty('DodgeAlert2.y',getProperty('boyfriend.y') + 300)
+                setProperty('DodgeAlert2.x', getProperty('boyfriend.x') - 150)
+                if not mustHitSection then
+                    triggerEvent('Camera Follow Pos',getProperty('boyfriend.x') - 50,getProperty('boyfriend.y'))
+                end
+            elseif boyfriendName == 'ganyu-mad-player' then
+                setProperty('DodgeAlert2.y',getProperty('boyfriend.y') + 250)
+                setProperty('DodgeAlert2.x', getProperty('boyfriend.x') - 200)
+                if not mustHitSection then
+                    triggerEvent('Camera Follow Pos',getProperty('boyfriend.x') - 50,getProperty('boyfriend.y'))
+                end
+            else
+                setProperty('DodgeAlert2.y',getProperty('boyfriend.y') - 50)
+                setProperty('DodgeAlert2.x', dodgex)
+                if not mustHitSection then
+                    triggerEvent('Camera Follow Pos',getProperty('boyfriend.x') - 50,getProperty('boyfriend.y'))
+                end
+            end
             Dodge = 2
 
             if value1 ~= '' then 
@@ -101,12 +121,13 @@ function onEvent(name,value1)
             if Color == 1 then
             
                 if RandomColor == 1 then
-                Color = 'Blue'
-                objectPlayAnimation('DodgeAlert2','alertBlue')
+                    Color = 'Blue'
+                    objectPlayAnimation('DodgeAlert2','alertBlue')
+                    RandomColor = 0
                 else
-                Color = 'Orange'
-                objectPlayAnimation('DodgeAlert2','alertOrange')
-                
+                    Color = 'Orange'
+                    objectPlayAnimation('DodgeAlert2','alertOrange')
+                    RandomColor = 1
                 end
             end
         end
@@ -134,13 +155,10 @@ function onTimerCompleted(tag)
          
  
              if Dodge == 2 and Color == 'Orange' or Dodge == 1 and Color == 'Blue' then
-             characterPlayAnim('boyfriend','hurt',true)
-             setProperty('boyfriend.specialAnim',true);
-
-                if (getProperty('health') - 1) > -0.1 then
-                    setProperty('health',getProperty('health') - 1)
-                else
-                    runTimer('GameOver',0.35)
+                if boyfriendName ~= 'ganyu-indie-nightmare-player' then
+                    characterPlayAnim('boyfriend','hurt',true)
+                    setProperty('boyfriend.specialAnim',true);
+                    setProperty('health', -1)
                 end
             end
         end
@@ -168,13 +186,15 @@ function onTimerCompleted(tag)
                     setProperty('boyfriend.specialAnim',true)
                 end
 
-                if (getProperty('health') - 1) > -0.1 then
-                    setProperty('health',getProperty('health') - 1)
+                if boyfriendName ~= 'ganyu-indie-nightmare-player' then
+                    if (getProperty('health') - 1) > -0.1 then
+                        setProperty('health',getProperty('health') - 1)
+                    end
+                    if (getProperty('health') - 0.6) < -0.1 then
+                        runTimer('GameOverSans',0.35)
+                    end
+                    Dodge = 0
                 end
-                if (getProperty('health') - 0.6) < -0.1 then
-                    runTimer('GameOverSans',0.35)
-                end
-                Dodge = 0
              end
          end
          
@@ -184,10 +204,6 @@ function onTimerCompleted(tag)
     if tag == 'GameOverSans' then
      setProperty('health',getProperty('health') - 1)
     end
-end
-
-function onStepHit()
-    RandomColor = math.random(0,1)
 end
 
 

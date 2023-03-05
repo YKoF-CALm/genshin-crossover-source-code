@@ -1,0 +1,4 @@
+what is a man
+
+value1 = Text
+value2 = Color

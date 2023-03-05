@@ -1,19 +1,16 @@
 function onEvent(n,v1,v2)
-
-
 	if n == 'Flash Camera' then
+		local cam = "camGame"
+		local color = "FFFFFF"
 
-	   makeLuaSprite('flash', '', 0, 0);
-        makeGraphic('flash',1280,720,'ffffff')
-	      addLuaSprite('flash', true);
-	      setLuaSpriteScrollFactor('flash',0,0)
-	      setProperty('flash.scale.x',2)
-	      setProperty('flash.scale.y',2)
-	      setProperty('flash.alpha',0)
-		setProperty('flash.alpha',1)
-		doTweenAlpha('flTw','flash',0,v1,'linear')
+		if v1 ~= "" then
+			cam = v1
+		end
+
+		if v2 ~= "" then
+			color = v2
+		end
+		
+		cameraFlash(cam, color, 1, true)
 	end
-
-
-
 end
