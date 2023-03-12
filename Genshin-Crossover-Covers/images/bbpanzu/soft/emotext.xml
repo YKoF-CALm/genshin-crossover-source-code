@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emotext.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emotext0000" x="0" y="0" width="281" height="144"/>
+	<SubTexture name="emotext0001" x="0" y="0" width="281" height="144"/>
+	<SubTexture name="emotext0002" x="0" y="144" width="281" height="144"/>
+	<SubTexture name="emotext0003" x="0" y="144" width="281" height="144"/>
+	<SubTexture name="emotext0004" x="0" y="288" width="281" height="144"/>
+	<SubTexture name="emotext0005" x="0" y="288" width="281" height="144"/>
+	<SubTexture name="emotext0006" x="0" y="288" width="281" height="144"/>
+	<SubTexture name="emotext0007" x="0" y="432" width="281" height="144"/>
+	<SubTexture name="emotext0008" x="0" y="432" width="281" height="144"/>
+	<SubTexture name="emotext0009" x="0" y="432" width="281" height="144"/>
+	<SubTexture name="emotext0010" x="0" y="288" width="281" height="144"/>
+	<SubTexture name="emotext0011" x="0" y="288" width="281" height="144"/>
+	<SubTexture name="emotext0012" x="0" y="288" width="281" height="144"/>
+</TextureAtlas>

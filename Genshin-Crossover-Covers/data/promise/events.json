@@ -2,8 +2,8 @@
 	"song": {
 		"speed": 2.7,
 		"stage": "station",
-		"player1": "ben",
-		"player2": "grace",
+		"player1": "ganyu-promise",
+		"player2": "keqing-promise",
 		"player3": null,
 		"events": [
 			[
@@ -657,6 +657,26 @@
 				]
 			],
 			[
+				69606.7415730337,
+				[
+					[
+						"Play Animation",
+						"offended",
+						"gf"
+					]
+				]
+			],
+			[
+				69775.2808988764,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
 				69943.8202247191,
 				[
 					[
@@ -692,6 +712,26 @@
 					[
 						"Set Cam Zoom",
 						"1.1",
+						""
+					]
+				]
+			],
+			[
+				70112.3595505618,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				72808.988764045,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
 						""
 					]
 				]
@@ -773,6 +813,16 @@
 						"Camera Follow Pos",
 						"",
 						""
+					]
+				]
+			],
+			[
+				80898.8764044945,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
 					]
 				]
 			],
@@ -1050,10 +1100,10 @@
 		"notes": [],
 		"splashSkin": "noteSplashes",
 		"validScore": false,
-		"gfVersion": "pico-soft",
+		"gfVersion": "xiao-promise",
 		"bpm": 178,
 		"arrowSkin": "",
 		"needsVoices": true,
-		"song": "promise"
+		"song": "Promise"
 	}
 }

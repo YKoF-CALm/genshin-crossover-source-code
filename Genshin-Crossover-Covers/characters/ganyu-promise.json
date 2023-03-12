@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "thefuckg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				6
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "leftag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-2
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "straightg",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ganyu_Promise",
+	"position": [
+		-20,
+		-70
+	],
+	"healthicon": "ganyu",
+	"flip_x": true,
+	"healthbar_colors": [
+		143,
+		167,
+		239
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

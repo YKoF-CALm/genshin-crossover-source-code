@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="straight text.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="straight text0000" x="0" y="0" width="358" height="171"/>
+	<SubTexture name="straight text0001" x="0" y="0" width="358" height="171"/>
+	<SubTexture name="straight text0002" x="0" y="171" width="358" height="171"/>
+	<SubTexture name="straight text0003" x="0" y="171" width="358" height="171"/>
+	<SubTexture name="straight text0004" x="0" y="342" width="358" height="171"/>
+	<SubTexture name="straight text0005" x="0" y="342" width="358" height="171"/>
+	<SubTexture name="straight text0006" x="0" y="342" width="358" height="171"/>
+	<SubTexture name="straight text0007" x="0" y="513" width="358" height="171"/>
+	<SubTexture name="straight text0008" x="0" y="513" width="358" height="171"/>
+	<SubTexture name="straight text0009" x="0" y="513" width="358" height="171"/>
+	<SubTexture name="straight text0010" x="0" y="342" width="358" height="171"/>
+	<SubTexture name="straight text0011" x="0" y="342" width="358" height="171"/>
+	<SubTexture name="straight text0012" x="0" y="342" width="358" height="171"/>
+</TextureAtlas>

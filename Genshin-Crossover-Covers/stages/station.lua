@@ -16,13 +16,13 @@ addAnimationByIndices('train','opened','train','8',0)
 addLuaSprite('train')
 setScrollFactor('train',0.6,0.6)
 
-makeAnimatedLuaSprite('thugtext','bbpanzu/soft/thugtext',400,514)
-addAnimationByIndices('thugtext','opentext','thugtext','0,1,2,3,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12',24)
+makeAnimatedLuaSprite('thugtext','bbpanzu/soft/emotext',400,514)
+addAnimationByIndices('thugtext','opentext','emotext','0,1,2,3,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12',24)
 addLuaSprite('thugtext',true)
 setProperty('thugtext.visible',false)
 
-makeAnimatedLuaSprite('gaytext','bbpanzu/soft/gaytext',678,430)
-addAnimationByIndices('gaytext','opentext','gaytext','0,1,2,3,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12',24)
+makeAnimatedLuaSprite('gaytext','bbpanzu/soft/straight text',678,430)
+addAnimationByIndices('gaytext','opentext','straight text','0,1,2,3,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12,4,5,6,7,8,9,10,11,12',24)
 addLuaSprite('gaytext',true)
 setProperty('gaytext.visible',false)
 
