@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				450
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				446
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				439
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				470
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				420
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/holy-mami",
+	"position": [
+		-160,
+		270
+	],
+	"healthicon": "holymami",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		140
+	],
+	"camera_position": [
+		-80,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

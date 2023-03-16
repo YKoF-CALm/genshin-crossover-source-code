@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down xiao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up xiao",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				101,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left xiao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY xiao"
+		},
+		{
+			"offsets": [
+				63,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown xiao"
+		},
+		{
+			"offsets": [
+				11,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup xiao"
+		},
+		{
+			"offsets": [
+				45,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright xiao"
+		},
+		{
+			"offsets": [
+				94,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xiao",
+	"position": [
+		140,
+		-15
+	],
+	"healthicon": "xiao",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		173,
+		150
+	],
+	"camera_position": [
+		70,
+		10
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xiao.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEY xiao0000" x="0" y="0" width="390" height="773" frameX="0" frameY="0" frameWidth="391" frameHeight="773"/>
+	<SubTexture name="HEY xiao0001" x="0" y="0" width="390" height="773" frameX="0" frameY="0" frameWidth="391" frameHeight="773"/>
+	<SubTexture name="HEY xiao0002" x="390" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0003" x="390" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0004" x="781" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0005" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0006" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0007" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0008" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0009" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0010" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0011" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0012" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0013" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0014" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0015" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0016" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0017" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0018" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0019" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0020" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0021" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0022" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0023" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0024" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="HEY xiao0025" x="1172" y="0" width="391" height="773"/>
+	<SubTexture name="down xiao0000" x="1563" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0001" x="1563" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0002" x="1972" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0003" x="1972" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0004" x="2381" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0005" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0006" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0007" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0008" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0009" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0010" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0011" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0012" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0013" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0014" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0015" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0016" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0017" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0018" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0019" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0020" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0021" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0022" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0023" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0024" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0025" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0026" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0027" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0028" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0029" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0030" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0031" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0032" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0033" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0034" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0035" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0036" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0037" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0038" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0039" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0040" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0041" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0042" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0043" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0044" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0045" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0046" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="down xiao0047" x="2790" y="0" width="409" height="759"/>
+	<SubTexture name="idle xiao0000" x="3199" y="0" width="376" height="773"/>
+	<SubTexture name="idle xiao0001" x="3199" y="0" width="376" height="773"/>
+	<SubTexture name="idle xiao0002" x="3575" y="0" width="376" height="773"/>
+	<SubTexture name="idle xiao0003" x="3575" y="0" width="376" height="773"/>
+	<SubTexture name="idle xiao0004" x="0" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0005" x="376" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0006" x="752" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0007" x="1128" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0008" x="1504" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0009" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0010" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0011" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0012" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0013" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0014" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="idle xiao0015" x="1880" y="773" width="376" height="773"/>
+	<SubTexture name="left xiao0000" x="2256" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0001" x="2256" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0002" x="2690" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0003" x="2690" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0004" x="3124" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0005" x="3558" y="773" width="434" height="748"/>
+	<SubTexture name="left xiao0006" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0007" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0008" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0009" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0010" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0011" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0012" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0013" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0014" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0015" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0016" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0017" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0018" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0019" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0020" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0021" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0022" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0023" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0024" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0025" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0026" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0027" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0028" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0029" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0030" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0031" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0032" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0033" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0034" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0035" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0036" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0037" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0038" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0039" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0040" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0041" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0042" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0043" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0044" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0045" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="left xiao0046" x="0" y="1546" width="434" height="748"/>
+	<SubTexture name="missdown xiao0000" x="434" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0001" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0002" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0003" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0004" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0005" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0006" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0007" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0008" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0009" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0010" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0011" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0012" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0013" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0014" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0015" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0016" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0017" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0018" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0019" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0020" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0021" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0022" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0023" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0024" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0025" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0026" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0027" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0028" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0029" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0030" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0031" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0032" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0033" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0034" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0035" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0036" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0037" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0038" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0039" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0040" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0041" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0042" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0043" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0044" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0045" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0046" x="843" y="1546" width="409" height="759"/>
+	<SubTexture name="missdown xiao0047" x="1252" y="1546" width="409" height="759"/>
+	<SubTexture name="missleft xiao0000" x="1661" y="1546" width="434" height="748" frameX="0" frameY="0" frameWidth="434" frameHeight="750"/>
+	<SubTexture name="missleft xiao0001" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0002" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0003" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0004" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0005" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0006" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0007" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0008" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0009" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0010" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0011" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0012" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0013" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0014" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0015" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0016" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0017" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0018" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0019" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0020" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0021" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0022" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0023" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0024" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0025" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0026" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0027" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0028" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0029" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0030" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0031" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0032" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0033" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0034" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0035" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0036" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0037" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0038" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0039" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0040" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0041" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0042" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0043" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0044" x="2529" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0045" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missleft xiao0046" x="2095" y="1546" width="434" height="750"/>
+	<SubTexture name="missright xiao0000" x="2963" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0001" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0002" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0003" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0004" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0005" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0006" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0007" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0008" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0009" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0010" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0011" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0012" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0013" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0014" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0015" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0016" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0017" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0018" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0019" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0020" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0021" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0022" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0023" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0024" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0025" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0026" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0027" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0028" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0029" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0030" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0031" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0032" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0033" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0034" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0035" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0036" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0037" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0038" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0039" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0040" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0041" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0042" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0043" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0044" x="0" y="2305" width="408" height="733"/>
+	<SubTexture name="missright xiao0045" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missright xiao0046" x="3371" y="1546" width="408" height="733"/>
+	<SubTexture name="missup xiao0000" x="408" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0001" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0002" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0003" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0004" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0005" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0006" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0007" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0008" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0009" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0010" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0011" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0012" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0013" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0014" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0015" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0016" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0017" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0018" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0019" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0020" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0021" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0022" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0023" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0024" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0025" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0026" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0027" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0028" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0029" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0030" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0031" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0032" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0033" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0034" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0035" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0036" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0037" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0038" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0039" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0040" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0041" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0042" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0043" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0044" x="1198" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0045" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="missup xiao0046" x="803" y="2305" width="395" height="787"/>
+	<SubTexture name="right xiao0000" x="1593" y="2305" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0001" x="2250" y="2305" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0002" x="2907" y="2305" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0003" x="0" y="3092" width="675" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0004" x="675" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0005" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0006" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0007" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0008" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0009" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0010" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0011" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0012" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0013" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0014" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0015" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0016" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0017" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0018" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0019" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0020" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0021" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0022" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0023" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0024" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0025" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0026" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0027" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0028" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0029" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0030" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0031" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0032" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0033" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0034" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0035" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0036" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0037" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0038" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0039" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0040" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0041" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0042" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0043" x="2646" y="3092" width="676" height="733"/>
+	<SubTexture name="right xiao0044" x="3322" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0045" x="1332" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="right xiao0046" x="1989" y="3092" width="657" height="733" frameX="0" frameY="0" frameWidth="676" frameHeight="733"/>
+	<SubTexture name="up xiao0000" x="0" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0001" x="0" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0002" x="395" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0003" x="790" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0004" x="1185" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0005" x="1580" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0006" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0007" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0008" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0009" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0010" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0011" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0012" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0013" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0014" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0015" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0016" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0017" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0018" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0019" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0020" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0021" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0022" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0023" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0024" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0025" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0026" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0027" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0028" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0029" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0030" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0031" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0032" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0033" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0034" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0035" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0036" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0037" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0038" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0039" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0040" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0041" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0042" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0043" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0044" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0045" x="1975" y="3825" width="395" height="787"/>
+	<SubTexture name="up xiao0046" x="1975" y="3825" width="395" height="787"/>
+</TextureAtlas>
