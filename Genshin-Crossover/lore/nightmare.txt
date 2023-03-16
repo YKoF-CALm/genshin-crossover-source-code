@@ -74,3 +74,49 @@ E talent is scaled by 100% of HP
 Q talent is scaled by 500% of HP
 
 Zhongli's Geo DMG can hurt Geo elemental beings, and he deals FULL DMG to them (nothing is immune to his attacks)
+
+Nightmare Keqing talents:
+Normal attack talent: Infused with Electro, will deal an additional instance of Physical DMG as well
+ATK SPD is increased by 50% for both Normal and Charged attacks
+
+Elemental skill: When landing her Stiletto, it will deal a small explosion of Electro DMG
+Tap E: Explodes Stiletto after teleporting, followed by a 360° slash around her, both dealing Electro DMG
+When Keqing teleports, she knocks enemies with Electro DMG while on the way
+Charged attack: Stiletto explodes, lands Electro affliction on enemies, both instances dealing Electro DMG
+This affliction spreads to other enemies and connects them like a circuit
+Once there are no more enemies to spread, affliction is removed via a larger Electro explosion on EACH enemy
+
+Elemental burst: Silhouettes remain as they were after using burst, then explode, dealing Electro DMG
+The burst is sped up by 50%, and grants Keqing the Charged Burst effect for 60s
+Charged Burst:
+Charged attacks are converted into her non-nightmare form Elemental Burst, and don't consume stamina
+Her Nightmare form burst's DMG is basically her non-Nightmare form burst's DMG × number of hits that you deal with the burst (i.e. you're landing a burst for every single hit you do)
+
+Keqing can hurst Electro slimes and specters with her Electro DMG, but those 2 mobs take 50% less DMG
+
+Her Nightmare form gives her an additional passive talent.
+Weak point: Keqing is able to break elemental shields 2 times faster, and she deals 50% more of her usual DMG to opponents with an Electro shield
+(i.e. she's a shieldbreaker, or in some cases can completely ignore shields to kill enemies)
+
+Nightmare Kokomi's talents:
+Normal attack talent: Her attacks can cause enemies to slip and fall, even with elemental shields (i.e. Abyss mages)
+Her normal attacks throw triple attack bursts at enemies rather than a single fish/bubble
+
+Elemental skill: Bake-Kurage has an increased AoE, heals allies to 100% HP instantly, and can also cause enemies to slip and fall
+In addition, it can cause life drain on enemies
+When its duration is up, it will explode quite violently, dealing Hydro DMG, and causing water ripples to go out in a certain AoE, dealing Hydro DMG to enemies along the way
+
+Elemental burst: Using it not only deals Hydro DMG, but will also cause enemies to slip
+When using her burst, all party members will gain temporary max HP, up to 50% of Kokomi's max HP.
+This HP isn't rechargeable, unless if you use Kokomi's burst again
+Her attacks basically deal quadruple DMG when her burst is active
+Her attacks can cause do life drain on opponents, which CAN stack without limit
+Each stack of life drain lasts for 5s
+
+Flawless Strategy: Her 100% decrease in CRIT Rate is no more, and her Healing Bonus is increased to 100%
+
+An additional passive for her when she's in her Nightmare form:
+Flow like Water: Kokomi can not only walk on water, but she can fly as well
+Hold SPACE to ascend upwards. There is a height limit though (about 10m off of the ground below her is the limit)
+
+Constellations: At C6, she's able to quickly escape by throwing a puddle of water before disappearing within it. This regenerates 50% of her HP, and renders her immobile but invulnerable for 10s

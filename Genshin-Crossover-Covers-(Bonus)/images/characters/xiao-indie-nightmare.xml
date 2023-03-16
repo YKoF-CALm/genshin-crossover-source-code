@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xiao-indie-nightmare.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down xiao0000" x="0" y="0" width="523" height="917"/>
+	<SubTexture name="down xiao0001" x="523" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0002" x="1046" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0003" x="1569" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0004" x="2092" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0005" x="2615" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0006" x="3138" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="down xiao0007" x="3661" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
+	<SubTexture name="idle xiao0000" x="4184" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0001" x="4934" y="0" width="752" height="913"/>
+	<SubTexture name="idle xiao0002" x="5686" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0003" x="6436" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0004" x="7186" y="0" width="752" height="913"/>
+	<SubTexture name="idle xiao0005" x="0" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0006" x="750" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0007" x="1500" y="917" width="752" height="913"/>
+	<SubTexture name="idle xiao0008" x="2252" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0009" x="3002" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0010" x="3752" y="917" width="752" height="913"/>
+	<SubTexture name="idle xiao0011" x="4504" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0012" x="5254" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0013" x="6004" y="917" width="752" height="913"/>
+	<SubTexture name="idle xiao0014" x="6756" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0015" x="0" y="1830" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0016" x="750" y="1830" width="752" height="913"/>
+	<SubTexture name="left xiao0000" x="1502" y="1830" width="484" height="919"/>
+	<SubTexture name="left xiao0001" x="1986" y="1830" width="478" height="919" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0002" x="2464" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0003" x="2942" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0004" x="3420" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0005" x="3898" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0006" x="4376" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0007" x="4854" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="right xiao0000" x="5332" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0001" x="6042" y="1830" width="712" height="913"/>
+	<SubTexture name="right xiao0002" x="6754" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0003" x="7464" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0004" x="0" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0005" x="710" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0006" x="1420" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0007" x="2130" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="up xiao0000" x="2840" y="2749" width="460" height="998"/>
+	<SubTexture name="up xiao0001" x="3300" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0002" x="3760" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0003" x="4220" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0004" x="4680" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0005" x="5140" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0006" x="5600" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0007" x="6060" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+</TextureAtlas>

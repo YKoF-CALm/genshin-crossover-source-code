@@ -1,5 +1,7 @@
 The lore in this file corresponds to a Genshin Corruption AU (it's not canon to the mod lore)
 The Corruption started with a lemon-shaped monster infecting a random adventurer
+Hu Tao was one of the first playable characters to be corrupted
+- She was subsequently saved by Zhongli in a last-stand fight in Liyue
 The Corruption works identically to the canon one, however, there are some quirks with it:
 - Visions don't affect a character's ability to resist the Corruption
 - Certain individuals with special powers can slow the spread of the Corruption or weaken its effects, but can't entirely counter the Corruption. This applies to the following:
@@ -14,6 +16,7 @@ The Corruption works identically to the canon one, however, there are some quirk
     - Kujou Sara
     - Aether
     - Lumine
+    - Tighnari
 - Only archons can actively revert the effects of the Corruption, similar to how Daddy Dearest does it
 - The following are the remaining survivors of the Corruption:
     - Mondstadt
@@ -29,6 +32,12 @@ The Corruption works identically to the canon one, however, there are some quirk
         - Yae Miko
         - Sayu
         - Kaedehara Kazuha
+    - Sumeru
+        - Nahida (location unknown)
+        - Tighnari
+        - Collei
+        - Cyno
+        - Candace
     - Outlanders
         - Aloy
         - Aether
@@ -38,4 +47,7 @@ The Corruption REMEMBERS BF (as Monster remembers BF), so when it detects BF or 
 - However, BF IS the Corruption's weakness, and ultimate enemy
 Both Duality and Lament VIP transcribe the events that happened in the AU BEFORE Teyvat fell completely to the Corruption
 Dusk VIP transcribes an event that happened AFTER Teyvat fell to the Corruption
-- Keqing saved Ganyu with the aid of BF, GF and Pico, and plan to head to the Wangshen Funeral Parlor next
+- Keqing saved Ganyu with the aid of BF, GF and Pico, and plan to head to the Wangsheng Funeral Parlor next
+Bedeviled shows the events the transpire after Dusk VIP
+- Essentially, Zhongli mistook Ganyu for an illusion and rap battled her, and caused quite a ruckus
+- Although they cured Hu Tao by accident, the ruckus drew in a corrupted Xiangling, who BF has to confront next

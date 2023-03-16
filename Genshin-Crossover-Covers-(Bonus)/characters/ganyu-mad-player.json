@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singdown ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singright ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singup ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singleft ganyu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown ganyu"
+		},
+		{
+			"offsets": [
+				41,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright ganyu"
+		},
+		{
+			"offsets": [
+				32,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft ganyu"
+		},
+		{
+			"offsets": [
+				48,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				50
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge ganyu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				298,
+				14
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "shoot ganyu",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAD GANYU",
+	"position": [
+		40,
+		40
+	],
+	"healthicon": "ganyu-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		202,
+		235
+	],
+	"camera_position": [
+		200,
+		-20
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

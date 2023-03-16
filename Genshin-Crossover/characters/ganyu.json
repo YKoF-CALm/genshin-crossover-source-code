@@ -1,37 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				59,
 				0
 			],
-			"loop": false,
-			"anim": "singLEFT",
 			"fps": 24,
-			"name": "singleft ganyu",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singleft ganyu"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				-14
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "singdown ganyu",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singdown ganyu"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				17
 			],
-			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "singup ganyu",
+			"anim": "singUP",
+			"indices": [],
+			"name": "singup ganyu"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle ganyu",
 			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY ganyu"
+		},
+		{
+			"offsets": [
+				11,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown ganyu"
+		},
+		{
+			"offsets": [
+				23,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missgup ganyu"
+		},
+		{
+			"offsets": [
+				79,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft ganyu"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright ganyu"
 		},
 		{
 			"offsets": [
@@ -39,31 +105,20 @@
 				3
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "singright ganyu",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
 			"indices": [],
-			"name": "idle ganyu"
+			"name": "singright ganyu"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				5
+				20,
+				7
 			],
-			"anim": "hey",
+			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "HEY ganyu",
+			"name": "sneeze ganyu",
 			"indices": []
 		}
 	],
