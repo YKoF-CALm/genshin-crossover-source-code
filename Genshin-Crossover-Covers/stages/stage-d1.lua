@@ -13,14 +13,15 @@ function onCreate()
 	scaleObject('stagecurtains', 0.9, 0.9);
     scaleObject('stagecurtains', 1.3, 1.3)
 
-    makeLuaSprite('stageoverlay', 'corruption/fcr/dadThing/stageoverlay', 0, 0)
-    setObjectCamera('stageoverlay', 'hud')
-    setBlendMode('stageoverlay', 'add')
+    makeLuaSprite('stageoverlay', 'corruption/fcr/dadThing/stageoverlay', -400, -200)
+    scaleObject('stageoverlay', 2, 2)
+    setBlendMode('stageoverlay', 'multiply')
+    --setProperty('stageoverlay.alpha', 0.8)
 
 	addLuaSprite('stageback', false);
 	addLuaSprite('stagefront', false);
 	addLuaSprite('stagecurtains', true);
-    addLuaSprite('stageoverlay', false)
+    addLuaSprite('stageoverlay', true)
 	
 	close(true);
 end
