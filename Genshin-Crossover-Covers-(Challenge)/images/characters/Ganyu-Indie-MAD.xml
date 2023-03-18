@@ -39,6 +39,22 @@
 	<SubTexture name="idle ganyu0013" x="3227" y="1586" width="461" height="714"/>
 	<SubTexture name="idle ganyu0014" x="3227" y="1586" width="461" height="714"/>
 	<SubTexture name="idle ganyu0015" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0000" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0001" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0002" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0003" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0004" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0005" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0006" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0007" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0008" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0009" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0010" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0011" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0012" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0013" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0014" x="3227" y="1586" width="461" height="714"/>
+	<SubTexture name="idle ganyu т0015" x="3227" y="1586" width="461" height="714"/>
 	<SubTexture name="pewdown ganyu0000" x="3688" y="1586" width="461" height="714"/>
 	<SubTexture name="pewdown ganyu0001" x="4149" y="1586" width="461" height="714"/>
 	<SubTexture name="pewdown ganyu0002" x="4610" y="1586" width="461" height="714"/>
@@ -274,4 +290,12 @@
 	<SubTexture name="wtf ganyu0104" x="1620" y="5924" width="540" height="733"/>
 	<SubTexture name="wtf ganyu0105" x="1620" y="5924" width="540" height="733"/>
 	<SubTexture name="wtf ganyu0106" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0107" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0108" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0109" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0110" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0111" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0112" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0113" x="2160" y="5924" width="540" height="733"/>
+	<SubTexture name="wtf ganyu0114" x="2160" y="5924" width="540" height="733"/>
 </TextureAtlas>

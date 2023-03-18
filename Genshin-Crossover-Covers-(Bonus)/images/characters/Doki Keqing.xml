@@ -274,7 +274,7 @@
 	<SubTexture name="missleft dokeqing0048" x="3512" y="1482" width="389" height="744"/>
 	<SubTexture name="missleft dokeqing0049" x="0" y="2226" width="389" height="744"/>
 	<SubTexture name="missleft dokeqing0050" x="0" y="2226" width="389" height="744"/>
-	<SubTexture name="missright dokeqing0000" x="2955" y="2226" width="455" height="741"/>
+	<SubTexture name="missright dokeqing0000" x="3341" y="2226" width="455" height="741"/>
 	<SubTexture name="missright dokeqing0001" x="389" y="2226" width="472" height="741"/>
 	<SubTexture name="missright dokeqing0002" x="389" y="2226" width="472" height="741"/>
 	<SubTexture name="missright dokeqing0003" x="861" y="2226" width="472" height="741"/>
@@ -324,154 +324,154 @@
 	<SubTexture name="missright dokeqing0047" x="861" y="2226" width="472" height="741"/>
 	<SubTexture name="missright dokeqing0048" x="861" y="2226" width="472" height="741"/>
 	<SubTexture name="missright dokeqing0049" x="1333" y="2226" width="472" height="741"/>
-	<SubTexture name="missup dokeq0000" x="910" y="2970" width="383" height="744"/>
-	<SubTexture name="missup dokeq0001" x="1805" y="2226" width="384" height="744"/>
-	<SubTexture name="missup dokeq0002" x="1805" y="2226" width="384" height="744"/>
-	<SubTexture name="missup dokeq0003" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0004" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0005" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0006" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0007" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0008" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0009" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0010" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0011" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0012" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0013" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0014" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0015" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0016" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0017" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0018" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0019" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0020" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0021" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0022" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0023" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0024" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0025" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0026" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0027" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0028" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0029" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0030" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0031" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0032" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0033" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0034" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0035" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0036" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0037" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0038" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0039" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0040" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0041" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0042" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0043" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0044" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0045" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0046" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0047" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0048" x="2189" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="missup dokeq0049" x="2572" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="384" frameHeight="744"/>
-	<SubTexture name="right dokeqing0000" x="2955" y="2226" width="455" height="741"/>
-	<SubTexture name="right dokeqing0001" x="2955" y="2226" width="455" height="741"/>
-	<SubTexture name="right dokeqing0002" x="3410" y="2226" width="455" height="741"/>
-	<SubTexture name="right dokeqing0003" x="3410" y="2226" width="455" height="741"/>
-	<SubTexture name="right dokeqing0004" x="0" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0005" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0006" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0007" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0008" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0009" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0010" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0011" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0012" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0013" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0014" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0015" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0016" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0017" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0018" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0019" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0020" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0021" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0022" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0023" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0024" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0025" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0026" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0027" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0028" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0029" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0030" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0031" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0032" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0033" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0034" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0035" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0036" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0037" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0038" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0039" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0040" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0041" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0042" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0043" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0044" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0045" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0046" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0047" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0048" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="right dokeqing0049" x="455" y="2970" width="455" height="741"/>
-	<SubTexture name="up dokeq0000" x="910" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0001" x="910" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0002" x="1293" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0003" x="1293" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0004" x="1676" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0005" x="2059" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0006" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0007" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0008" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0009" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0010" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0011" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0012" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0013" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0014" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0015" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0016" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0017" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0018" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0019" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0020" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0021" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0022" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0023" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0024" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0025" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0026" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0027" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0028" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0029" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0030" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0031" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0032" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0033" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0034" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0035" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0036" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0037" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0038" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0039" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0040" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0041" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0042" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0043" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0044" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0045" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0046" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0047" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0048" x="2442" y="2970" width="383" height="744"/>
-	<SubTexture name="up dokeq0049" x="2442" y="2970" width="383" height="744"/>
+	<SubTexture name="missup dokeq0000" x="1805" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0001" x="2188" y="2226" width="387" height="744"/>
+	<SubTexture name="missup dokeq0002" x="2188" y="2226" width="387" height="744"/>
+	<SubTexture name="missup dokeq0003" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0004" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0005" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0006" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0007" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0008" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0009" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0010" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0011" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0012" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0013" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0014" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0015" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0016" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0017" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0018" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0019" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0020" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0021" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0022" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0023" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0024" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0025" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0026" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0027" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0028" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0029" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0030" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0031" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0032" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0033" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0034" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0035" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0036" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0037" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0038" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0039" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0040" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0041" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0042" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0043" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0044" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0045" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0046" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0047" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0048" x="2575" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="missup dokeq0049" x="2958" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="right dokeqing0000" x="3341" y="2226" width="455" height="741"/>
+	<SubTexture name="right dokeqing0001" x="3341" y="2226" width="455" height="741"/>
+	<SubTexture name="right dokeqing0002" x="0" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0003" x="0" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0004" x="455" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0005" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0006" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0007" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0008" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0009" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0010" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0011" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0012" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0013" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0014" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0015" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0016" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0017" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0018" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0019" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0020" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0021" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0022" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0023" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0024" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0025" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0026" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0027" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0028" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0029" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0030" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0031" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0032" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0033" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0034" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0035" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0036" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0037" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0038" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0039" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0040" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0041" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0042" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0043" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0044" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0045" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0046" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0047" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0048" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="right dokeqing0049" x="910" y="2970" width="455" height="741"/>
+	<SubTexture name="up dokeq0000" x="1805" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="up dokeq0001" x="1805" y="2226" width="383" height="744" frameX="0" frameY="0" frameWidth="387" frameHeight="744"/>
+	<SubTexture name="up dokeq0002" x="1365" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0003" x="1365" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0004" x="1748" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0005" x="2131" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0006" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0007" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0008" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0009" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0010" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0011" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0012" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0013" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0014" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0015" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0016" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0017" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0018" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0019" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0020" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0021" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0022" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0023" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0024" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0025" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0026" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0027" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0028" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0029" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0030" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0031" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0032" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0033" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0034" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0035" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0036" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0037" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0038" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0039" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0040" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0041" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0042" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0043" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0044" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0045" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0046" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0047" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0048" x="2514" y="2970" width="383" height="744"/>
+	<SubTexture name="up dokeq0049" x="2514" y="2970" width="383" height="744"/>
 </TextureAtlas>
