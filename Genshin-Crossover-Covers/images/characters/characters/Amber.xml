@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Amber.png"><SubTexture name="Amber Idle0000" x="898" y="734" width="428" height="719" frameX="-91" frameY="-15" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Idle0001" x="0" y="1458" width="432" height="708" frameX="-90" frameY="-25" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Idle0002" x="1326" y="734" width="428" height="719" frameX="-91" frameY="-14" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Idle0003" x="1771" y="0" width="424" height="717" frameX="-94" frameY="-16" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Up0000" x="914" y="0" width="431" height="726" frameX="-92" frameY="-8" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Up0001" x="1345" y="0" width="426" height="724" frameX="-90" frameY="-10" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Down0000" x="0" y="734" width="450" height="724" frameX="-85" frameY="-8" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Down0001" x="450" y="734" width="448" height="724" frameX="-88" frameY="-8" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Right0000" x="0" y="0" width="452" height="734" frameX="-53" frameY="0" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Right0001" x="452" y="0" width="462" height="733" frameX="-54" frameY="-1" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Left0000" x="947" y="1458" width="525" height="690" frameX="-24" frameY="-40" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Left0001" x="947" y="1458" width="525" height="690" frameX="-24" frameY="-40" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Left0002" x="947" y="1458" width="525" height="690" frameX="-24" frameY="-40" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Left0003" x="432" y="1458" width="515" height="695" frameX="-29" frameY="-36" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0000" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0001" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0002" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0003" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0004" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0005" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0006" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+<SubTexture name="Amber Hey0007" x="1771" y="717" width="420" height="714" frameX="-94" frameY="-18" frameWidth="586" frameHeight="753" />
+</TextureAtlas>

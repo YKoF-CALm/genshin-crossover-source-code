@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EVIL KEQING SP1.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down keqing0000" x="0" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0001" x="0" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0002" x="398" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0003" x="796" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0004" x="1194" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0005" x="1592" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0006" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0007" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0008" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0009" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0010" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0011" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0012" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0013" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0014" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0015" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0016" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0017" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0018" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0019" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0020" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0021" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0022" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0023" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0024" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0025" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0026" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0027" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0028" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0029" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0030" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0031" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0032" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0033" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0034" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0035" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0036" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0037" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0038" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0039" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0040" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0041" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0042" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0043" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0044" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0045" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0046" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0047" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0048" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="down keqing0049" x="1990" y="0" width="398" height="728"/>
+	<SubTexture name="idle keqing0000" x="2388" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0001" x="2753" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0002" x="3118" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0003" x="3118" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0004" x="3483" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0005" x="3483" y="0" width="365" height="741"/>
+	<SubTexture name="idle keqing0006" x="0" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0007" x="365" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0008" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0009" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0010" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0011" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0012" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0013" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0014" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="idle keqing0015" x="730" y="741" width="365" height="741"/>
+	<SubTexture name="left keqing0000" x="1095" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0001" x="1095" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0002" x="1476" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0003" x="1476" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0004" x="1857" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0005" x="2238" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0006" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0007" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0008" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0009" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0010" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0011" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0012" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0013" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0014" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0015" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0016" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0017" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0018" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0019" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0020" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0021" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0022" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0023" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0024" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0025" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0026" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0027" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0028" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0029" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0030" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0031" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0032" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0033" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0034" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0035" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0036" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0037" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0038" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0039" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0040" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0041" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0042" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0043" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0044" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0045" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0046" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0047" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0048" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0049" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="left keqing0050" x="2619" y="741" width="381" height="744"/>
+	<SubTexture name="right keqing0000" x="3000" y="741" width="416" height="751"/>
+	<SubTexture name="right keqing0001" x="3000" y="741" width="416" height="751"/>
+	<SubTexture name="right keqing0002" x="3416" y="741" width="416" height="751"/>
+	<SubTexture name="right keqing0003" x="3416" y="741" width="416" height="751"/>
+	<SubTexture name="right keqing0004" x="0" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0005" x="416" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0006" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0007" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0008" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0009" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0010" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0011" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0012" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0013" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0014" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0015" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0016" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0017" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0018" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0019" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0020" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0021" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0022" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0023" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0024" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0025" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0026" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0027" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0028" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0029" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0030" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0031" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0032" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0033" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0034" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0035" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0036" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0037" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0038" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0039" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0040" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0041" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0042" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0043" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0044" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0045" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0046" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0047" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0048" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="right keqing0049" x="832" y="1492" width="416" height="751"/>
+	<SubTexture name="upkeq0000" x="1248" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0001" x="1248" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0002" x="1615" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0003" x="1615" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0004" x="1982" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0005" x="2349" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0006" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0007" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0008" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0009" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0010" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0011" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0012" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0013" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0014" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0015" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0016" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0017" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0018" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0019" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0020" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0021" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0022" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0023" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0024" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0025" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0026" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0027" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0028" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0029" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0030" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0031" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0032" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0033" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0034" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0035" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0036" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0037" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0038" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0039" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0040" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0041" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0042" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0043" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0044" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0045" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0046" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0047" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0048" x="2716" y="1492" width="367" height="744"/>
+	<SubTexture name="upkeq0049" x="2716" y="1492" width="367" height="744"/>
+</TextureAtlas>

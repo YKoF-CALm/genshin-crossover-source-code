@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				-46
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down super keqing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up super keqing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle super keqing"
+		},
+		{
+			"offsets": [
+				-42,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right super keqing"
+		},
+		{
+			"offsets": [
+				34,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left super keqing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SUPER KEQING",
+	"position": [
+		-10,
+		-148
+	],
+	"healthicon": "keqing-super",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		81,
+		202
+	],
+	"camera_position": [
+		20,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

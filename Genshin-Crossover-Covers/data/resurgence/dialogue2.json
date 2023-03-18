@@ -1,0 +1,332 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ngh...",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "happy",
+			"text": "See? All done!",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Nice one, Keqing!",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "Xiao!",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "worry",
+			"text": "G-Ganyu?",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "happy",
+			"text": "Ganyu, you're alri-",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "confused",
+			"text": "Uuf!",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "awkward",
+			"text": "*hugs Xiao*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "worry",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "sad2",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "awkward",
+			"text": "...I've missed you",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "sad",
+			"text": "...me too",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "thinking",
+			"text": "Jeez, get a room already",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "Oh! My apologies, Lady Keqing",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "normal",
+			"text": "I see you've also saved the Yuheng and the chef of Wanmin Restaurant",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "question",
+			"text": "So, what's next?",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "talk",
+			"text": "We need to get a move on. We gotta meet up with the others at the waypoint north of the harbor",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Name's Girlfriend, but you can call me GF. Nice to meet you, Xiao",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "sad",
+			"text": "The feeling's mutual",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "normal",
+			"text": "North of the harbor, right? Let's go",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "confused",
+			"text": "Aren't you tired?",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiangling",
+			"speed": 0.05,
+			"portrait": "xiangling"
+		},
+		{
+			"expression": "normal",
+			"text": "There's no time to rest. We must push on regardless",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "nervous",
+			"text": "Just don't push yourself too far. We're here to help",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "normal",
+			"text": "Just don't stay around me for too long. The karma I posse-",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "worry",
+			"text": "...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm? Xiao?",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "worry",
+			"text": "I...I can't feel the karmic pain anymore",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "nervous",
+			"text": "Huh? But how?",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		},
+		{
+			"expression": "think",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "normal v2",
+			"text": "Perhaps the karma was also a form of corruption?",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "talk",
+			"text": "Or maybe the karma attached itself to the Corruption somehow",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hence, when we essentially eradicated the Corruption from Xiao...",
+			"boxState": "normal",
+			"sound": "dialogue/GFText",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "think",
+			"text": "...you killed my karmic debt along with it",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "sad",
+			"text": "...I guess I'm finally free now",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "glad",
+			"text": "After all these years...",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "normal",
+			"text": "That's good then!",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "normal",
+			"text": "We can finally hang out with the others more!",
+			"boxState": "normal",
+			"sound": "dialogue/dialganyu",
+			"speed": 0.05,
+			"portrait": "ganyu-flipped"
+		},
+		{
+			"expression": "sad",
+			"text": "*sigh* If you insist...",
+			"boxState": "normal",
+			"sound": "dialogue/dialxiao",
+			"speed": 0.05,
+			"portrait": "xiao"
+		},
+		{
+			"expression": "talk",
+			"text": "Catch up's later. Let's move. Now",
+			"boxState": "normal",
+			"sound": "dialogue/dialkeqing",
+			"speed": 0.05,
+			"portrait": "keqing"
+		}
+	]
+}

@@ -10,45 +10,133 @@
 	<SubTexture name="down xiao0005" x="2615" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
 	<SubTexture name="down xiao0006" x="3138" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
 	<SubTexture name="down xiao0007" x="3661" y="0" width="523" height="913" frameX="0" frameY="0" frameWidth="523" frameHeight="917"/>
-	<SubTexture name="idle xiao0000" x="4184" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0001" x="4934" y="0" width="752" height="913"/>
-	<SubTexture name="idle xiao0002" x="5686" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0003" x="6436" y="0" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0004" x="7186" y="0" width="752" height="913"/>
-	<SubTexture name="idle xiao0005" x="0" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0006" x="750" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0007" x="1500" y="917" width="752" height="913"/>
-	<SubTexture name="idle xiao0008" x="2252" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0009" x="3002" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0010" x="3752" y="917" width="752" height="913"/>
-	<SubTexture name="idle xiao0011" x="4504" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0012" x="5254" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0013" x="6004" y="917" width="752" height="913"/>
-	<SubTexture name="idle xiao0014" x="6756" y="917" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0015" x="0" y="1830" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
-	<SubTexture name="idle xiao0016" x="750" y="1830" width="752" height="913"/>
-	<SubTexture name="left xiao0000" x="1502" y="1830" width="484" height="919"/>
-	<SubTexture name="left xiao0001" x="1986" y="1830" width="478" height="919" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0002" x="2464" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0003" x="2942" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0004" x="3420" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0005" x="3898" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0006" x="4376" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="left xiao0007" x="4854" y="1830" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
-	<SubTexture name="right xiao0000" x="5332" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0001" x="6042" y="1830" width="712" height="913"/>
-	<SubTexture name="right xiao0002" x="6754" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0003" x="7464" y="1830" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0004" x="0" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0005" x="710" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0006" x="1420" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="right xiao0007" x="2130" y="2749" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
-	<SubTexture name="up xiao0000" x="2840" y="2749" width="460" height="998"/>
-	<SubTexture name="up xiao0001" x="3300" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0002" x="3760" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0003" x="4220" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0004" x="4680" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0005" x="5140" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0006" x="5600" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
-	<SubTexture name="up xiao0007" x="6060" y="2749" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="edgy line0000" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0001" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0002" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0003" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0004" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0005" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0006" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0007" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0008" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0009" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0010" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0011" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0012" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0013" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0014" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0015" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0016" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0017" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0018" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0019" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0020" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0021" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0022" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0023" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0024" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0025" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0026" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0027" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0028" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0029" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0030" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0031" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0032" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0033" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0034" x="4184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0035" x="4934" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0036" x="4934" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0037" x="5684" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0038" x="6434" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0039" x="7184" y="0" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0040" x="0" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0041" x="750" y="983" width="879" height="983"/>
+	<SubTexture name="edgy line0042" x="1629" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0043" x="2379" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0044" x="3129" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0045" x="3879" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0046" x="1629" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0047" x="2379" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0048" x="3129" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0049" x="3879" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0050" x="1629" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0051" x="2379" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0052" x="3129" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0053" x="3879" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0054" x="1629" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0055" x="2379" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0056" x="3129" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0057" x="3879" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0058" x="4629" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0059" x="5379" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0060" x="6129" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0061" x="6879" y="983" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0062" x="0" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0063" x="750" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0064" x="1500" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0065" x="2250" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0066" x="3000" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0067" x="3750" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0068" x="4500" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0069" x="5250" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0070" x="6000" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0071" x="6750" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0072" x="0" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0073" x="750" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0074" x="1500" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0075" x="2250" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0076" x="3000" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0077" x="3750" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0078" x="4500" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0079" x="5250" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0080" x="6000" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0081" x="6750" y="2949" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0082" x="0" y="3932" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0083" x="3000" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0084" x="3750" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0085" x="4500" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0086" x="5250" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="edgy line0087" x="6000" y="1966" width="750" height="983" frameX="-129" frameY="0" frameWidth="879" frameHeight="983"/>
+	<SubTexture name="idle xiao0000" x="750" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0001" x="1500" y="3932" width="752" height="913"/>
+	<SubTexture name="idle xiao0002" x="2252" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0003" x="3002" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0004" x="3752" y="3932" width="752" height="913"/>
+	<SubTexture name="idle xiao0005" x="4504" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0006" x="5254" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0007" x="6004" y="3932" width="752" height="913"/>
+	<SubTexture name="idle xiao0008" x="6756" y="3932" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0009" x="0" y="4915" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0010" x="750" y="4915" width="752" height="913"/>
+	<SubTexture name="idle xiao0011" x="1502" y="4915" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0012" x="2252" y="4915" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0013" x="3002" y="4915" width="752" height="913"/>
+	<SubTexture name="idle xiao0014" x="3754" y="4915" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0015" x="4504" y="4915" width="750" height="913" frameX="-2" frameY="0" frameWidth="752" frameHeight="913"/>
+	<SubTexture name="idle xiao0016" x="5254" y="4915" width="752" height="913"/>
+	<SubTexture name="left xiao0000" x="6006" y="4915" width="484" height="919"/>
+	<SubTexture name="left xiao0001" x="6490" y="4915" width="478" height="919" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0002" x="6968" y="4915" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0003" x="7446" y="4915" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0004" x="0" y="5834" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0005" x="478" y="5834" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0006" x="956" y="5834" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="left xiao0007" x="1434" y="5834" width="478" height="915" frameX="0" frameY="0" frameWidth="484" frameHeight="919"/>
+	<SubTexture name="right xiao0000" x="1912" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0001" x="2622" y="5834" width="712" height="913"/>
+	<SubTexture name="right xiao0002" x="3334" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0003" x="4044" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0004" x="4754" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0005" x="5464" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0006" x="6174" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="right xiao0007" x="6884" y="5834" width="710" height="913" frameX="0" frameY="0" frameWidth="712" frameHeight="913"/>
+	<SubTexture name="up xiao0000" x="7594" y="5834" width="460" height="998"/>
+	<SubTexture name="up xiao0001" x="0" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0002" x="460" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0003" x="920" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0004" x="1380" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0005" x="1840" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0006" x="2300" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
+	<SubTexture name="up xiao0007" x="2760" y="6832" width="460" height="989" frameX="0" frameY="0" frameWidth="460" frameHeight="998"/>
 </TextureAtlas>

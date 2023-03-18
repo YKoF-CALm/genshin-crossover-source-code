@@ -42,7 +42,12 @@
 					[
 						"Change Character",
 						"0",
-						"keqing-nightmare-player"
+						"keqing-super-player"
+					],
+					[
+						"Change Character",
+						"1",
+						"xiao-evil-sp1"
 					]
 				]
 			],
@@ -108,6 +113,11 @@
 						"Screen Shake",
 						"24, 0.004",
 						""
+					],
+					[
+						"Change Character",
+						"1",
+						"xiao-evil-sp2"
 					]
 				]
 			],
@@ -130,9 +140,9 @@
 						""
 					],
 					[
-						"Change Character",
-						"1",
-						"xiao-lament-tired"
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
 					]
 				]
 			]

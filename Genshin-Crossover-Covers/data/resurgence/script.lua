@@ -2,6 +2,7 @@ local bfx = 0
 local bfy = 0
 local dadx = 0
 local dady = 0
+local allowFlash = true
 
 function onCreate()
     setProperty('boyfriend.y', getProperty('boyfriend.y') + 115)
@@ -22,6 +23,10 @@ function onCreate()
     setObjectCamera('set', 'other')
     makeLuaSprite('go', 'corruption/fcr/go', screenWidth / 4, screenHeight / 4 - 20)
     setObjectCamera('go', 'other')
+
+    makeAnimatedLuaSprite('girlfriend', 'characters/Mad Gf', 900, 400)
+    addAnimationByPrefix('girlfriend', 'idle', 'idle mad gf', 24, false)
+    addLuaSprite('girlfriend', false)
 
     makeAnimatedLuaSprite('ganyu', 'characters/MAD GANYU', 1500, 200)
     addAnimationByPrefix('ganyu', 'idle', 'idle ganyu', 24, false)
@@ -69,24 +74,116 @@ end
 function onBeatHit()
     if curBeat == 128 then
         setProperty('boyfriend.x', bfx - 150)
-        setProperty('boyfriend.y', bfy - 10)
-        cameraFlash('hud', '000000', 0.3, true)
+        setProperty('boyfriend.y', bfy - 180)
+        setProperty('dad.y', dady + 150)
+        if allowFlash then
+            cameraFlash('hud', '000000', 0.3, true)
+        end
         cancelTween('preflash')
         setProperty('preflash.alpha', 0)
     end
 
-    if curBeat == 336 then
-        setProperty('dad.x', dadx)
-        setProperty('dad.y', dady + 240)
+    if curBeat == 288 then
+        setProperty('dad.y', dady + 150)
+    end
+
+    if curBeat == 340 then
+        if allowFlash then
+            cameraFlash('hud', 'FFFFFF', 1, true)
+        end
+        playAnim('dad', 'idle-alt', true)
     end
 
     if curBeat % 2 == 0 then
         playAnim('ganyu', 'idle', true)
+        playAnim('girlfriend', 'idle', true)
+        if getProperty('health') > 0.01 and curBeat >= 128 and curBeat < 340 then
+            setProperty('health', getProperty('health') - 0.01)
+        end
     end
 end
 
 function onStepHit()
     if curStep == 511 then
-        doTweenAlpha('preflash', 'preflash', 1, 0.1, 'quadIn')
+        if allowFlash then
+            doTweenAlpha('preflash', 'preflash', 1, 0.1, 'quadIn')
+        end
+    end
+end
+
+function opponentNoteHit(id, direction, noteType, isSustainNote)
+    if curBeat < 128 and getProperty('health') > 0.03 then
+        setProperty('health', getProperty('health') - 0.03)
+    end
+
+    if curBeat >= 128 and getProperty('health') > 0.015 then
+        setProperty('health', getProperty('health') - 0.015)
+    end
+end
+
+function goodNoteHit(id, direction, noteType, isSustainNote)
+    if curBeat >= 128 then
+        setProperty('health', getProperty('health') + 0.05)
+    end
+end
+
+local dia1 = false
+local dia2 = false
+local blockEnd = true
+
+function onStartCountdown()
+	if not dia1 then
+		setProperty('inCutscene', true)
+		runTimer('startDialogue', 0.8)
+        dia1 = true
+		return Function_Stop;
+	end
+	return Function_Continue;
+end
+
+function onEndSong()
+    setProperty('iconP1.visible', false)
+    setProperty('iconP2.visible', false)
+    setProperty('healthBar.visible', false)
+    setProperty('healthBarBG.visible', false)
+    setProperty('scoreTxt.visible', false)
+    flashAllow = false
+    if blockEnd then
+		if not dia2 then
+			dia2 = true
+        	setProperty('inCutscene', true)
+			runTimer('endDialogue', 0.8)
+		end
+		return Function_Stop;
+	end
+	return Funtion_Continue;
+end
+
+function onNextDialogue(count)
+	if count >= 92 then
+        runTimer('endthethingalready', 20)
+        blockEnd = false
+		cancelTimer('delayEnd')
+	end
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+    if tag == 'startDialogue' then
+		startDialogue('dialogue')
+	end
+
+    if tag == 'endDialogue' then
+		startDialogue('dialogue2')
+        runTimer('delayEnd', 300)
+	end
+
+    if tag == 'delayEnd' then
+		blockEnd = false
+		endSong()
+	end
+
+    if tag == 'endthethingalready' then
+        blockEnd = false
+        endSong()
     end
 end

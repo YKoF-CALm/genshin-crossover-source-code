@@ -1,125 +1,130 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="xiao-dial.png">
+<TextureAtlas imagePath="xiao-lament-dial.png">
 	<!-- Created with Adobe Animate version 18.0.1.115 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="angrythink xiao образец 10000" x="1532" y="0" width="292" height="507"/>
-	<SubTexture name="angrythink2 xiao образец 10000" x="2408" y="0" width="292" height="507"/>
-	<SubTexture name="challenge xiao образец 10000" x="3558" y="0" width="429" height="531"/>
-	<SubTexture name="confused xiao образец 10000" x="584" y="531" width="292" height="507"/>
-	<SubTexture name="happy xiao образец 10000" x="1460" y="531" width="292" height="507"/>
-	<SubTexture name="how xiao образец 10000" x="2390" y="531" width="319" height="507"/>
-	<SubTexture name="how0 xiao образец 10000" x="3347" y="531" width="319" height="507"/>
-	<SubTexture name="lookup xiao образец 10000" x="292" y="1038" width="292" height="507"/>
-	<SubTexture name="loopain xiao образец 10000" x="0" y="0" width="316" height="507"/>
-	<SubTexture name="loopain xiao образец 10001" x="0" y="0" width="316" height="507"/>
-	<SubTexture name="loopain xiao образец 10002" x="316" y="0" width="316" height="507"/>
-	<SubTexture name="loopain xiao образец 10003" x="316" y="0" width="316" height="507"/>
-	<SubTexture name="loopain xiao образец 10004" x="632" y="0" width="316" height="507"/>
-	<SubTexture name="loopain xiao образец 10005" x="632" y="0" width="316" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10000" x="948" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10001" x="948" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10002" x="1240" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10003" x="1240" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10004" x="1532" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink xiao образец 10005" x="1532" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10000" x="1824" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10001" x="1824" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10002" x="2116" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10003" x="2116" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10004" x="2408" y="0" width="292" height="507"/>
-	<SubTexture name="loopangrythink2 xiao образец 10005" x="2408" y="0" width="292" height="507"/>
-	<SubTexture name="loopchallenge xiao образец 10000" x="2700" y="0" width="429" height="531"/>
-	<SubTexture name="loopchallenge xiao образец 10001" x="2700" y="0" width="429" height="531"/>
-	<SubTexture name="loopchallenge xiao образец 10002" x="3129" y="0" width="429" height="531"/>
-	<SubTexture name="loopchallenge xiao образец 10003" x="3129" y="0" width="429" height="531"/>
-	<SubTexture name="loopchallenge xiao образец 10004" x="3558" y="0" width="429" height="531"/>
-	<SubTexture name="loopchallenge xiao образец 10005" x="3558" y="0" width="429" height="531"/>
-	<SubTexture name="loopconfused xiao образец 10000" x="0" y="531" width="292" height="507"/>
-	<SubTexture name="loopconfused xiao образец 10001" x="0" y="531" width="292" height="507"/>
-	<SubTexture name="loopconfused xiao образец 10002" x="292" y="531" width="292" height="507"/>
-	<SubTexture name="loopconfused xiao образец 10003" x="292" y="531" width="292" height="507"/>
-	<SubTexture name="loopconfused xiao образец 10004" x="584" y="531" width="292" height="507"/>
-	<SubTexture name="loopconfused xiao образец 10005" x="584" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10000" x="876" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10001" x="876" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10002" x="1168" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10003" x="1168" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10004" x="1460" y="531" width="292" height="507"/>
-	<SubTexture name="loophappy xiao образец 10005" x="1460" y="531" width="292" height="507"/>
-	<SubTexture name="loophow xiao образец 10000" x="1752" y="531" width="319" height="507"/>
-	<SubTexture name="loophow xiao образец 10001" x="1752" y="531" width="319" height="507"/>
-	<SubTexture name="loophow xiao образец 10002" x="2071" y="531" width="319" height="507"/>
-	<SubTexture name="loophow xiao образец 10003" x="2071" y="531" width="319" height="507"/>
-	<SubTexture name="loophow xiao образец 10004" x="2390" y="531" width="319" height="507"/>
-	<SubTexture name="loophow xiao образец 10005" x="2390" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10000" x="2709" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10001" x="2709" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10002" x="3028" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10003" x="3028" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10004" x="3347" y="531" width="319" height="507"/>
-	<SubTexture name="loophow0 xiao образец 10005" x="3347" y="531" width="319" height="507"/>
-	<SubTexture name="looplookup xiao образец 10000" x="3666" y="531" width="292" height="507"/>
-	<SubTexture name="looplookup xiao образец 10001" x="3666" y="531" width="292" height="507"/>
-	<SubTexture name="looplookup xiao образец 10002" x="0" y="1038" width="292" height="507"/>
-	<SubTexture name="looplookup xiao образец 10003" x="0" y="1038" width="292" height="507"/>
-	<SubTexture name="looplookup xiao образец 10004" x="292" y="1038" width="292" height="507"/>
-	<SubTexture name="looplookup xiao образец 10005" x="292" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10000" x="584" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10001" x="584" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10002" x="876" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10003" x="876" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10004" x="1168" y="1038" width="292" height="507"/>
-	<SubTexture name="loopquestion xiao образец 10005" x="1168" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10000" x="1460" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10001" x="1460" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10002" x="1752" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10003" x="1752" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10004" x="2044" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad xiao образец 10005" x="2044" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10000" x="2336" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10001" x="2336" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10002" x="2628" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10003" x="2628" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10004" x="2920" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad2 xiao образец 10005" x="2920" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10000" x="3212" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10001" x="3212" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10002" x="3504" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10003" x="3504" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10004" x="3796" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsad3 xiao образец 10005" x="3796" y="1038" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10000" x="0" y="1545" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10001" x="0" y="1545" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10002" x="292" y="1545" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10003" x="292" y="1545" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10004" x="584" y="1545" width="292" height="507"/>
-	<SubTexture name="loopsadlook xiao образец 10005" x="584" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10000" x="876" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10001" x="876" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10002" x="1168" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10003" x="1168" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10004" x="1460" y="1545" width="292" height="507"/>
-	<SubTexture name="loopthink xiao образец 10005" x="1460" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10000" x="1752" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10001" x="1752" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10002" x="2044" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10003" x="2044" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10004" x="2336" y="1545" width="292" height="507"/>
-	<SubTexture name="loopverysad xiao образец 10005" x="2336" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10000" x="2628" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10001" x="2628" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10002" x="2920" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10003" x="2920" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10004" x="3212" y="1545" width="292" height="507"/>
-	<SubTexture name="loopworry xiao образец 10005" x="3212" y="1545" width="292" height="507"/>
-	<SubTexture name="pain xiao образец 10000" x="632" y="0" width="316" height="507"/>
-	<SubTexture name="question xiao образец 10000" x="1168" y="1038" width="292" height="507"/>
-	<SubTexture name="sad xiao образец 10000" x="2044" y="1038" width="292" height="507"/>
-	<SubTexture name="sad2 xiao образец 10000" x="2920" y="1038" width="292" height="507"/>
-	<SubTexture name="sad3 xiao образец 10000" x="3796" y="1038" width="292" height="507"/>
-	<SubTexture name="sadlook xiao образец 10000" x="584" y="1545" width="292" height="507"/>
-	<SubTexture name="stare xiao образец 10000" x="3504" y="1545" width="292" height="507"/>
-	<SubTexture name="think xiao образец 10000" x="1460" y="1545" width="292" height="507"/>
-	<SubTexture name="verysad xiao образец 10000" x="2336" y="1545" width="292" height="507"/>
-	<SubTexture name="worry xiao образец 10000" x="3212" y="1545" width="292" height="507"/>
+	<SubTexture name="angrythink xiao0000" x="290" y="530" width="290" height="507"/>
+	<SubTexture name="angrythink2 xiao0000" x="67" y="0" width="290" height="507"/>
+	<SubTexture name="challenge xiao0000" x="357" y="0" width="427" height="530"/>
+	<SubTexture name="confused xiao0000" x="784" y="0" width="290" height="507"/>
+	<SubTexture name="evil xiao0000" x="1074" y="0" width="290" height="507"/>
+	<SubTexture name="evil xiao0001" x="1074" y="0" width="290" height="507"/>
+	<SubTexture name="evil xiao0002" x="1074" y="0" width="290" height="507"/>
+	<SubTexture name="evil xiao0003" x="1074" y="0" width="290" height="507"/>
+	<SubTexture name="happy xiao0000" x="1364" y="0" width="290" height="507"/>
+	<SubTexture name="how xiao0000" x="1654" y="0" width="317" height="507"/>
+	<SubTexture name="how0 xiao0000" x="1971" y="0" width="317" height="507"/>
+	<SubTexture name="lookup xiao0000" x="2288" y="0" width="290" height="507"/>
+	<SubTexture name="loopain xiao0000" x="2578" y="0" width="314" height="507"/>
+	<SubTexture name="loopain xiao0001" x="2578" y="0" width="314" height="507"/>
+	<SubTexture name="loopain xiao0002" x="2892" y="0" width="314" height="507"/>
+	<SubTexture name="loopain xiao0003" x="2892" y="0" width="314" height="507"/>
+	<SubTexture name="loopain xiao0004" x="3206" y="0" width="314" height="507"/>
+	<SubTexture name="loopain xiao0005" x="3206" y="0" width="314" height="507"/>
+	<SubTexture name="loopangrythink xiao0000" x="3520" y="0" width="290" height="507"/>
+	<SubTexture name="loopangrythink xiao0001" x="3520" y="0" width="290" height="507"/>
+	<SubTexture name="loopangrythink xiao0002" x="0" y="530" width="290" height="507"/>
+	<SubTexture name="loopangrythink xiao0003" x="0" y="530" width="290" height="507"/>
+	<SubTexture name="loopangrythink xiao0004" x="290" y="530" width="290" height="507"/>
+	<SubTexture name="loopangrythink xiao0005" x="290" y="530" width="290" height="507"/>
+	<SubTexture name="loopangrythink2 xiao0000" x="580" y="530" width="290" height="507" frameX="0" frameY="0" frameWidth="290" frameHeight="508"/>
+	<SubTexture name="loopangrythink2 xiao0001" x="580" y="530" width="290" height="507" frameX="0" frameY="0" frameWidth="290" frameHeight="508"/>
+	<SubTexture name="loopangrythink2 xiao0002" x="870" y="530" width="290" height="508"/>
+	<SubTexture name="loopangrythink2 xiao0003" x="870" y="530" width="290" height="508"/>
+	<SubTexture name="loopangrythink2 xiao0004" x="67" y="0" width="290" height="507"/>
+	<SubTexture name="loopangrythink2 xiao0005" x="67" y="0" width="290" height="507"/>
+	<SubTexture name="loopchallenge xiao0000" x="1160" y="530" width="427" height="530"/>
+	<SubTexture name="loopchallenge xiao0001" x="1160" y="530" width="427" height="530"/>
+	<SubTexture name="loopchallenge xiao0002" x="1587" y="530" width="427" height="530"/>
+	<SubTexture name="loopchallenge xiao0003" x="1587" y="530" width="427" height="530"/>
+	<SubTexture name="loopchallenge xiao0004" x="357" y="0" width="427" height="530"/>
+	<SubTexture name="loopchallenge xiao0005" x="357" y="0" width="427" height="530"/>
+	<SubTexture name="loopconfused xiao0000" x="2014" y="530" width="290" height="507"/>
+	<SubTexture name="loopconfused xiao0001" x="2014" y="530" width="290" height="507"/>
+	<SubTexture name="loopconfused xiao0002" x="2304" y="530" width="290" height="507"/>
+	<SubTexture name="loopconfused xiao0003" x="2304" y="530" width="290" height="507"/>
+	<SubTexture name="loopconfused xiao0004" x="784" y="0" width="290" height="507"/>
+	<SubTexture name="loopconfused xiao0005" x="784" y="0" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0000" x="2594" y="530" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0001" x="2594" y="530" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0002" x="2884" y="530" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0003" x="2884" y="530" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0004" x="1364" y="0" width="290" height="507"/>
+	<SubTexture name="loophappy xiao0005" x="1364" y="0" width="290" height="507"/>
+	<SubTexture name="loophow xiao0000" x="3174" y="530" width="317" height="507"/>
+	<SubTexture name="loophow xiao0001" x="3174" y="530" width="317" height="507"/>
+	<SubTexture name="loophow xiao0002" x="3491" y="530" width="317" height="507"/>
+	<SubTexture name="loophow xiao0003" x="3491" y="530" width="317" height="507"/>
+	<SubTexture name="loophow xiao0004" x="1654" y="0" width="317" height="507"/>
+	<SubTexture name="loophow xiao0005" x="1654" y="0" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0000" x="0" y="1060" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0001" x="0" y="1060" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0002" x="317" y="1060" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0003" x="317" y="1060" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0004" x="1971" y="0" width="317" height="507"/>
+	<SubTexture name="loophow0 xiao0005" x="1971" y="0" width="317" height="507"/>
+	<SubTexture name="looplookup xiao0000" x="634" y="1060" width="290" height="507"/>
+	<SubTexture name="looplookup xiao0001" x="634" y="1060" width="290" height="507"/>
+	<SubTexture name="looplookup xiao0002" x="924" y="1060" width="290" height="507"/>
+	<SubTexture name="looplookup xiao0003" x="924" y="1060" width="290" height="507"/>
+	<SubTexture name="looplookup xiao0004" x="2288" y="0" width="290" height="507"/>
+	<SubTexture name="looplookup xiao0005" x="2288" y="0" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0000" x="1214" y="1060" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0001" x="1214" y="1060" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0002" x="1504" y="1060" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0003" x="1504" y="1060" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0004" x="1794" y="1060" width="290" height="507"/>
+	<SubTexture name="loopquestion xiao0005" x="1794" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0000" x="2084" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0001" x="2084" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0002" x="2374" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0003" x="2374" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0004" x="2664" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad xiao0005" x="2664" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0000" x="2954" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0001" x="2954" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0002" x="3244" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0003" x="3244" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0004" x="3534" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad2 xiao0005" x="3534" y="1060" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0000" x="0" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0001" x="0" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0002" x="290" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0003" x="290" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0004" x="580" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsad3 xiao0005" x="580" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0000" x="870" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0001" x="870" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0002" x="1160" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0003" x="1160" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0004" x="1450" y="1567" width="290" height="507"/>
+	<SubTexture name="loopsadlook xiao0005" x="1450" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0000" x="1740" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0001" x="1740" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0002" x="2030" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0003" x="2030" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0004" x="2320" y="1567" width="290" height="507"/>
+	<SubTexture name="loopthink xiao0005" x="2320" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0000" x="2610" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0001" x="2610" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0002" x="2900" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0003" x="2900" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0004" x="3190" y="1567" width="290" height="507"/>
+	<SubTexture name="loopverysad xiao0005" x="3190" y="1567" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0000" x="3480" y="1567" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0001" x="3480" y="1567" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0002" x="3770" y="1567" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0003" x="3770" y="1567" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0004" x="0" y="2074" width="290" height="507"/>
+	<SubTexture name="loopworry xiao0005" x="0" y="2074" width="290" height="507"/>
+	<SubTexture name="pain xiao0000" x="3206" y="0" width="314" height="507"/>
+	<SubTexture name="question xiao0000" x="1794" y="1060" width="290" height="507"/>
+	<SubTexture name="sad xiao0000" x="2664" y="1060" width="290" height="507"/>
+	<SubTexture name="sad2 xiao0000" x="3534" y="1060" width="290" height="507"/>
+	<SubTexture name="sad3 xiao0000" x="580" y="1567" width="290" height="507"/>
+	<SubTexture name="sadlook xiao0000" x="1450" y="1567" width="290" height="507"/>
+	<SubTexture name="stare xiao0000" x="290" y="2074" width="290" height="507"/>
+	<SubTexture name="think xiao0000" x="2320" y="1567" width="290" height="507"/>
+	<SubTexture name="verysad xiao0000" x="3190" y="1567" width="290" height="507"/>
+	<SubTexture name="worry xiao0000" x="0" y="2074" width="290" height="507"/>
+	<SubTexture name="xiao ahoge cor0000" x="0" y="0" width="67" height="46"/>
 </TextureAtlas>

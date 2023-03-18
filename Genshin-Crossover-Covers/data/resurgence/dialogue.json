@@ -1,0 +1,428 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "This is more dangerous than I thought",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, we are sneaking through the city after all",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't stress on it too much. Just make our way to the waypoint, and we'll be fine",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey, I dunno if it's just me...",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "nervous",
+			"text": "...but don't you guys think we're being\\nfollowed?",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "confused",
+			"text": "...I don't see anyone on our trail",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "normal",
+			"text": "Still, we'd do best to keep our caution as we mov-",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "shocked",
+			"text": "SHIT!",
+			"boxState": "angry",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "GANYU! DUCK!",
+			"boxState": "angry",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "shocked",
+			"text": "EH!?",
+			"boxState": "angry",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "challenge",
+			"text": "HUAH!",
+			"boxState": "angry",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "pissed",
+			"text": "How DARE you sneak up on us like that!",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "evil",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "xiao-lament",
+			"speed": 0.18,
+			"sound": ""
+		},
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "scared",
+			"text": "I dunno what's worse now, that fact that I'm right, or the fact that the Conquerer of Demons is here now",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "scared",
+			"text": "Corrupted, nonetheless",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "demon",
+			"text": "Xiangling, behind me, NOW!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "nervous",
+			"text": "O-okay",
+			"boxState": "normal",
+			"portrait": "xiangling",
+			"speed": 0.05,
+			"sound": "dialogue/dialxiangling"
+		},
+		{
+			"expression": "nervous",
+			"text": "Oh no, this is bad!",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "nervous",
+			"text": "I don't think we can make it out unscathed, even with the 4 of us against him",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "nervous",
+			"text": "So? Are you saying we can't make it out after all?",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "serious",
+			"text": "Well, maybe not all of us",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "serious",
+			"text": "I'll hold him back, you guys run",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "confused",
+			"text": "After all, I AM the one that made him like...this...",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "pissed",
+			"text": "What!? No! Absolutely not!",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "serious",
+			"text": "Lady Keqing. It's either this or we all fall",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "talk",
+			"text": "Now hold it right there, Cocogoat",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "confused",
+			"text": "...?",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nervous",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, Ganyu, I'm obviously referring to you",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "bruh",
+			"text": "...care to explain that name?",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "confused",
+			"text": "Later",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "talk",
+			"text": "But I have an idea",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "talk",
+			"text": "What if we fight him all at once without fighting him all at once?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "awkward",
+			"text": "Uhh, GF? That doesn't make any sense",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "talk",
+			"text": "We could infuse one of us with some of our powers",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "talk",
+			"text": "That way, while they fight...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "talk",
+			"text": "...the rest of us can hold the line",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "think",
+			"text": "...hmm",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "think",
+			"text": "...that does sound like a solid plan",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "confused",
+			"text": "But who will be the fighter?",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll do it",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh!?",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "thinking",
+			"text": "GF has to protect Xiangling, so both of them are out of our options",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "thinking",
+			"text": "And Ganyu, you're a ranged fighter. You're better suited for passive combat",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "thinking",
+			"text": "We need an active melee fighter for this. Naturally, I'm the best choice",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		},
+		{
+			"expression": "nervous",
+			"text": "Well...if you say so",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, since Keqing is fighting...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "talk",
+			"text": "Ganyu, lend some of your power to her. I'll do the same",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dialogue/GFText"
+		},
+		{
+			"expression": "serious",
+			"text": "O...okay",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "serious",
+			"text": "Good luck, Lady Keqing",
+			"boxState": "normal",
+			"portrait": "ganyu-flipped",
+			"speed": 0.05,
+			"sound": "dialogue/dialganyu"
+		},
+		{
+			"expression": "challenge",
+			"text": "No worries. It'll be over in no time",
+			"boxState": "normal",
+			"portrait": "keqing",
+			"speed": 0.05,
+			"sound": "dialogue/dialkeqing"
+		}
+	]
+}

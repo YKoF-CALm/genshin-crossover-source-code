@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle xiao"
+		},
+		{
+			"offsets": [
+				142,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left xiao"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right xiao"
+		},
+		{
+			"offsets": [
+				36,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down xiao"
+		},
+		{
+			"offsets": [
+				79,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up xiao"
+		},
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "idle saved xiao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EVIL XIAO SP2",
+	"position": [
+		140,
+		50
+	],
+	"healthicon": "evil-xiao-sp1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
