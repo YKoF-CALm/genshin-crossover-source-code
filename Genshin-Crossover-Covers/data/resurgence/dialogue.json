@@ -345,7 +345,7 @@
 			"sound": "dialogue/dialkeqing"
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "Huh!?",
 			"boxState": "normal",
 			"portrait": "ganyu-flipped",
